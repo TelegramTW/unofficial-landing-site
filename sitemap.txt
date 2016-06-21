@@ -40,16 +40,22 @@ http://telegram.how/News/voice-2-secret-3.html
 http://telegram.how/News/channels-2-0.html
 http://telegram.how/MacOSX.html
 http://telegram.how/News/supergroups5k.html
-http://telegram.how/Groups/telegram.html
-http://telegram.how/Groups/Free_software.html
+http://telegram.how/Groups/Animation.html
 http://telegram.how/Groups/Chat.html
-http://telegram.how/Groups/politics.html
+http://telegram.how/Groups/Free_software.html
+http://telegram.how/Groups/games.html
 http://telegram.how/Groups/health.html
 http://telegram.how/Groups/HongKongAndMacao.html
+http://telegram.how/Groups/more.html
+http://telegram.how/Groups/nature.html
 http://telegram.how/Groups/Pets.html
-http://telegram.how/Groups/games.html
-http://telegram.how/Groups/more.thml
+http://telegram.how/Groups/phone.html
+http://telegram.how/Groups/Political_News.html
+http://telegram.how/Groups/politics.html
 http://telegram.how/Groups/programming.html
+http://telegram.how/Groups/technology.html
+http://telegram.how/Groups/telegram.html
+
 
 
 
