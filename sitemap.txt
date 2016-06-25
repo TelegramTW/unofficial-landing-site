@@ -23,6 +23,7 @@ http://telegram.how/News/Active_Sessions_and_Two-Step_Verification.html
 http://telegram.how/News/bot-revolution.html
 http://telegram.how/News/cache-and-stickers.html
 http://telegram.how/News/Custom_Sticker_Sets.html
+http://telegram.how/News/drafts.html
 http://telegram.how/News/gif-revolution.html
 http://telegram.how/News/Growing_Telegram_Together.html
 http://telegram.how/News/In-App_Media_Playback_and_Search_in_Chats.html
