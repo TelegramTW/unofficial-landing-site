@@ -43,6 +43,7 @@ http://telegram.how/MacOSX.html
 http://telegram.how/News/supergroups5k.html
 http://telegram.how/Groups/Animation.html
 http://telegram.how/Groups/Chat.html
+http://telegram.how/Groups/Drawing.html
 http://telegram.how/Groups/Free_software.html
 http://telegram.how/Groups/games.html
 http://telegram.how/Groups/health.html
