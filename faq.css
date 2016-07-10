@@ -1,0 +1,11 @@
+
+body {
+  width: 960px;
+  margin: 0 auto !important;
+  background-color: white;
+  background-repeat: no-repeat;
+  font-size: 11pt;
+  font-family: 'Ubuntu', 'Liberation Sans', sans-serif;
+  color: #333333;
+}
+
