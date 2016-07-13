@@ -1,0 +1,20 @@
+<div class="side_blog_wrap">
+  <a href="/" class="side_blog_header">最新消息</a>
+  <div class="side_blog_entries">
+    {% if page.side_limitation %}
+    {% assign limitation = page.side_limitation %}
+    {% else %}
+    {% assign limitation = 10 %}
+    {% endif %}
+    {% for post in site.posts limit: limitation %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="side_blog_entry">
+      <div class="side_blog_date">{{ post.date | date: "%b %-d, %Y" }}</div>
+      <div class="side_blog_title">{{ post.title }}</div>
+    </a>
+    {% endfor %}
+  </div>
+  <br />
+  <div>
+    <a class="rss-subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">訂閱 RSS</a>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include menu.html %}
+
+<div class="tl_contest_page_wrap">
+  <div class="tl_blog_side_blog">
+    {% include side_blog.html %}
+  </div>
+  <div id="dev_page_content_wrap" class=" ">
+    <div class="dev_page_bread_crumbs"></div>
+    <h1 id="dev_page_title">{{ page.title }}</h1>
+    <div id="dev_page_content">
+      <div class="blog_side_image_wrap"></div>
+      {{ content }}
+      <p class="post-meta">
+        {% if page.date %}
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+        {% endif %}
+        {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
+      </p>
+    </div>
+  </div>
+</div>

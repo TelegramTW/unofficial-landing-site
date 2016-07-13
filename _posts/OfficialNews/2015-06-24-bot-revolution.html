@@ -1,0 +1,103 @@
+---
+layout:     page
+title:      Telegram 機器人平台
+categories: 
+          - 官方新聞
+---
+
+<a href="https://telegram.org/blog/bot-revolution">原文</a>（<a href="/Localize">最新手機版中文化檔案</a>）<br>
+
+<br>
+
+Telegram 幾乎是自由和開放的 – 我們的程式碼就如同我們的 API 一樣，是開放給大家的。今天，我們正走向開放的另一個步：透過推出一個<a href="https://core.telegram.org/bots/api">機器人 API 和平台</a>給第三方開發人員<a href="https://core.telegram.org/bots">創建機器人</a>。<br>
+
+<br>
+
+我們所說的機器人只是通過軟體操作的 Telegram 帳號 - 而不是真的人 - 它們通常會有人工智慧的功能。它們可以做任何事 – 教導、播放、搜尋、廣播、提醒、連接，及與其它服務進行整合，甚至將命令傳遞給<a href="https://zh.wikipedia.org/zh-tw/%E7%89%A9%E8%81%94%E7%BD%91">物聯網</a>。<br>
+
+<br>
+
+<img alt="" src="/images/happy_dog.png"><br>
+
+<br>
+
+今天手機的 Telegram 3.0 版更新，使得與機器人互動變得超簡單。在大多數情況下，您甚至不必輸入任何東西，因為機器人將為您提供一組自訂按鈕。<br>
+
+<br>
+
+<big><big>“&nbsp; 每一個應用程式需要一套稍微優化的專用按鈕。”<br>
+史蒂夫·喬布斯，2007年 iPhone 推出時說的</big></big><br>
+
+<br>
+
+<br>
+
+機器人現在可以為您提供自訂鍵盤，以用於特定的任務。它可能看起來像這樣的例子：<br>
+
+<img alt="" src="/images/hot.png"><br>
+
+<br>
+
+<br>
+
+以下是由平台測試者上週末建立的一些樣本機器人：（用"搜尋"找出這些機器人）<br>
+
+<ul type="square">
+
+  <li><b><a href="https://telegram.me/imagebot">@ImageBot</a></b> – 傳送給這個機器人一個關鍵字，然後它會為您提供相關的圖片。</li>
+  <li><b><a href="https://telegram.me/triviabot">@TriviaBot</a></b> – 測試您的機智問答知識，或將它加入到群組，讓您與朋友進行競賽。<br>
+  </li>
+  <li><b><a href="https://telegram.me/pollbot">@PollBot</a></b> – 加入這機器人到群組聊天室，以建立題目並進行問卷調查。<br>
+  </li>
+  <li><b><a href="https://telegram.me/ratestickerbot">@RateStickerBot</a></b> – 發現新貼圖並給予評分。<br>
+  </li>
+  <li><b><a href="https://telegram.me/alertbot">@AlertBot</a></b> – 設定一個時間及一段文字，這個機器人將在時間到時向您傳送提醒訊息。<br>
+  </li>
+  <li><b><a href="https://telegram.me/hotorbot">@HotOrBot</a></b> – 用這個愛的火苗般的約會機器人找朋友。<br>
+  </li>
+  <li><b><a href="https://telegram.me/githubbot">@GithubBot</a></b> – 追踪 GitHub 上的更新。<br>
+  </li>
+  <li><b><a href="https://telegram.me/storebot">@StoreBot</a></b> – 找到新的機器人並給予評分。</li>
+</ul>
+
+我們的測試者只需要幾個小時來打造這些機器人- 建立一個新的機器人是一件輕而易舉的事。只要用 <b><a href="https://telegram.me/botfather">@BotFather</a></b> 產生一個密鑰，並用一個簡單的 <a href="https://core.telegram.org/bots/api">HTTPS 的 API</a> 來控制您的機器人。如果您是一名工程師，請看看我們<a href="https://core.telegram.org/bots">介紹機器人</a>的詳細資料。<br>
+
+<br>
+
+在 Telegram 中的機器人看起來不同於人類用戶：它們的聊天及個人資料畫面有一點稍微不同，且當它們加入到群組後，預設它們並不會存取<a href="https://core.telegram.org/bots#privacy-mode">所有訊息</a>。<br>
+<h3>
+接管世界</h3>
+
+一旦啟動您的機器人，您將看著它擴散。在 Telegram 中，任何轉寄的訊息中包含一個指向它的原始發送者的連結。這意味著從你的機器人轉寄到個人或群組的任何訊息相當於是一個轉推 - 所以機器人據有病毒的特性。<br>
+
+<br>
+
+此外，所有的機器人在它們的個人資料中都有一個「<b>加入到群組</b>」和一個「<b>分享</b>」的選項。您可以設定「<b>一段描述</b>」以及「<b>一個連結</b>」，當人們在 Telegram 或其它平台分享您的機器人時，那將被使用上。<br>
+
+<br>
+
+<img alt="" src="/images/TriviaBot.png"><br>
+
+<br>
+
+<br>
+
+一指向機器人的典型連結看起來像這樣：<br>
+<br>
+
+<small><small><font color="#4f94cd"><big><big><big><big><big><b>|</b></big></big></big></big></big></font></small></small><a href="https://telegram.me/your_bot">https://telegram.me/your_bot</a><br>
+<br>
+開啟此類連結將開始一個與機器人的聊天，如果您已經安裝了 Telegram。這些連結很容易識別，因為所有的機器人用戶名稱必須以 <b>bot</b> 為結尾。<br>
+<br>
+如果機器人開發人員希望通過他們的機器人傳遞一些額外的資訊（像是例如一個可信的密鑰，請查看<a href="https://core.telegram.org/bots#deep-linking">深度連結</a>），連結也可能是這樣的：<br>
+<br>
+<small><small><font color="#4f94cd"><big><big><big><big><big><b>|</b></big></big></big></big></big></font></small></small><a href="https://telegram.me/your_bot?start=value">https://telegram.me/your_bot?start=value</a><br>
+<h3>機器人來了</h3>
+從今天開始，您會在 Telegram 和其它地方看到像這樣的連結。擁抱它們，它們是機器人！它們將提供那些您要求我們的服務 - 問卷調查、新聞、遊戲、整合、電子管家或貓的圖片。透過機器人，任何夢想可以成真。<br>
+<br>
+
+電報團隊，<br>
+2015年6月24日<br>
+<br>
+<b>P.S.</b> 所有的機器人開發人員歡迎您分享想法給我們的「機器人 API」 <b>@BotSupport </b>。<br>
+<small><small><font color="#4f94cd"><big><big><big><big><big><b>|</b></big></big></big></big></big></font></small></small>您可以在<a href="https://core.telegram.org/bots">機器人的介紹</a>和<a href="https://core.telegram.org/bots/api">機器人 API 手冊</a>中閱讀到更多關於我們機器人平台的資訊<a href="https://core.telegram.org/bots/api"></a>。

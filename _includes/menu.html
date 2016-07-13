@@ -1,0 +1,30 @@
+{% assign menu = site.data.menu %}
+<div id="menu">
+  <ul>
+    {% for m_title in menu %}
+    <li>
+      <a href="#">{{ m_title.title }}</a>
+      <ul>
+        {% for s_menu in m_title.submenu %}
+        <li>
+          {% if s_menu.submenu %}
+          <a href="#">{{ s_menu.title }}</a>
+          <ul>
+            {% for ss_menu in s_menu.submenu %}
+            <li>
+              <a href="{{ ss_menu.link }}">{{ ss_menu.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% else %}
+          <a href="{{ s_menu.link }}">{{ s_menu.title }}</a>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<br />

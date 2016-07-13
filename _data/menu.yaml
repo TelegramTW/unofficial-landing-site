@@ -1,0 +1,98 @@
+- title:   官方資訊
+  submenu:
+  - title: 官方網站
+    link:  https://telegram.org
+  - title: 程式簡介
+    link:  /Description
+  - title: 常見問題解答
+    link:  /FAQ
+  - title: 更新紀錄
+    link:  /Update
+- title:   新聞
+  submenu:
+  - title: 官方新聞
+    link:  /OfficialNews
+  - title: 一般新聞
+    link:  /GeneralNews
+  - title: Twitter新聞
+    submenu:
+    - title: Telegram
+      link:  https://twitter.com/telegram
+    - title: Pavel
+      link:  https://twitter.com/durov
+    - title: TDesktop
+      link:  https://twitter.com/telegramdesktop
+  - title: 頻道新聞
+    submenu:
+    - title: Telegram
+      link:  https://telegram.me/telegram
+    - title: Features
+      link:  https://telegram.me/features
+    - title: desktop
+      link:  https://telegram.me/desktop
+- title:   程式的使用
+  submenu:
+  - title: 中文化手機版
+    link:  /Localize
+  - title: 中文化桌面版
+    link:  /Localized/Desktop.html
+  - title: macOS版中文化
+    link:  /Localized/macOS
+  - title: 網頁版
+    link:  https://web.telegram.org/
+  - title: 原始語言檔
+    link:  /Localized/source
+  - title: 貼圖寶庫
+    link:  /Stickers
+  - title: 非官方版本
+    submenu:
+    - title: Cutegram
+      link:  /程式的使用/非官方版本/2015/08/24/Cutegram.html
+    - title: Plus Messenger
+      link:  /程式的使用/非官方版本/2016/02/16/Plus_Messenger.html
+    - title: Webogram 中文
+      link:  /程式的使用/非官方版本/2015/08/18/Telegram_for_East_Asia.html
+  - title: 機器人商店
+    link:  https://storebot.me/
+- title:   聊天群組
+  submenu:
+  - title: 電報相關
+    link:  /Groups/Telegram
+  - title: 自由軟體
+    link:  /Groups/FreeSoftware
+  - title: 電腦繪圖
+    link:  /Groups/Drawing
+  - title: 尚未分類
+    link:  /Groups/NotClassified
+  - title: 手機相關
+    link:  /Groups/Phone
+  - title: 程式設計
+    link:  /Groups/Programming
+  - title: 網絡技術
+    link:  /Groups/Technology
+  - title: 綜合閒聊
+    link:  /Groups/Chat
+  - title: 動漫群組
+    link:  /Groups/Animation
+  - title: 遊戲娛樂
+    link:  /Groups/Games
+  - title: 政府資訊
+    link:  /Groups/Government
+  - title: 政治相關
+    link:  /Groups/Politics
+  - title: 親近大自然
+    link:  /Groups/Nature
+  - title: 健康相關
+    link:  /Groups/Health
+  - title: 港澳群組
+    link:  /Groups/HongKongAndMacao
+  - title: 寵物相關
+    link:  /Groups/Pets
+  - title: 更多群組
+    link:  /Groups/More
+- title:   說明
+  submenu:
+  - title: 維基百科
+    link:  http://zh.wikipedia.org/wiki/Telegram
+  - title: 關於本站
+    link:  /About

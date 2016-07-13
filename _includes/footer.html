@@ -1,0 +1,32 @@
+<div class="footer_wrap">
+  <div class="footer_columns_wrap clearfix footer_desktop">
+    <div class="footer_column footer_column_telegram">
+      <h5>{{ site.title }}</h5>
+      <div class="footer_telegram_description"></div>
+      {{ site.description }}
+    </div>
+
+    <div class="footer_column">
+      <h5><a href="/faq">關於</a></h5>
+      <ul>
+        <li><a href="/faq">FAQ</a></li>
+      </ul>
+    </div>
+    <div class="footer_column">
+      <h5></h5>
+      <ul>
+        {% if site.github_username %}
+        <li>
+          {% include icon-github.html username=site.github_username %}
+        </li>
+        {% endif %}
+
+        {% if site.twitter_username %}
+        <li>
+          {% include icon-twitter.html username=site.twitter_username %}
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</div>

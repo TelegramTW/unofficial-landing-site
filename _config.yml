@@ -1,0 +1,24 @@
+# Site settings
+title: Telegram 中文支援站
+og_title: Telegram – 新世代的訊息傳遞方式
+short_title: Telegram Chinese
+email: 
+description: >
+  本站主要提供 Telegram 的 "中文資訊" 及 "中文化檔案"
+  Telegram 是一個在行動裝置與一般電腦以雲端為基礎且注重安全與速度的即時通訊軟體
+baseurl: ""
+url: "http://telegram.how/"
+twitter_username: 
+github_username:  TelegramTW
+timezone: Asia/Taipei
+exclude: [ "CNAME", "LICENSE", "README.md" ]
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
