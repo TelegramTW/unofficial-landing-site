@@ -1,22 +1,23 @@
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:image" content="{{ "/img/t_logo.png" | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:site_name" content="{{ site.shortTitle }}">
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | escape }}{% endif %}">
-  <meta property="fb:app_id" content="">
-  <meta property="vk:app_id" content="">
-  <meta name="apple-itunes-app" content="app-id=686449807">
-  <meta name="google-play-app" content="app-id=org.telegram.messenger">
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | escape }}{% endif %}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="canonical" href="{{ page.url | replace: "index.html", "" | prepend: site.baseurl | prepend: site.url }}">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:image" content="{{ "/img/t_logo.png" | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="236" />
+  <meta property="og:image:height" content="236" />
+  <meta property="og:site_name" content="{{ site.shortTitle }}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | escape }}{% endif %}" />
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | escape }}{% endif %}" />
+  <meta name="apple-itunes-app" content="app-id=686449807" />
+  <meta name="google-play-app" content="app-id=org.telegram.messenger" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="canonical" href="{{ page.url | replace: "index.html", "" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon" />
-  <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}" integrity="sha256-8dCD/6pkTHCPEdspcHqlfBkkbm0yZDsD/uP4LBeyJLM=" crossorigin="anonymous">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" media="screen">
+  <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}" integrity="sha256-8dCD/6pkTHCPEdspcHqlfBkkbm0yZDsD/uP4LBeyJLM=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" media="screen" />
   <style>
   </style>
 </head>
