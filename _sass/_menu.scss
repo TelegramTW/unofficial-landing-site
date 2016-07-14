@@ -36,6 +36,9 @@
     /* 內有浮動元件時，需設overflow才會自動調整大小 */
     overflow: auto;
     li {
+      &:nth-child(even) ul li ul {
+        left: -192px * 2;
+      }
       /* 利用float讓第一層li水平排列 */
       float: left;
       a {
@@ -90,6 +93,14 @@
 }
 /* ---------- 隱藏與顯示階層 ---------- */
 #menu ul li {
+  &:hover ul {
+    /* 觸動第一層時，顯示第二層 */
+    visibility: visible;
+    li ul {
+      /* 顯示第二層時，隱藏第三層，避免同時彈出 */
+      visibility: hidden;
+    }
+  }
   ul {
     /* 預先隱藏第二層 */
     visibility: hidden;
@@ -106,14 +117,6 @@
         /* 觸動第三層時，顯示第四層 */
         visibility: visible;
       }
-    }
-  }
-  &:hover ul {
-    /* 觸動第一層時，顯示第二層 */
-    visibility: visible;
-    li ul {
-      /* 顯示第二層時，隱藏第三層，避免同時彈出 */
-      visibility: hidden;
     }
   }
 }
