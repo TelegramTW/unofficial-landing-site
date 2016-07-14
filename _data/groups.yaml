@@ -1,0 +1,257 @@
+- section:         電報相關
+  groups:
+    - title:       中文貼圖討論區
+      link:        https://telegram.me/joinchat/B4ApyzxHRg6PwJoM5cyNFw
+      description: 
+      note:        求貼圖、發布自製貼圖，歡迎光臨 chinese stickers，讓你的訊息更有趣更生動
+    - title:       電報推廣特區
+      link:        https://telegram.me/PublicGroupForzh
+      description: 
+      note:        |
+                   歡迎在這裡討論相關問題。
+                   如果你建立了一個群組...歡迎在這裡宣傳！
+    - title:       電報中文群 (頻道)
+      link:        https://telegram.me/TopicsTW
+      description: 
+      note:        在頻道中記錄"電報推廣特區"中，大家分享的群組
+    - title:       電報機器人應用交流
+      link:        https://telegram.me/joinchat/AtZvGj3ENpFCcWoHsyeXmQ
+      description: 
+      note:        這裡提供場地給大家自由發表相關的話題
+    - title:       電報新聞懶人包
+      link:        https://telegram.me/joinchat/AtZvGj4rGPDI66T3Jx5m9Q
+      description: 
+      note:        
+- section:         自由軟體
+  groups:
+    - title:       Ubuntu 台灣社群
+      link:        https://telegram.me/joinchat/AOHQ2j0Z-V0ZtK-Mlvg88g
+      description: 
+      note:        
+    - title:       Fedora 台灣社群
+      link:        https://telegram.me/joinchat/BGbpBwIdS8gSkbxan-Lvmw
+      description: 
+      note:        
+    - title:       Chakra 臺灣社群
+      link:        https://telegram.me/joinchat/A7-ZgD64XaixhFKD6iduQg
+      description: 
+      note:        
+    - title:       Mozilla 台灣社群
+      link:        https://moztw.org/tg
+      description: 
+      note:        
+    - title:       台北土虱社群
+      link:        https://telegram.me/joinchat/AmWeuTyfn07gdECLSpsRaA
+      description: 
+      note:        
+    - title:       l10n-tw
+      link:        https://telegram.me/l10n_tw
+      description: (自由軟體中文化社群)
+      note:        
+    - title:       非官方 LibreOffice 台灣社群 Telegram 聊天室
+      link:        https://telegram.me/libreoffice_tw
+      description: 
+      note:        
+    - title:       Emer的優化LMDE
+      link:        https://telegram.me/eolmde
+      description: 
+      note:        
+    - title:       TeXnician 中文群組
+      link:        https://telegram.me/TeXnician_zh
+      description: 
+      note:        
+- section:         電腦繪圖
+  groups:
+    - title:       Krita 中文及應用
+      link:        https://telegram.me/joinchat/AtZvGj6B3s9q7zfH1Wetsw
+      description: 
+      note:        
+    - title:       GIMP 中文及應用
+      link:        https://telegram.me/joinchat/AtZvGj6SPCZSnd-MuEFecA
+      description: 
+      note:        
+    - title:       Inkscape 中文及應用
+      link:        https://telegram.me/joinchat/AtZvGj8APEDyYmUJkToHNw
+      description: 
+      note:        
+    - title:       Blender 中文及應用
+      link:        https://telegram.me/joinchat/AtZvGj6yy3ZpakIDCQ2RsA
+      description: 
+      note:        
+- section:         尚未分類
+  groups:
+    - title:       中文維基百科Telegram公共群組
+      link:        https://telegram.me/wikipedia_zh
+      description: 
+      note:        
+- section:         手機相關
+  groups:
+    - title:       iPhone使用交流群
+      link:        https://telegram.me/joinchat/AtZvGj93dJaVpm4QJD9usA
+      description: 
+      note:        
+- section:         程式設計
+  groups:
+    - title:       台灣PHP社區
+      link:        https://telegram.me/PHP_TW
+      description: 
+      note:        
+    - title:       Python 台灣社群
+      link:        https://telegram.me/pythontw
+      description: 
+      note:        
+- section:         網絡技術
+  groups:
+    - title:       免流技术交流群
+      link:        https://telegram.me/Unlimited_Data
+      description: 
+      note:        
+    - title:       6D1B chat (翻牆群組)
+      link:        https://telegram.me/chat6d1b
+      description: 
+      note:        
+- section:         綜合閒聊
+  groups:
+    - title:       汪踢閒聊團
+      link:        https://telegram.me/pttwantedtalk
+      description: 
+      note:        
+    - title:       Future Planet（未來星球）
+      link:        https://telegram.me/joinchat/CUAmQzyxO-YbByrmFG5xQg
+      description: 
+      note:        
+    - title:       台灣聊天室
+      link:        https://telegram.me/joinchat/B4Apyzynbjb6tmHnr2Q7Sw
+      description: 
+      note:        
+    - title:       IT人的生活日常
+      link:        https://telegram.me/joinchat/BLoqUT1lQu6ax3LKycgdtA
+      description: 
+      note:        
+    - title:       十字路口
+      link:        https://telegram.me/joinchat/CYpIqT14_VXCR6e1SZuCzA
+      description: 
+      note:        
+    - title:       台灣 美食美景
+      link:        https://telegram.me/joinchat/CnbvNz3bmca8X5kaXIbMnA
+      description: 
+      note:        
+    - title:       兩岸文化交流
+      link:        https://telegram.me/chinesefreedom
+      description: 
+      note:        
+- section:         動漫群組
+  groups:
+    - title:       ACGN 動漫台灣群
+      link:        https://telegram.me/TaiwanAnime
+      description: 
+      note:        
+    - title:       女性向ACGN繁體交流群
+      link:        https://telegram.me/otometalk
+      description: 
+      note:        
+- section:         遊戲娛樂
+  subgroups:
+    - title:        電報遊戲：
+      groups:
+      - title:       天黑請閉眼睛
+        link:        https://telegram.me/TW_Werewolves
+        description: 
+        note:        
+      - title:       愚民小鎮村
+        link:        https://telegram.me/twWolf
+        description: 
+        note:        
+      - title:       大陸人的小木屋-狼人
+        link:        https://telegram.me/GroupCN
+        description: 
+        note:        
+    - title:        手遊PAD：
+      groups:
+      - title:       パズドラ 台灣社群
+        link:        https://telegram.me/pazudora
+        description: 
+        note:        
+- section:         政府資訊
+  groups:
+    - title:       宜蘭災防救護廣播
+      link:        https://telegram.me/yilanfire
+      description: (單向傳播頻道)
+      note:        
+- section:         政治相關
+  append_markdown: |
+                   看看新聞，了解國家大事： [政治相關的新聞網站](/Groups/PoliticalNews)
+  groups:
+    - title:       Talk everything
+      link:        https://telegram.me/joinchat/Bgklzj7pqmJW7qbiPMIvng
+      description: 
+      note:        
+    - title:       德賽公園
+      link:        https://telegram.me/joinchat/Cp919j0kXKzuKNffihRKFA
+      description: 
+      note:        
+    - title:       大陸政治民生觀察
+      link:        https://telegram.me/joinchat/CeGy1zzACcX7yO5PgCCewg
+      description: 
+      note:        
+    - title:       兩岸四地政治議題
+      link:        https://telegram.me/joinchat/AtZvGjxvS18bbcY4xfPRBw
+      description: 
+      note:        
+- section:         親近大自然
+  groups:
+    - title:       浣花草堂
+      link:        https://telegram.me/plant_growing
+      description: (园艺和植物爱好者聚集地)
+      note:        
+- section:         健康相關
+  groups:
+    - title:       PTT憂鬱症版(非官方)
+      link:        https://telegram.me/joinchat/B4Apyz1RL14L0SsDLA_HFw
+      description: Ptt憂鬱症版版友互相協助的群組
+      note:        
+- section:         港澳群組
+  groups:
+    - title:       港澳群組
+      link:        https://telegram.me/joinchat/AtZvGj0249QK0sW3SZggog
+      description: 
+      note:        
+- section:         寵物相關
+  groups:
+    - title:       "喵星人樂園 <span style='color: #ff9900'>🐈</span><span style='color: red'>🐾</span>"
+      link:        https://telegram.me/joinchat/COpbdz2Yw6y_CGmckW0X-Q
+      description: 
+      note:        |
+                   有養貓、愛貓的貓奴們，快來一起分享主子的趣事及美照吧！
+                   <span style="color: red">♨️</span> 本群不限制簡/繁體，這裡是無國界貓奴星球
+                   <span style="color: red">♨️</span> 禁止隨意張貼與喵星人無關之圖片/廣告，尤其是R-18相關貼圖/圖片
+    - title:       "狗狗導航 <span style='color: #ffcc33'>🐶</span>"
+      link:        https://telegram.me/joinchat/B4Apyz9HTRMZZb_8s0RBGw
+      description: 正體/簡體中文群
+      note:        愛狗人士可以參考一下。純粹想要欣賞可愛狗狗的人也可以加入。
+- section:         更多群組
+  groups:
+    - title:       【群组娘】機器人
+      link:        https://telegram.me/Jqs7Bot
+      description: 中文群组列表机器人
+      note:        
+    - title:       【群组娘广播站】頻道
+      link:        https://telegram.me/joinchat/BT4Qrj2ZA5YSYCegJI0yjQ
+      description: 新群组消息及链接更新消息均会使用广播站发布
+      note:        
+    - title:       【群組導航廣播頻道】頻道
+      link:        https://telegram.me/t_navi_ch
+      description: Telegram 各類群組連結分享
+      note:        
+    - title:       【群組導航】群組
+      link:        https://telegram.me/t_navi_gr
+      description: 分享你新建的群組，或提問 Telegram 相關問題都可以
+      note:        
+    - title:       【電報群組廣播】頻道
+      link:        https://telegram.me/FOCUSTELEGRAMGROUPLINK
+      description: 
+      note:        
+    - title:       【電報群推廣】群組
+      link:        https://telegram.me/joinchat/CbVDpj15AV9gHk375Fze1A
+      description: 
+      note:        

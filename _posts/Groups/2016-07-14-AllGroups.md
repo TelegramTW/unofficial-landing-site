@@ -1,0 +1,38 @@
+---
+layout:     page
+title:      聊天群組
+permalink:  /AllGroups
+---
+
+<div class="container-fluid">
+  <div class="row">
+    {% for g in site.data.groups %}
+    <div class="col-xs-12">
+      <div class="bs-callout bs-callout-danger">
+        <h4>{{ g.section }}</h4>
+        <p>
+          {% if g.prepend_markdown %}{{ g.prepend_markdown | markdownify }}{% endif %}
+          {% if g.subgroups %}
+            {% for sgs in g.subgroups %}
+            <div class="bs-callout bs-callout-info">
+              {% capture lg %}
+#### {{ sgs.title }}
+
+{% include list_groups.md groups=sgs.groups %}
+              {% endcapture %}
+              {{ lg | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+            {% endfor %}
+          {% else %}
+            {% capture lg %}
+{% include list_groups.md groups=g.groups %}
+            {% endcapture %}
+            {{ lg | markdownify | remove: '<p>' | remove: '</p>' }}
+          {% endif %}
+          {% if g.append_markdown %}{{ g.append_markdown | markdownify }}{% endif %}
+        </p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
