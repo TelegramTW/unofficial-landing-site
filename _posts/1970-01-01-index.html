@@ -1,6 +1,7 @@
 ---
 layout: main
 side_limitation: 4
+permalink:  /
 ---
 
 <div class="tl_main_head">
@@ -20,6 +21,7 @@ side_limitation: 4
 
 <div class="blog_entries">
   {% for post in site.posts %}
+  {% if post.url != "/" %}
   <blockquote>
     <div>
       <span class="side_blog_date">{{ post.date | date: "%Y年%m月%d日" }}</span>
@@ -29,5 +31,6 @@ side_limitation: 4
       </a>
     </div>
   </blockquote>
+  {% endif %}
   {% endfor %}
 </div>
