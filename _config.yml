@@ -23,3 +23,13 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+
+# Users settings
+
+fb_app_id: 906706819455651
+itunes_app_id: 686449807
+google_play_app_id: org.telegram.messenger
+og_image: /img/t_logo.png
+og_image_type: image/png
+og_image_width: 236
+og_image_height: 236
