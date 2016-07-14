@@ -36,8 +36,10 @@
     /* 內有浮動元件時，需設overflow才會自動調整大小 */
     overflow: auto;
     li {
-      &:nth-child(even) ul li ul {
-        left: -192px * 2;
+      @media (max-width: 768px) {
+        &:nth-child(even) ul li ul {
+          left: -192px * 2;
+        }
       }
       /* 利用float讓第一層li水平排列 */
       float: left;
