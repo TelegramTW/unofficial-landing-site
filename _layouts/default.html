@@ -4,12 +4,15 @@
   {% include head.html %}
 
   <body>
+    <div id="fb-root"></div>
+      <div class="tl_page_wrap">
 
-    {% include header.html %}
+      {% include header.html %}
 
-    <div class="container clearfix tl_page_container tl_main_page_container">
-      <div class="tl_page">
-        {{ content }}
+      <div class="container clearfix tl_page_container tl_main_page_container">
+        <div class="tl_page">
+          {{ content }}
+        </div>
       </div>
     </div>
 
