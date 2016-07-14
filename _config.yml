@@ -12,6 +12,7 @@ twitter_username:
 github_username:  TelegramTW
 timezone: Asia/Taipei
 exclude: [ "CNAME", "LICENSE", "README.md" ]
+excerpt_separator: "<!--more-->"
 
 gems:
   - jekyll-sitemap
