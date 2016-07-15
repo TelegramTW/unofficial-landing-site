@@ -26,4 +26,32 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" media="screen" />
   <style>
   </style>
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "{{ site.short_title }}",
+    "alternateName": "{{ site.title }}",
+    "url": "{{ '/' | prepend: site.baseurl | prepend: site.url }}"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "{{ '/' | prepend: site.baseurl | prepend: site.url }}",
+    "logo": "{{ sote.og_image | prepend: site.baseurl | prepend: site.url }}"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "{{ site.short_title }}",
+    "url": "{{ '/' | prepend: site.baseurl | prepend: site.url }}",
+    "sameAs": [
+      "https://telegram.org"
+    ]
+  }
+  </script>
 </head>
