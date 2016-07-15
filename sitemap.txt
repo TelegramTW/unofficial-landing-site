@@ -1,5 +1,12 @@
 ---
 layout: null
 ---
+# posts
 {% for m in site.posts reversed %}{{ m.url | prepend: site.baseurl | prepend: site.url | append: "
+" }}{% endfor %}
+# pages
+{% for m in site.pages reversed %}{{ m.url | prepend: site.baseurl | prepend: site.url | append: "
+" }}{% endfor %}
+# statics
+{% for m in site.static_files reversed %}{{ m.path | prepend: site.baseurl | prepend: site.url | append: "
 " }}{% endfor %}
