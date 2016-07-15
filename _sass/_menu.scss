@@ -174,17 +174,6 @@
   }
 }
 
-.tl_page {
-  *:not(#menu) {
-    z-index: -1;
-  }
-  #menu * {
-    z-index: 999;
-  }
-  .tl_main_head * {
-    z-index: 1 !important;
-  }
-}
-.row * {
-  z-index: 1 !important;
+#menu * {
+  z-index: 999;
 }
