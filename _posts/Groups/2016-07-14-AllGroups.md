@@ -2,6 +2,7 @@
 layout:     page
 title:      聊天群組
 permalink:  /AllGroups
+list_off:   true
 ---
 
 <div class="container-fluid">

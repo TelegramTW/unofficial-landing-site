@@ -21,7 +21,7 @@ permalink:  /
 
 <div class="blog_entries">
   {% for post in site.posts %}
-  {% if post.url != "/" %}
+  {% if post.url != "/" and post.list_off != true %}
   <blockquote>
     <div>
       <span class="side_blog_date">{{ post.date | date: "%Y年%m月%d日" }}</span>
