@@ -34,6 +34,7 @@ webrick:
 
 # Users settings
 
+analytics_ua: UA-80820218-1
 fb_app_id: 906706819455651
 itunes_app_id: 686449807
 google_play_app_id: org.telegram.messenger
