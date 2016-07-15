@@ -1,4 +1,4 @@
-<head>
+<head>{% capture description %}{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}{% endcapture %}{% capture description %}{% include strip_spaces.html string=description %}{% endcapture %}{% assign description = description | truncate: 160 %}
   <meta charset="utf-8" />
   <title>{% if page.layout != "main" and page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -13,8 +13,8 @@
   <meta property="og:image:height" content="{{ site.og_image_height }}" />
   <meta property="og:site_name" content="{{ site.short_title }}" />
   <meta property="og:locale" content="zh_Hant" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | escape }}{% endif %}" />
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | escape }}{% endif %}" />
+  <meta property="og:description" content="{{ description }}" />
+  <meta name="description" content="{{ description }}" />
   <meta name="apple-itunes-app" content="app-id={{ site.itunes_app_id }}" />
   <meta name="google-play-app" content="app-id={{ site.google_play_app_id }}" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
