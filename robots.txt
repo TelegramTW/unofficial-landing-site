@@ -1,5 +1,6 @@
 ---
 layout: ~
 ---
+Sitemap: {{ '/sitemap.xml' | prepend: site.url }}
 User-agent: *
 Allow: /

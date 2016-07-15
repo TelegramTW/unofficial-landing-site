@@ -1,0 +1,18 @@
+---
+layout: ~
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- # posts -->
+  {% for m in site.posts reversed %}
+  <url><loc>{{ m.url | prepend: site.baseurl | prepend: site.url }}</loc></url>
+  {% endfor %}
+  <!-- # pages -->
+  {% for m in site.pages reversed %}
+  <url><loc>{{ m.url | prepend: site.baseurl | prepend: site.url }}</loc></url>
+  {% endfor %}
+  <!-- # statics -->
+  {% for m in site.static_files reversed %}
+  <url><loc>{{ m.path | prepend: site.baseurl | prepend: site.url | append: "" }}</loc></url>
+  {% endfor %}
+</urlset>
