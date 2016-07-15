@@ -24,6 +24,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+webrick:
+  headers:
+    X-Test: test
+
 # Users settings
 
 fb_app_id: 906706819455651
