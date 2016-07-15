@@ -1,4 +1,5 @@
 - section:         電報相關
+  anchor:          Telegram
   groups:
     - title:       中文貼圖討論區
       link:        https://telegram.me/joinchat/B4ApyzxHRg6PwJoM5cyNFw
@@ -19,6 +20,7 @@
       description: 
       note:        這裡提供場地給大家自由發表相關的話題
 - section:         自由軟體
+  anchor:          FreeSoftware
   groups:
     - title:       Ubuntu 台灣社群
       link:        https://telegram.me/joinchat/AOHQ2j0Z-V0ZtK-Mlvg88g
@@ -57,6 +59,7 @@
       description: 
       note:        
 - section:         電腦繪圖
+  anchor:          Drawing
   groups:
     - title:       Krita 中文及應用
       link:        https://telegram.me/joinchat/AtZvGj6B3s9q7zfH1Wetsw
@@ -75,18 +78,21 @@
       description: 
       note:        
 - section:         尚未分類
+  anchor:          NotClassified
   groups:
     - title:       中文維基百科Telegram公共群組
       link:        https://telegram.me/wikipedia_zh
       description: 
       note:        
 - section:         手機相關
+  anchor:          Phone
   groups:
     - title:       iPhone使用交流群
       link:        https://telegram.me/joinchat/AtZvGj93dJaVpm4QJD9usA
       description: 
       note:        
 - section:         程式設計
+  anchor:          Programming
   groups:
     - title:       台灣PHP社區
       link:        https://telegram.me/PHP_TW
@@ -97,6 +103,7 @@
       description: 
       note:        
 - section:         網絡技術
+  anchor:          Technology
   groups:
     - title:       免流技术交流群
       link:        https://telegram.me/Unlimited_Data
@@ -107,6 +114,7 @@
       description: 
       note:        
 - section:         綜合閒聊
+  anchor:          Chat
   groups:
     - title:       汪踢閒聊團
       link:        https://telegram.me/pttwantedtalk
@@ -137,6 +145,7 @@
       description: 
       note:        
 - section:         動漫群組
+  anchor:          Animation
   groups:
     - title:       ACGN 動漫台灣群
       link:        https://telegram.me/TaiwanAnime
@@ -147,6 +156,7 @@
       description: 
       note:        
 - section:         遊戲娛樂
+  anchor:          Games
   subgroups:
     - title:        電報遊戲：
       groups:
@@ -169,12 +179,14 @@
         description: 
         note:        
 - section:         政府資訊
+  anchor:          Government
   groups:
     - title:       宜蘭災防救護廣播
       link:        https://telegram.me/yilanfire
       description: (單向傳播頻道)
       note:        
 - section:         政治相關
+  anchor:          Politics
   append_markdown: |
                    看看新聞，了解國家大事： [政治相關的新聞網站](/Groups/PoliticalNews)
   groups:
@@ -195,24 +207,28 @@
       description: 
       note:        
 - section:         親近大自然
+  anchor:          Nature
   groups:
     - title:       浣花草堂
       link:        https://telegram.me/plant_growing
       description: (园艺和植物爱好者聚集地)
       note:        
 - section:         健康相關
+  anchor:          Health
   groups:
     - title:       PTT憂鬱症版(非官方)
       link:        https://telegram.me/joinchat/B4Apyz1RL14L0SsDLA_HFw
       description: Ptt憂鬱症版版友互相協助的群組
       note:        
 - section:         港澳群組
+  anchor:          HongKongAndMacao
   groups:
     - title:       港澳群組
       link:        https://telegram.me/joinchat/AtZvGj0249QK0sW3SZggog
       description: 
       note:        
 - section:         寵物相關
+  anchor:          Pets
   groups:
     - title:       "喵星人樂園 <span style='color: #ff9900'>🐈</span><span style='color: red'>🐾</span>"
       link:        https://telegram.me/joinchat/COpbdz2Yw6y_CGmckW0X-Q
@@ -226,6 +242,7 @@
       description: 正體/簡體中文群
       note:        愛狗人士可以參考一下。純粹想要欣賞可愛狗狗的人也可以加入。
 - section:         更多群組
+  anchor:          More
   groups:
     - title:       【群组娘】機器人
       link:        https://telegram.me/Jqs7Bot

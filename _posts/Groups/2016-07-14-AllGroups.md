@@ -8,6 +8,7 @@ list_off:   true
 <div class="container-fluid">
   <div class="row">
     {% for g in site.data.groups %}
+    <a name="{{ g.anchor }}"></a>
     <div class="col-xs-12">
       <div class="bs-callout bs-callout-danger">
         <h4>{{ g.section }}</h4>
