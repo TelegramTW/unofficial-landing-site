@@ -47,11 +47,11 @@
   - title: 非官方版本
     submenu:
     - title: Cutegram
-      link:  /程式的使用/非官方版本/2015/08/24/Cutegram.html
+      link:  2015-08-24-Cutegram.html
     - title: Plus Messenger
-      link:  /程式的使用/非官方版本/2016/02/16/Plus_Messenger.html
+      link:  2016-02-16-Plus_Messenger.html
     - title: Webogram 中文
-      link:  /程式的使用/非官方版本/2015/08/18/Telegram_for_East_Asia.html
+      link:  2015-08-18-Telegram_for_East_Asia.html
   - title: 機器人商店
     link:  https://storebot.me/
 - title:   聊天群組

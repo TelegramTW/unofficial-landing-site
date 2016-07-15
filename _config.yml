@@ -13,6 +13,7 @@ github_username:  TelegramTW
 timezone: Asia/Taipei
 exclude: [ "CNAME", "LICENSE", "README.md" ]
 excerpt_separator: "<!--more-->"
+permalink: /:year/:month/:day/:title
 
 gems:
   - jekyll-sitemap
@@ -23,6 +24,9 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+
+sass:
+    style: compressed
 
 webrick:
   headers:

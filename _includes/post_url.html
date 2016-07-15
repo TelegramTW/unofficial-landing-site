@@ -1,0 +1,15 @@
+{% assign url = include.link %}{% capture link %}
+{% assign tu1 = url | slice: 0, 1 %}
+{% assign tu7 = url | slice: 0, 7 %}
+{% assign tu8 = url | slice: 0, 8 %}
+{% if tu1 == "/" or tu7 == "http://" or tu8 == "https://" %}
+  {{ url }}
+{% else %}
+  {% for s in site.posts %}
+  {% assign p = s.path | remove_first: '_posts/' %}
+  {% if p == url %}
+  {{ s.url }}
+  {% endif %}
+  {% endfor %}
+{% endif %}
+{% endcapture %}{{ link | strip_html | strip_newlines | strip | escape }}

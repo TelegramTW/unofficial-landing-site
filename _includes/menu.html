@@ -12,12 +12,12 @@
           <ul>
             {% for ss_menu in s_menu.submenu %}
             <li>
-              <a href="{{ ss_menu.link }}">{{ ss_menu.title }}</a>
+              <a href="{% include post_url.html link=ss_menu.link %}">{{ ss_menu.title }}</a>
             </li>
             {% endfor %}
           </ul>
           {% else %}
-          <a href="{{ s_menu.link }}">{{ s_menu.title }}</a>
+          <a href="{% include post_url.html link=s_menu.link %}">{{ s_menu.title }}</a>
           {% endif %}
         </li>
         {% endfor %}
