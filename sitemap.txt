@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: ~
 ---
 # posts
 {% for m in site.posts reversed %}{{ m.url | prepend: site.baseurl | prepend: site.url | append: "
