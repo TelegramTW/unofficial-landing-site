@@ -4,7 +4,6 @@
       <h5>{{ site.title }}</h5>
       <div class="footer_telegram_description">{{ site.description }}</div>
     </div>
-
     <div class="footer_column">
       <h5><a href="/faq">關於</a></h5>
       <ul>
@@ -14,17 +13,7 @@
     <div class="footer_column">
       <h5></h5>
       <ul>
-        {% if site.github_username %}
-        <li>
-          {% include icon-github.html username=site.github_username %}
-        </li>
-        {% endif %}
-
-        {% if site.twitter_username %}
-        <li>
-          {% include icon-twitter.html username=site.twitter_username %}
-        </li>
-        {% endif %}
+        {% if site.github_username %}<li>{% include icon-github.html username=site.github_username %}</li>{% endif %}{% if site.twitter_username %}<li>{% include icon-twitter.html username=site.twitter_username %}</li>{% endif %}
       </ul>
     </div>
   </div>
@@ -38,17 +27,7 @@
     <div class="footer_column">
       <h5></h5>
       <ul>
-        {% if site.github_username %}
-        <li>
-          {% include icon-github.html username=site.github_username %}
-        </li>
-        {% endif %}
-
-        {% if site.twitter_username %}
-        <li>
-          {% include icon-twitter.html username=site.twitter_username %}
-        </li>
-        {% endif %}
+        {% if site.github_username %}<li>{% include icon-github.html username=site.github_username %}</li>{% endif %}{% if site.twitter_username %}<li>{% include icon-twitter.html username=site.twitter_username %}</li>{% endif %}
       </ul>
     </div>
     <div class="footer_column footer_column_telegram">

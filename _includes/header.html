@@ -4,15 +4,13 @@
       <ul class="nav navbar-nav">
         <li>
           <a href="{{ '/' | prepend: site.baseurl }}" style="font-weight: bold; color: #222;">{{ site.title }}</a>
-        </li>
-        {% for h in site.data.header %}
+        </li>{% for h in site.data.header %}
+        {% capture li %}
         {% assign active = nil %}
         {% assign purl = page.url | downcase %}
-        {% if h.link == purl %}
-        {% assign active = "active" %}
-        {% endif %}
+        {% if h.link == purl %}{% assign active = "active" %}{% endif %}
         <li class="{{ active }}"><a href="{{ h.link }}">{{ h.title }}</a></li>
-        {% endfor %}
+        {% endcapture %}{{ li | strip }}{% endfor %}
       </ul>
     </div>
   </div>
