@@ -11,7 +11,7 @@ url: "https://telegram.how"
 twitter_username: 
 github_username:  TelegramTW
 timezone: Asia/Taipei
-exclude: [ "CNAME", "LICENSE", "README.md" ]
+exclude: [ "CNAME", "LICENSE", "README.md", "Gemfile", "Gemfile.lock" ]
 excerpt_separator: "<!--more-->"
 permalink: /:year/:month/:day/:title
 
