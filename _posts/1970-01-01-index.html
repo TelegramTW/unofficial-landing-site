@@ -1,12 +1,11 @@
 ---
 layout: main
-side_limitation: 4
 permalink:  /
 ---
 
 <div class="tl_main_head">
   <div class="tl_main_side_blog">
-    {% include side_blog.html %}
+    {% include side_blog.html side_limitation=4 %}
   </div>
   <div class="tl_main_logo_wrap">
     <a href="/" class="tl_main_logo">
@@ -22,15 +21,28 @@ permalink:  /
 <div class="blog_entries">
   {% for post in site.posts %}
   {% if post.url != "/" and post.list_off != true %}
-  <blockquote>
-    <div>
-      <span class="side_blog_date">{{ post.date | date: "%Y年%m月%d日" }}</span>
-      [{{ post.categories | join: ', ' }}]
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <span class="side_blog_title">{{ post.title }}</span>
-      </a>
+  <div class="row" style="font-size: 12pt;">
+    <div class="col-xs-12">
+      <blockquote>
+        <div>
+          <span class="side_blog_date">{{ post.date | date: "%Y年%m月%d日" }}</span>
+          [{{ post.categories | join: ', ' }}]
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <span class="side_blog_title">{{ post.title }}</span>
+          </a>
+        </div>
+      </blockquote>
     </div>
-  </blockquote>
+    <div class="col-md-12 hidden-xs hidden-sm">
+      <div style="padding-left: 17px; padding-bottom: 20px;">
+        {% assign ctx = post.excerpt | strip_html %}
+        {% capture exc %}{% include strip_spaces.html string=ctx %}{% endcapture %}<div style="display: block-inline;">
+          {{ exc | truncate: 300 }}
+          <div style="display: block-inline; float: right;"><a href="{{ post.url }}">(Read More)</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
   {% endif %}
   {% endfor %}
 </div>

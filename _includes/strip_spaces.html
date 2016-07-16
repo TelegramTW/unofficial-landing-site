@@ -1,3 +1,3 @@
-{% assign sa = include.string | normalize_whitepace | strip_html | strip | split: ' ' %}{% capture result %}
-{% for s in sa %}{% assign l = s | strip %}{% if l | number_of_words != 0 %}{{ l | prepend: ' ' }}{% endif %}{% endfor %}
+{% assign sa = include.string | normalize_whitepace | strip_html | strip | strip_newspaces | split: ' ' %}{% capture result %}
+{% for s in sa %}{% assign l = s | strip | strip_newspaces %}{% if l | number_of_words != 0 %}{{ l | prepend: ' ' }}{% endif %}{% endfor %}
 {% endcapture %}{{ result | strip }}
