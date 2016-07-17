@@ -13,6 +13,9 @@ layout: default
     <h1 id="dev_page_title">{{ page.title }}</h1>
     <div id="dev_page_content">
       <div class="blog_side_image_wrap"></div>
+      {% if page.upstream %}
+      <a href="{{ page.upstream }}">原文</a>
+      {% endif %}
       {{ content }}
       <p class="post-meta">
         {% if page.date %}
