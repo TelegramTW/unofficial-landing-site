@@ -21,62 +21,63 @@
       note:        這裡提供場地給大家自由發表相關的話題
 - section:         自由軟體
   anchor:          FreeSoftware
-  groups:
-    - title:       Ubuntu 台灣社群
-      link:        https://telegram.me/joinchat/AOHQ2j0Z-V0ZtK-Mlvg88g
-      description: 
-      note:        
-    - title:       Fedora 台灣社群
-      link:        https://telegram.me/joinchat/BGbpBwIdS8gSkbxan-Lvmw
-      description: 
-      note:        
-    - title:       Chakra 臺灣社群
-      link:        https://telegram.me/joinchat/A7-ZgD64XaixhFKD6iduQg
-      description: 
-      note:        
-    - title:       Mozilla 台灣社群
-      link:        https://moztw.org/tg
-      description: 
-      note:        
-    - title:       台北土虱社群
-      link:        https://telegram.me/joinchat/AmWeuTyfn07gdECLSpsRaA
-      description: 
-      note:        
-    - title:       l10n-tw
-      link:        https://telegram.me/l10n_tw
-      description: (自由軟體中文化社群)
-      note:        
-    - title:       非官方 LibreOffice 台灣社群 Telegram 聊天室
-      link:        https://telegram.me/libreoffice_tw
-      description: 
-      note:        
-    - title:       Emer的優化LMDE
-      link:        https://telegram.me/eolmde
-      description: 
-      note:        
-    - title:       TeXnician 中文群組
-      link:        https://telegram.me/TeXnician_zh
-      description: 
-      note:        
-- section:         電腦繪圖
-  anchor:          Drawing
-  groups:
-    - title:       Krita 中文及應用
-      link:        https://telegram.me/joinchat/AtZvGj6B3s9q7zfH1Wetsw
-      description: 
-      note:        
-    - title:       GIMP 中文及應用
-      link:        https://telegram.me/joinchat/AtZvGj6SPCZSnd-MuEFecA
-      description: 
-      note:        
-    - title:       Inkscape 中文及應用
-      link:        https://telegram.me/joinchat/AtZvGj8APEDyYmUJkToHNw
-      description: 
-      note:        
-    - title:       Blender 中文及應用
-      link:        https://telegram.me/joinchat/AtZvGj6yy3ZpakIDCQ2RsA
-      description: 
-      note:        
+  subgroups:
+    - title:        作業系統：
+      groups:
+      - title:       Ubuntu 台灣社群
+        link:        https://telegram.me/joinchat/AOHQ2j0Z-V0ZtK-Mlvg88g
+        description: 
+        note:        
+      - title:       Fedora 台灣社群
+        link:        https://telegram.me/joinchat/BGbpBwIdS8gSkbxan-Lvmw
+        description: 
+        note:        
+      - title:       Chakra 臺灣社群
+        link:        https://telegram.me/joinchat/A7-ZgD64XaixhFKD6iduQg
+        description: 
+        note:        
+      - title:       Mozilla 台灣社群
+        link:        https://moztw.org/tg
+        description: 
+        note:        
+      - title:       台北土虱社群
+        link:        https://telegram.me/joinchat/AmWeuTyfn07gdECLSpsRaA
+        description: 
+        note:        
+      - title:       l10n-tw
+        link:        https://telegram.me/l10n_tw
+        description: (自由軟體中文化社群)
+        note:        
+      - title:       非官方 LibreOffice 台灣社群 Telegram 聊天室
+        link:        https://telegram.me/libreoffice_tw
+        description: 
+        note:        
+      - title:       Emer的優化LMDE
+        link:        https://telegram.me/eolmde
+        description: 
+        note:        
+      - title:       TeXnician 中文群組
+        link:        https://telegram.me/TeXnician_zh
+        description: 
+        note:        
+    - title:         電腦繪圖
+      groups:
+      - title:       Krita 中文及應用
+        link:        https://telegram.me/joinchat/AtZvGj6B3s9q7zfH1Wetsw
+        description: 
+        note:        
+      - title:       GIMP 中文及應用
+        link:        https://telegram.me/joinchat/AtZvGj6SPCZSnd-MuEFecA
+        description: 
+        note:        
+      - title:       Inkscape 中文及應用
+        link:        https://telegram.me/joinchat/AtZvGj8APEDyYmUJkToHNw
+        description: 
+        note:        
+      - title:       Blender 中文及應用
+        link:        https://telegram.me/joinchat/AtZvGj6yy3ZpakIDCQ2RsA
+        description: 
+        note:        
 - section:         尚未分類
   anchor:          NotClassified
   groups:
