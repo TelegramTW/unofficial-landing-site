@@ -48,14 +48,8 @@
         link:        https://telegram.me/l10n_tw
         description: (自由軟體中文化社群)
         note:        
-        description: 
-        note:        
       - title:       Emer的優化LMDE
         link:        https://telegram.me/eolmde
-        description: 
-        note:        
-      - title:       TeXnician 中文群組
-        link:        https://telegram.me/TeXnician_zh
         description: 
         note:        
     - title:         電腦繪圖：
@@ -80,7 +74,12 @@
       groups:
       - title:       非官方 LibreOffice 台灣社群 Telegram 聊天室
         link:        https://telegram.me/libreoffice_tw
-      
+        description: 
+        note:  
+      - title:       TeXnician 中文群組
+        link:        https://telegram.me/TeXnician_zh
+        description: 
+        note: 
 - section:         尚未分類
   anchor:          NotClassified
   groups:
