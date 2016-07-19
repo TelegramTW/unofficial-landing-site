@@ -48,8 +48,6 @@
         link:        https://telegram.me/l10n_tw
         description: (自由軟體中文化社群)
         note:        
-      - title:       非官方 LibreOffice 台灣社群 Telegram 聊天室
-        link:        https://telegram.me/libreoffice_tw
         description: 
         note:        
       - title:       Emer的優化LMDE
@@ -77,7 +75,12 @@
       - title:       Blender 中文及應用
         link:        https://telegram.me/joinchat/AtZvGj6yy3ZpakIDCQ2RsA
         description: 
-        note:        
+        note:    
+    - title:         辦公室軟體
+      groups:
+      - title:       非官方 LibreOffice 台灣社群 Telegram 聊天室
+        link:        https://telegram.me/libreoffice_tw
+      
 - section:         尚未分類
   anchor:          NotClassified
   groups:
