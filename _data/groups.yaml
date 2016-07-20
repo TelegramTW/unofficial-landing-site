@@ -19,11 +19,11 @@
       link:        https://telegram.me/joinchat/AtZvGj3ENpFCcWoHsyeXmQ
       description: 
       note:        這裡提供場地給大家自由發表相關的話題
-- section:         自由軟體
-  anchor:          FreeSoftware
+- section:         開源自由
+  anchor:          OpenSource
   subgroups:
-    - title:        作業系統：
-      groups:
+    -title:        台灣社群:
+        groups:
       - title:       Ubuntu 台灣社群
         link:        https://telegram.me/joinchat/AOHQ2j0Z-V0ZtK-Mlvg88g
         description: 
@@ -80,6 +80,16 @@
         link:        https://telegram.me/TeXnician_zh
         description: 
         note: 
+    - title:      程式設計：
+      groups:
+      - title:       台灣PHP社區
+      link:        https://telegram.me/PHP_TW
+      description: 
+      note:        
+      - title:       Python 台灣社群
+      link:        https://telegram.me/pythontw
+      description: 
+      note:      
 - section:         尚未分類
   anchor:          NotClassified
   groups:
@@ -93,18 +103,7 @@
     - title:       iPhone使用交流群
       link:        https://telegram.me/joinchat/AtZvGj93dJaVpm4QJD9usA
       description: 
-      note:        
-- section:         程式設計
-  anchor:          Programming
-  groups:
-    - title:       台灣PHP社區
-      link:        https://telegram.me/PHP_TW
-      description: 
-      note:        
-    - title:       Python 台灣社群
-      link:        https://telegram.me/pythontw
-      description: 
-      note:        
+      note:
 - section:         網絡技術
   anchor:          Technology
   groups:
