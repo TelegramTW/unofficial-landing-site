@@ -90,13 +90,12 @@
         link:        https://telegram.me/pythontw
         description: 
         note:      
-- section:         尚未分類
-  anchor:          NotClassified
-  groups:
-    - title:       中文維基百科Telegram公共群組
-      link:        https://telegram.me/wikipedia_zh
-      description: 
-      note:        
+    - title:      自由內容：      
+      groups:
+      - title:       中文維基百科Telegram公共群組
+        link:        https://telegram.me/wikipedia_zh
+        description: 
+        note:        
 - section:         手機相關
   anchor:          Phone
   groups:
