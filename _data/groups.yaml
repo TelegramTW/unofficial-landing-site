@@ -23,7 +23,7 @@
   anchor:          OpenSource
   subgroups:
     -title:        台灣社群:
-        groups:
+     groups:
       - title:       Ubuntu 台灣社群
         link:        https://telegram.me/joinchat/AOHQ2j0Z-V0ZtK-Mlvg88g
         description: 
@@ -86,7 +86,7 @@
         link:        https://telegram.me/PHP_TW
         description: 
         note:        
-        - title:       Python 台灣社群
+      - title:       Python 台灣社群
         link:        https://telegram.me/pythontw
         description: 
         note:      
