@@ -184,9 +184,7 @@
 - section:         政治政府
   anchor:          PoliticsAndGovernment
   subgroups:
-    - title:       政治相
-      append_markdown: |
-                   看看新聞，了解國家大事： [政治相關的新聞網站](/Groups/PoliticalNews)
+    - title:       政治相關
       groups:
       - title:       Talk everything
         link:        https://telegram.me/joinchat/Bgklzj7pqmJW7qbiPMIvng
