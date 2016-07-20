@@ -58,14 +58,12 @@
   submenu:
   - title: 電報相關
     link:  "/AllGroups#Telegram"
-  - title: 自由軟體
-    link:  "/AllGroups#FreeSoftware"
+  - title: 開源自由
+    link:  "/AllGroups#OpenSource"
   - title: 尚未分類
     link:  "/AllGroups#NotClassified"
   - title: 手機相關
     link:  "/AllGroups#Phone"
-  - title: 程式設計
-    link:  "/AllGroups#Programming"
   - title: 網絡技術
     link:  "/AllGroups#Technology"
   - title: 綜合閒聊
