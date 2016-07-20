@@ -150,7 +150,7 @@
   anchor:          entertainment
   subgroups:
     - title:        動漫群組：
-      groups
+      groups:
       - title:       ACGN 動漫台灣群
         link:        https://telegram.me/TaiwanAnime
         description: 
