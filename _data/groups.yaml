@@ -206,21 +206,18 @@
       - title:       宜蘭災防救護廣播
         link:        https://telegram.me/yilanfire
         description: (單向傳播頻道)
-        note:        
-- section:         親近自然
-  anchor:          Nature
-  groups:
-    - title:       浣花草堂
-      link:        https://telegram.me/plant_growing
-      description: (园艺和植物爱好者聚集地)
-      note:        
+        note:
 - section:         健康生活
   anchor:          Health
   groups:
     - title:       PTT憂鬱症版(非官方)
       link:        https://telegram.me/joinchat/B4Apyz1RL14L0SsDLA_HFw
       description: Ptt憂鬱症版版友互相協助的群組
-      note:        
+      note:
+    - title:       浣花草堂
+      link:        https://telegram.me/plant_growing
+      description: (园艺和植物爱好者聚集地)
+      note:  
 - section:         各地華人
   anchor:          Chinese
   groups:
