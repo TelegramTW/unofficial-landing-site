@@ -8,6 +8,10 @@
     link:  /faq
   - title: 更新紀錄
     link:  /Update
+  - title: 維基百科
+    link:  http://zh.wikipedia.org/wiki/Telegram
+  - title: 關於本站
+    link:  /About  
 - title:   新聞訊息
   submenu:
   - title: 官方新聞
@@ -76,9 +80,4 @@
     link:  "/AllGroups#Pets"
   - title: 更多群組
     link:  "/AllGroups#More"
-- title:   說明簡介
-  submenu:
-  - title: 維基百科
-    link:  http://zh.wikipedia.org/wiki/Telegram
-  - title: 關於本站
-    link:  /About
+  
