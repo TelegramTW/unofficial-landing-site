@@ -8,7 +8,7 @@
     link:  /faq
   - title: 更新紀錄
     link:  /Update
-- title:   新聞
+- title:   新聞訊息
   submenu:
   - title: 官方新聞
     link:  /OfficialNews
@@ -30,7 +30,7 @@
       link:  https://telegram.me/features
     - title: desktop
       link:  https://telegram.me/desktop
-- title:   程式的使用
+- title:   程式應用
   submenu:
   - title: 中文化手機版
     link:  /Localize
@@ -76,7 +76,7 @@
     link:  "/AllGroups#Pets"
   - title: 更多群組
     link:  "/AllGroups#More"
-- title:   說明
+- title:   說    明
   submenu:
   - title: 維基百科
     link:  http://zh.wikipedia.org/wiki/Telegram
