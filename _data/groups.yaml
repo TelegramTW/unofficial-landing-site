@@ -19,6 +19,10 @@
       link:        https://telegram.me/joinchat/AtZvGj3ENpFCcWoHsyeXmQ
       description: 
       note:        這裡提供場地給大家自由發表相關的話題
+    - title:       tg中文推廣群
+      link:        https://telegram.me/tgchinese
+      description: 
+      note:        (由 st.michael 主持)
 - section:         開源自由
   anchor:          OpenSource
   subgroups:
