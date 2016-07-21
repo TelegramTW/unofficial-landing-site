@@ -4,7 +4,7 @@
     link:  https://telegram.org
   - title: 程式簡介
     link:  /Description
-  - title: 常見問題解答
+  - title: 常見問題
     link:  /faq
   - title: 更新紀錄
     link:  /Update
@@ -32,11 +32,11 @@
       link:  https://telegram.me/desktop
 - title:   程式應用
   submenu:
-  - title: 中文化手機版
+  - title: 手機版中文
     link:  /Localize
-  - title: 中文化桌面版
+  - title: 桌面版中文
     link:  /Localized/Desktop.html
-  - title: macOS版中文化
+  - title: macOS 中文
     link:  /Localized/macOS
   - title: 網頁版
     link:  https://web.telegram.org/
