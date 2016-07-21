@@ -152,37 +152,39 @@
       note:
 - section:         影視娛樂
   anchor:          entertainment
-  subgroups:
-    - title:        動漫群組：
-      groups:
-      - title:       ACGN 動漫台灣群
-        link:        https://telegram.me/TaiwanAnime
-        description: 
-        note:        
-      - title:       女性向ACGN繁體交流群
-        link:        https://telegram.me/otometalk
-        description: 
-        note:        
-    - title:        電報遊戲：
-      groups:
-      - title:       天黑請閉眼睛
-        link:        https://telegram.me/TW_Werewolves
-        description: 
-        note:        
-      - title:       愚民小鎮村
-        link:        https://telegram.me/twWolf
-        description: 
-        note:        
-      - title:       大陸人的小木屋-狼人
-        link:        https://telegram.me/GroupCN
-        description: 
-        note:        
-    - title:        手遊PAD：
-      groups:
-      - title:       パズドラ 台灣社群
-        link:        https://telegram.me/pazudora
-        description: 
-        note:        
+  groups:
+    - title:       ACGN 動漫台灣群
+      link:        https://telegram.me/TaiwanAnime
+      description: 
+      note:        
+    - title:       女性向ACGN繁體交流群
+      link:        https://telegram.me/otometalk
+      description: 
+      note:
+    - title:       天黑請閉眼睛
+      link:        https://telegram.me/TW_Werewolves
+      description: 
+      note:       
+    - title:       One Piece 台灣粉絲俱樂部
+      link:        https://telegram.me/One_Piece_Taiwan
+      description: 
+      note:
+    - title:       My Lettle Pony 台灣粉絲俱樂部
+      link:        https://telegram.me/My_Little_Pony_TaiwanFunsClub
+      description: 
+      note:  
+    - title:       愚民小鎮村
+      link:        https://telegram.me/twWolf
+      description: 
+      note:        
+    - title:       大陸人的小木屋-狼人
+      link:        https://telegram.me/GroupCN
+      description: 
+      note:        
+    - title:       パズドラ 台灣社群
+      link:        https://telegram.me/pazudora
+      description: 
+      note:        
 - section:         政治政府
   anchor:          PoliticsAndGovernment
   subgroups:
