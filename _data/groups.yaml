@@ -222,7 +222,11 @@
     - title:       浣花草堂
       link:        https://telegram.me/plant_growing
       description: (园艺和植物爱好者聚集地)
-      note:  
+      note: 
+    - title:       現代精油世界
+      link:        https://telegram.me/mordeneo
+      description: 討論分享現代精油（Essential Oil）的各種應用。
+      note: 
 - section:         各地華人
   anchor:          Chinese
   groups:
