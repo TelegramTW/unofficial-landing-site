@@ -14,7 +14,7 @@
     link:  /OfficialNews
   - title: 一般新聞
     link:  /GeneralNews
-  - title: Twitter新聞
+  - title: 推特新聞
     submenu:
     - title: Telegram
       link:  https://twitter.com/telegram
