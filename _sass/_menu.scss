@@ -38,7 +38,7 @@
     li {
       @media (max-width: 768px) {
         &:nth-child(even) ul li ul {
-          left: -192px * 2;
+          left: -170px * 2;
         }
       }
       /* 利用float讓第一層li水平排列 */
@@ -50,14 +50,14 @@
         float: left;
         /* 固定高度 */
         height: 40px;
-        width: 192px;
+        width: 170px;
         text-align: center;
       }
       ul {
         /* 讓第二層ul跳脫文件流以利定位 */
         position: absolute;
         /* 固定寬度 */
-        width: 192px;
+        width: 170px;
         /* 避免出現捲軸 */
         overflow: visible;
         /* 讓ul與母階層li相同位置 */
@@ -79,7 +79,7 @@
             margin-top: -40px;
             margin-right: 0;
             margin-bottom: 0;
-            margin-left: 192px;
+            margin-left: 170px;
             width: 100%;
             li {
               /* width、float繼承第二層，免設定 */
