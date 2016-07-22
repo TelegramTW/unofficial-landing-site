@@ -20,7 +20,7 @@ list_off:   true
               {% capture lg %}
 #### {{ sgs.title }}
 
-{% include list_groups.md groups=sgs.groups %}
+{% include list_groups.md groups=sgs.groups sgs=sgs %}
               {% endcapture %}
               {{ lg | markdownify | remove: '<p>' | remove: '</p>' }}
             </div>
