@@ -214,6 +214,8 @@
         link:        https://telegram.me/joinchat/AtZvGjxvS18bbcY4xfPRBw
         description:
         note:
+      append_markdown: |
+                     看看新聞，了解國家大事： [政治相關的新聞網站](/Groups/PoliticalNews)  
     - title:      政府資訊   
       groups:
       - title:       宜蘭災防救護廣播
