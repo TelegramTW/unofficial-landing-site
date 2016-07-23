@@ -192,7 +192,11 @@
     - title:            パズドラ 台灣社群
       link:             https://telegram.me/pazudora
       description:      
-      note:             
+      note:  
+    - title:            Undertale
+      link:             https://telegram.me/undertaletaiwan
+      description:      角色扮演遊戲
+      note:
 - section:              政治政府
   anchor:               PoliticsAndGovernment
   subgroups:
