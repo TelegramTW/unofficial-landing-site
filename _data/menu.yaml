@@ -6,8 +6,6 @@
     link:  /Description
   - title: 維基百科
     link:  http://zh.wikipedia.org/wiki/Telegram
-  - title: 關於本站
-    link:  /About 
   - title: 推特新聞
     submenu:
     - title: Telegram
