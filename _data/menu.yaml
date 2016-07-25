@@ -11,13 +11,7 @@
   - title: 維基百科
     link:  http://zh.wikipedia.org/wiki/Telegram
   - title: 關於本站
-    link:  /About  
-- title:   新聞訊息
-  submenu:
-  - title: 官方新聞
-    link:  /OfficialNews
-  - title: 一般新聞
-    link:  /GeneralNews
+    link:  /About 
   - title: 推特新聞
     submenu:
     - title: Telegram
@@ -48,6 +42,8 @@
     link:  /Localized/source
   - title: 貼圖の寶庫
     link:  /Stickers
+  - title: Linux 系統
+    link:  /GeneralNews
   - title: 非官方版本
     submenu:
     - title: Cutegram
