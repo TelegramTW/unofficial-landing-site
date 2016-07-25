@@ -6,22 +6,6 @@
     link:  /Description
   - title: 維基百科
     link:  http://zh.wikipedia.org/wiki/Telegram
-  - title: 推特新聞
-    submenu:
-    - title: Telegram
-      link:  https://twitter.com/telegram
-    - title: Pavel
-      link:  https://twitter.com/durov
-    - title: TDesktop
-      link:  https://twitter.com/telegramdesktop
-  - title: 頻道新聞
-    submenu:
-    - title: Telegram
-      link:  https://telegram.me/telegram
-    - title: Features
-      link:  https://telegram.me/features
-    - title: desktop
-      link:  https://telegram.me/desktop
 - title:   程式應用
   submenu:
   - title: 手機版中文
@@ -38,14 +22,12 @@
     link:  /Stickers
   - title: Linux 系統
     link:  /GeneralNews
-  - title: 非官方版本
-    submenu:
-    - title: Cutegram
-      link:  2015-08-24-Cutegram.html
-    - title: Plus Messenger
-      link:  2016-02-16-Plus_Messenger.html
-    - title: Webogram 中文
-      link:  2015-08-18-Telegram_for_East_Asia.html
+  - title: Cutegram
+    link:  2015-08-24-Cutegram.html
+  - title: Plus Messenger
+    link:  2016-02-16-Plus_Messenger.html
+  - title: Chrome 版
+    link:  2015-08-18-Telegram_for_East_Asia.html
   - title: 機器人商店
     link:  https://storebot.me/
 - title:   聊天群組
