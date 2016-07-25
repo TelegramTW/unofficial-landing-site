@@ -1,10 +1,7 @@
 <div class="tl_page_head navbar navbar-static-top navbar navbar-tg">
   <div class="navbar-inner">
     <div class="container clearfix">
-      <ul class="nav navbar-nav">
-        <li>
-          <a href="{{ '/' | prepend: site.baseurl }}" style="font-weight: bold; color: #222;">{{ site.title }}</a>
-        </li>{% for h in site.data.header %}
+      <ul class="nav navbar-nav">{% for h in site.data.header %}
         {% capture li %}
         {% assign active = nil %}
         {% assign purl = page.url | downcase %}
