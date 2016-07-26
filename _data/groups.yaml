@@ -27,7 +27,7 @@
       link:             https://telegram.me/tgchinese
       description:      
       note:             (由 st.michael 主持)
-- section:              開源、自由、創意
+- section:              開源、自由、創意、開發
   anchor:               OpenSource
   subgroups:
     - title:            台灣社群：
@@ -101,7 +101,11 @@
       - title:          Python 台灣社群
         link:           https://telegram.me/pythontw
         description:    
-        note:           
+        note:
+      - title:          EmbeddedTW
+        link:           https://telegram.me/EmbeddedTW
+        description:    
+        note:
     - title:            自由內容：
       groups:
       - title:          中文維基百科Telegram公共群組
