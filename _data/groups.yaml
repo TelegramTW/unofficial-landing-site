@@ -115,7 +115,13 @@
       - title:          中文維基百科Telegram公共群組
         link:           https://telegram.me/wikipedia_zh
         description:    
-        note:           
+        note: 
+    - title:            語言學習：
+      groups:
+      - title:          日本語學習
+        link:           https://telegram.me/joinchat/BGDV_QfZUS8b92lxtovKUw
+        description:    
+        note:   
 - section:              科技應用
   anchor:               Technology
   subgroups:
