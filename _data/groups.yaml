@@ -23,7 +23,7 @@
       link:             https://telegram.me/tgchinese
       description:      
       note:             (由 st.michael 主持)
-- section:              開源自由
+- section:              開源、自由、創意
   anchor:               OpenSource
   subgroups:
     - title:            台灣社群：
@@ -56,7 +56,7 @@
         link:           https://telegram.me/eolmde
         description:    
         note:           
-    - title:            電腦繪圖：
+    - title:            繪圖：
       groups:
       - title:          Krita 中文及應用
         link:           https://telegram.me/joinchat/AtZvGj6B3s9q7zfH1Wetsw
@@ -73,7 +73,11 @@
       - title:          Blender 中文及應用
         link:           https://telegram.me/joinchat/AtZvGj6yy3ZpakIDCQ2RsA
         description:    
-        note:           
+        note: 
+      - title:          阿特研究室
+        link:           https://telegram.me/joinchat/B4Apyz9vS65Fe1qzovVoVg
+        description:    繪圖專門群組，不管你是什麼媒材都可以
+        note:
     - title:            辦公室應用：
       groups:
       - title:          非官方 LibreOffice 台灣社群 Telegram 聊天室
