@@ -105,7 +105,7 @@
       - title:          Taiwan .Net Developer
         link:           https://telegram.me/joinchat/DcilwT9-uTbDHyq8wxf0IQ
         description:    
-        note:           討論 .Net，系統開發，與工程師喇賽的地方，歡迎想解決問題、吐苦水、分享技術的人加入喔!
+        note:           討論 .Net，系統開發，與工程師喇賽的地方
       - title:          ClojureTW
         link:           https://telegram.me/clojuretw
         description:    Clojure Taiwan Community
@@ -235,7 +235,7 @@
       note:
     - title:            爆笑導航
       link:             https://telegram.me/joinchat/B4Apyz5Ng5ka66wC0OtlJw
-      description:      有趣圖文分享
+      description:      歡迎分享有趣圖文
       note:
 - section:              政治政府
   anchor:               PoliticsAndGovernment
