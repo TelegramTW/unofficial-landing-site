@@ -142,7 +142,7 @@
         description:    
         note:           
     - title:            翻牆技術：
-      groups
+      groups:
       - title:          翻牆導航
         link:           https://telegram.me/joinchat/B4Apyz-DElAcajpRW7eNuQ
         description:    
@@ -157,7 +157,7 @@
         note:
       - title:          翻墙软件汇总
         link:           https://telegram.me/caogfw
-        description:    頻道
+        description:    (頻道)
         note:
 - section:              綜合閒聊
   anchor:               Chat
