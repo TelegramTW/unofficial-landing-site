@@ -142,7 +142,11 @@
         description:    
         note:           
     - title:            翻牆技術：
-      groups:
+      groups
+      - title:          翻牆導航
+        link:           https://telegram.me/joinchat/B4Apyz-DElAcajpRW7eNuQ
+        description:    
+        note: 
       - title:          免流技术交流群
         link:           https://telegram.me/Unlimited_Data
         description:    
@@ -150,7 +154,11 @@
       - title:          6D1B chat (翻牆群組)
         link:           https://telegram.me/chat6d1b
         description:    
-        note:           
+        note:
+      - title:          翻墙软件汇总
+        link:           https://telegram.me/caogfw
+        description:    (頻道)
+        note:
 - section:              綜合閒聊
   anchor:               Chat
   groups:
