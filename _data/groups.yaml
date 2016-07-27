@@ -232,11 +232,11 @@
     - title:            華語歌曲導航
       link:             https://telegram.me/joinchat/B4Apyzw1gM2HMcDQa_PxXw
       description:      歡迎介紹你覺得好聽的歌曲
-      note
+      note:
     - title:            爆笑導航
       link:             https://telegram.me/joinchat/B4Apyz5Ng5ka66wC0OtlJw
       description:      有趣圖文分享
-      note
+      note:
 - section:              政治政府
   anchor:               PoliticsAndGovernment
   subgroups:
