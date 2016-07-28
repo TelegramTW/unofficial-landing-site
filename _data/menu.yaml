@@ -8,27 +8,27 @@
     link:  http://zh.wikipedia.org/wiki/Telegram
 - title:   程式應用
   submenu:
-  - title: 手機版中文
+  - title: 手機中文
     link:  /Localize
-  - title: 桌面版中文
+  - title: 桌面中文
     link:  /Localized/Desktop.html
-  - title: macOS中文
+  - title: mac 中文
     link:  /Localized/macOS
-  - title: 電報網頁版
+  - title: 網 頁 版
     link:  https://web.telegram.org/
-  - title: 原始語言檔
+  - title: 原始語言
     link:  /Localized/source
-  - title: 貼圖の寶庫
+  - title: 貼圖寶庫
     link:  /Stickers
-  - title: Linux 系統
+  - title: Linux OS
     link:  /GeneralNews
   - title: Cutegram
     link:  2015-08-24-Cutegram.html
-  - title: Plus Messenger
+  - title: Plus 版
     link:  2016-02-16-Plus_Messenger.html
-  - title: Chrome 版
+  - title: Chrome版
     link:  2015-08-18-Telegram_for_East_Asia.html
-  - title: 機器人商店
+  - title: 機器人
     link:  https://storebot.me/
 - title:   聊天群組
   submenu:
