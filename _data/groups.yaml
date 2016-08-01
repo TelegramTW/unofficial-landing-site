@@ -116,8 +116,8 @@
         note:
       - title:          node.js
         link:           https://telegram.me/tgnodejs
-        description:    
-        note:           這裡是node.js專業討論區。技術，資訊，新聞等，請注意禮節。
+        description:    是node.js專業討論區
+        note:           
       - title:          EmbeddedTW
         link:           https://telegram.me/EmbeddedTW
         description:    討論嵌入式系統的群組
