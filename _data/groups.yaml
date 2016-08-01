@@ -112,7 +112,7 @@
         note:           討論 .Net，系統開發，與工程師喇賽的地方
       - title:          ClojureTW
         link:           https://telegram.me/clojuretw
-        description:    Clojure Taiwan Community
+        description:    Clojure 台灣社群
         note:
       - title:          node.js
         link:           https://telegram.me/tgnodejs
@@ -120,7 +120,7 @@
         note:           這裡是node.js專業討論區。技術，資訊，新聞等，請注意禮節。
       - title:          EmbeddedTW
         link:           https://telegram.me/EmbeddedTW
-        description:    
+        description:    討論嵌入式系統的群組
         note:
     - title:            自由內容：
       groups:
