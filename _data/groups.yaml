@@ -183,63 +183,67 @@
       note:             
 - section:              影視娛樂
   anchor:               entertainment
-  groups:
-    - title:            ACGN 動漫台灣群
-      link:             https://telegram.me/TaiwanAnime
-      description:      
-      note:             
-    - title:            女性向ACGN繁體交流群
-      link:             https://telegram.me/otometalk
-      description:      
-      note:
-    - title:            百合ACG中文交流群
-      link:             https://telegram.me/ACG_Yuri
-      description:      
-      note:
-    - title:            One Piece 台灣粉絲俱樂部
-      link:             https://telegram.me/One_Piece_Taiwan
-      description:      
-      note:             
-    - title:            Pokémon
-      link:             https://telegram.me/joinchat/Cf3Pbz1UEWlFoU-lLQuLPQ
-      description:      
-      note:             
-    - title:            PokémonGo 台灣區
-      link:             https://telegram.me/PokemonGoTW
-      description:      
-      note:             
-    - title:            My Lettle Pony 台灣粉絲俱樂部
-      link:             https://telegram.me/My_Little_Pony_TaiwanFunsClub
-      description:      
-      note: 
-    - title:            獵殺狼人 天黑請閉眼睛
-      link:             https://telegram.me/TW_Werewolves
-      description:      狼人
-      note: 
-    - title:            愚民小鎮村
-      link:             https://telegram.me/twWolf
-      description:      狼人
-      note:             
-    - title:            大陸人的小木屋
-      link:             https://telegram.me/GroupCN
-      description:      狼人
-      note:             
-    - title:            パズドラ 台灣社群
-      link:             https://telegram.me/pazudora
-      description:      手遊PAD
-      note:  
-    - title:            Undertale
-      link:             https://telegram.me/undertaletaiwan
-      description:      角色扮演遊戲
-      note:
-    - title:            華語歌曲導航
-      link:             https://telegram.me/joinchat/B4Apyzw1gM2HMcDQa_PxXw
-      description:      歡迎介紹你覺得好聽的歌曲
-      note:
-    - title:            爆笑導航
-      link:             https://telegram.me/joinchat/B4Apyz5Ng5ka66wC0OtlJw
-      description:      歡迎分享有趣圖文
-      note:
+  subgroups:
+    - title:            其他
+      groups:
+      - title:            ACGN 動漫台灣群
+        link:             https://telegram.me/TaiwanAnime
+        description:      
+        note:             
+      - title:            女性向ACGN繁體交流群
+        link:             https://telegram.me/otometalk
+        description:      
+        note:
+      - title:            百合ACG中文交流群
+        link:             https://telegram.me/ACG_Yuri
+        description:      
+        note:
+      - title:            One Piece 台灣粉絲俱樂部
+        link:             https://telegram.me/One_Piece_Taiwan
+        description:      
+        note:             
+      - title:            Pokémon
+        link:             https://telegram.me/joinchat/Cf3Pbz1UEWlFoU-lLQuLPQ
+        description:      
+        note:             
+      - title:            My Lettle Pony 台灣粉絲俱樂部
+        link:             https://telegram.me/My_Little_Pony_TaiwanFunsClub
+        description:      
+        note: 
+      - title:            獵殺狼人 天黑請閉眼睛
+        link:             https://telegram.me/TW_Werewolves
+        description:      狼人
+        note: 
+      - title:            愚民小鎮村
+        link:             https://telegram.me/twWolf
+        description:      狼人
+        note:             
+      - title:            大陸人的小木屋
+        link:             https://telegram.me/GroupCN
+        description:      狼人
+        note:             
+      - title:            パズドラ 台灣社群
+        link:             https://telegram.me/pazudora
+        description:      手遊PAD
+        note:  
+      - title:            Undertale
+        link:             https://telegram.me/undertaletaiwan
+        description:      角色扮演遊戲
+        note:
+      - title:            華語歌曲導航
+        link:             https://telegram.me/joinchat/B4Apyzw1gM2HMcDQa_PxXw
+        description:      歡迎介紹你覺得好聽的歌曲
+        note:
+      - title:            爆笑導航
+        link:             https://telegram.me/joinchat/B4Apyz5Ng5ka66wC0OtlJw
+        description:      歡迎分享有趣圖文
+        note:
+    - title:            Pokémon Go 專區
+      groups:
+      - title:            PokémonGo 台灣區
+        link:             https://telegram.me/PokemonGoTW
+        description:      
+        note:    
 - section:              政治政府
   anchor:               PoliticsAndGovernment
   subgroups:
