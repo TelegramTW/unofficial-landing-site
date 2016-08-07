@@ -260,6 +260,10 @@
         link:             https://telegram.me/PokemonGoTaoyuan
         description:      
         note:
+      - title:            PokémonGo 新竹
+        link:             https://telegram.me/PokemonGoHsinchu
+        description:      
+        note:
       - title:            PokémonGo 台中
         link:             https://telegram.me/PokemonGoTaichung
         description:      
@@ -272,8 +276,16 @@
         link:             https://telegram.me/PokemonGoTainan
         description:      
         note:
+      - title:            PokémonGo 高雄
+        link:             https://telegram.me/PokemonGoKaohsiung
+        description:      
+        note:
       - title:            PokémonGo 澎湖
         link:             https://telegram.me/PokemonGOPenghu
+        description:      
+        note:
+      - title:            PokémonGo 香港
+        link:             https://telegram.me/Pokemongohktw
         description:      
         note:
 - section:              政治政府
