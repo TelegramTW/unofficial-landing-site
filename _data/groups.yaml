@@ -243,7 +243,39 @@
       - title:            PokémonGo 台灣區
         link:             https://telegram.me/PokemonGoTW
         description:      
-        note:    
+        note:
+      - title:            PokémonGo 基隆
+        link:             https://telegram.me/PokemonGoKeelung
+        description:      
+        note:
+      - title:            PokémonGo 宜蘭
+        link:             https://telegram.me/PokemonGoYilan
+        description:      
+        note:
+      - title:            PokémonGo 台北
+        link:             https://telegram.me/PokemonGoTaipei
+        description:      
+        note:
+      - title:            PokémonGo 桃園
+        link:             https://telegram.me/PokemonGoTaoyuan
+        description:      
+        note:
+      - title:            PokémonGo 台中
+        link:             https://telegram.me/PokemonGoTaichung
+        description:      
+        note:
+      - title:            PokémonGo 彰化
+        link:             https://telegram.me/PokemonGoChanghua
+        description:      
+        note:
+      - title:            PokémonGo 台南
+        link:             https://telegram.me/PokemonGoTainan
+        description:      
+        note:
+      - title:            PokémonGo 澎湖
+        link:             https://telegram.me/PokemonGOPenghu
+        description:      
+        note:
 - section:              政治政府
   anchor:               PoliticsAndGovernment
   subgroups:
