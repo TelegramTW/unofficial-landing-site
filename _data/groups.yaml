@@ -240,10 +240,6 @@
         note:
     - title:            Pokémon Go 專區
       groups:
-      - title:            PokémonGo 大陸
-        link:             https://telegram.me/PokemonGoCN
-        description:      
-        note:
       - title:            PokémonGo 台灣
         link:             https://telegram.me/PokemonGoTW
         description:      
@@ -294,6 +290,10 @@
         note:
       - title:            PokémonGo 香港
         link:             https://telegram.me/Pokemongohktw
+        description:      
+        note:
+      - title:            PokémonGo 大陸
+        link:             https://telegram.me/PokemonGoCN
         description:      
         note:
 - section:              政治政府
