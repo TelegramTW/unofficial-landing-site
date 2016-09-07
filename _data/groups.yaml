@@ -177,10 +177,6 @@
       link:             https://telegram.me/joinchat/CnbvNz3bmca8X5kaXIbMnA
       description:      
       note:             
-    - title:            兩岸文化交流
-      link:             https://telegram.me/chinesefreedom
-      description:      
-      note:             
 - section:              影視娛樂
   anchor:               entertainment
   subgroups:
@@ -252,6 +248,14 @@
         link:             https://telegram.me/PokemonGoYilan
         description:      
         note:
+      - title:            PokémonGo 花蓮
+        link:             https://telegram.me/PokemonGoHualien
+        description:      
+        note:
+      - title:            PokémonGo 台東
+        link:             https://telegram.me/PokemonGoTaitung
+        description:      
+        note:
       - title:            PokémonGo 台北
         link:             https://telegram.me/PokemonGoTaipei
         description:      
@@ -264,12 +268,20 @@
         link:             https://telegram.me/PokemonGoHsinchu
         description:      
         note:
+      - title:            PokémonGo 苗栗
+        link:             https://telegram.me/PokemonGoMiaoli
+        description:      
+        note:
       - title:            PokémonGo 台中
         link:             https://telegram.me/PokemonGoTaichung
         description:      
         note:
       - title:            PokémonGo 彰化
         link:             https://telegram.me/PokemonGoChanghua
+        description:      
+        note:
+      - title:            PokémonGo 雲林
+        link:             https://telegram.me/PokemonGo_Yunlin
         description:      
         note:
       - title:            PokémonGo 嘉義
@@ -282,6 +294,10 @@
         note:
       - title:            PokémonGo 高雄
         link:             https://telegram.me/PokemonGoKaohsiung
+        description:      
+        note:
+      - title:            PokémonGo 屏東
+        link:             https://telegram.me/PokemonGoPingtung
         description:      
         note:
       - title:            PokémonGo 澎湖
