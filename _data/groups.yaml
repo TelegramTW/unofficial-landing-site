@@ -321,8 +321,7 @@
   subgroups:
     - title:            政治相關
       append_markdown:  |
-                        更多的政治群組：[請看這裡！](http://www.telegram.url.tw/politics.html) 
-                          
+                        更多的政治群組：[請看這裡！](http://www.telegram.url.tw/politics.html)   
                         看看新聞，了解國家大事： [政治相關的新聞網站](/Groups/PoliticalNews)
       groups:
       - title:          Talk everything
