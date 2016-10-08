@@ -567,7 +567,7 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_action_changed_title" = "{from} changed group name to «{title}»";
 "lng_action_changed_title_channel" = "Channel name was changed to «{title}»";
 "lng_action_created_chat" = "{from} created group «{title}»";
-"lng_action_created_channel" = "Channel «{title}» created";
+"lng_action_created_channel" = "Channel created";
 "lng_action_group_migrate" = "The group was upgraded to a supergroup";
 "lng_action_pinned_message" = "{from} pinned «{text}»";
 "lng_action_pinned_media" = "{from} pinned {media}";
@@ -580,6 +580,10 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_action_pinned_media_contact" = "a contact information";
 "lng_action_pinned_media_location" = "a location mark";
 "lng_action_pinned_media_sticker" = "a sticker";
+"lng_action_pinned_media_emoji_sticker" = "a {emoji} sticker";
+"lng_action_pinned_media_game" = "the game «{game}»";
+"lng_action_game_score" = "{from} scored {count:#|#|#} in {game}";
+"lng_action_game_you_scored" = "You scored {count:#|#|#} in {game}";
 
 "lng_profile_migrate_reached" = "{count:_not_used_|# member|# members} limit reached";
 "lng_profile_migrate_body" = "To get over this limit, you can upgrade your group to a supergroup.";
@@ -683,6 +687,7 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_switch_stickers" = "Stickers";
 "lng_switch_stickers_gifs" = "GIFs & Stickers";
 "lng_switch_emoji" = "Emoji";
+"lng_stickers_featured_add" = "Add";
 
 "lng_saved_gifs" = "Saved GIFs";
 "lng_inline_bot_results" = "Results from {inline_bot}";
@@ -710,6 +715,7 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_stickers_return" = "Undo";
 "lng_stickers_restore" = "Restore";
 "lng_stickers_count" = "{count:Loading...|# sticker|# stickers}";
+"lng_stickers_masks_pack" = "This is a pack of mask stickers. You can use them in the photo editor on our mobile apps.";
 
 "lng_in_dlg_photo" = "Photo";
 "lng_in_dlg_video" = "Video file";
@@ -762,18 +768,29 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 
 "lng_open_this_link" = "Open this link?";
 "lng_open_link" = "Open";
+"lng_allow_bot_pass" = "Do you allow {bot_name} to pass your Telegram name and id to the web pages you open via this bot?";
+"lng_allow_bot" = "Allow";
 
 "lng_bot_start" = "Start";
-"lng_bot_choose_group" = "Choose Group";
+"lng_bot_choose_group" = "Select a Group";
 "lng_bot_no_groups" = "You have no groups";
 "lng_bot_groups_not_found" = "No groups found";
 "lng_bot_sure_invite" = "Add the bot to «{group}»?";
 "lng_bot_already_in_group" = "The bot is already a member of the group.";
+"lng_bot_choose_chat" = "Select a Chat";
+"lng_bot_no_chats" = "You have no chats";
+"lng_bot_chats_not_found" = "No chats found";
+"lng_bot_sure_share_game" = "Share the game with {user}?";
+"lng_bot_sure_share_game_group" = "Share the game with «{group}»?";
 
 "lng_typing" = "typing";
 "lng_user_typing" = "{user} is typing";
 "lng_users_typing" = "{user} and {second_user} are typing";
 "lng_many_typing" = "{count:_not_used_|# is|# are} typing";
+"lng_playing_game" = "playing a game";
+"lng_user_playing_game" = "{user} is playing a game";
+"lng_users_playing_game" = "{user} and {second_user} are playing a game";
+"lng_many_playing_game" = "{count:_not_used_|# is|# are} playing a game";
 "lng_send_action_record_video" = "recording a video";
 "lng_user_action_record_video" = "{user} is recording a video";
 "lng_send_action_upload_video" = "sending a video";
@@ -803,6 +820,7 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_duration_played" = "{played} / {duration}";
 "lng_date_and_duration" = "{date}, {duration}";
 "lng_choose_images" = "Choose images";
+"lng_game_tag" = "Game";
 
 "lng_context_view_profile" = "View profile";
 "lng_context_view_group" = "View group info";
@@ -869,6 +887,13 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_share_cant" = "Sorry, no way to share here :(";
 "lng_reply_cant" = "Sorry, no way to reply to an old message in supergroup :(";
 "lng_reply_cant_forward" = "Sorry, no way to reply to an old message in supergroup :( Do you wish to forward it and add your comment?";
+
+"lng_share_title" = "Share to";
+"lng_share_copy_link" = "Copy share link";
+"lng_share_confirm" = "Send";
+"lng_share_wrong_user" = "This game was opened from a different user.";
+"lng_share_game_link_copied" = "Game link copied to clipboard.";
+"lng_share_done" = "Done!";
 
 "lng_contact_phone" = "Phone number";
 "lng_enter_contact_data" = "New Contact";
