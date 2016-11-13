@@ -374,31 +374,31 @@
 - section:              更多群組
   anchor:               More
   groups:
-    - title:            【群組導航 - 分享/推廣】群組
+    - title:            【群組導航 - 分享/推廣】群組1
       link:             https://telegram.me/navi_group_share
       description:      分享你新建的群組      
-      note:             
-    - title:            【中文群組廣播站】頻道
-      link:             https://telegram.me/TopicsTW
-      description:      主要廣播的是台灣的群組。
-      note:             
-    - title:            【Telegram 中文群組】網站
-      link:             http://www.telegram.url.tw/index.html
-      description:      較完整的收集繁、简体中文群組
-      note:
-    - title:            【Telegram蒐集君】網站
+      note: 
+    - title:            【Telegram蒐集君】網站1
       link:             http://group.gnehs.com.tw/
       description:      由"棒棒勝"製作、經營
       note:
-    - title:            【電報群推廣】群組
+    - title:            【中文群組廣播站】頻道2
+      link:             https://telegram.me/TopicsTW
+      description:      主要廣播的是台灣的群組。
+      note:             
+    - title:            【Telegram 中文群組】網站3
+      link:             http://www.telegram.url.tw/index.html
+      description:      較完整的收集繁、简体中文群組
+      note:
+    - title:            【電報群推廣】群組3
       link:             https://telegram.me/joinchat/CbVDpj15AV9gHk375Fze1A
       description:      網友建立的群組推廣群
       note:              
-    - title:            【TGCN-群组索引计划】頻道
+    - title:            【TGCN-群组索引计划】頻道4
       link:             https://telegram.me/zh_groups
       description:      新群組或群組異動廣播頻道(簡體中文群為主)
       note:             
-    - title:            【TGCN-群组索引狼😋】機器人
+    - title:            【TGCN-群组索引狼😋】機器人4
       link:             https://telegram.me/zh_groups_bot
       description:      群組索引(簡體中文群為主)
       note:             
