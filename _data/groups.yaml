@@ -310,7 +310,7 @@
     - title:            政治相關
       append_markdown:  |
                         [更多的政治群組](http://www.telegram.url.tw/politics.html)   
-                        [新聞網站](/Groups/PoliticalNews)
+                        [政治新聞網站](/Groups/PoliticalNews)
       groups:          
       - title:          Talk everything
         link:           https://telegram.me/joinchat/Bgklzj7pqmJW7qbiPMIvng
