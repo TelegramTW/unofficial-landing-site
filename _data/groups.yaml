@@ -1,14 +1,10 @@
 - section:              電報相關
   anchor:               Telegram
   groups:
-    - title:            貼圖導航
-      link:             https://telegram.me/joinchat/B4ApyzxHRg4ttF_vCP6GjQ
+    - title:            貼圖群
+      link:             https://telegram.me/joinchat/DNoKvEGBDAZ8hrGy9TgUHQ
       description:      
-      note:             中文貼圖交流區：歡迎張貼原創及獲得授權之貼圖
-    - title:            貼圖製造所
-      link:             https://telegram.me/joinchat/B4Apyz4BHxTaYw5eg_l1lw
-      description:      
-      note:             原創貼圖製作教學與諮詢
+      note:             貼圖交流區
     - title:            電報推廣特區
       link:             https://telegram.me/PublicGroupForzh
       description:      
@@ -85,10 +81,6 @@
       - title:          Blender 中文及應用
         link:           https://telegram.me/joinchat/AtZvGj6yy3ZpakIDCQ2RsA
         description:    
-        note: 
-      - title:          阿特研究室
-        link:           https://telegram.me/joinchat/B4Apyz9vS65Fe1qzovVoVg
-        description:    繪圖專門群組，不管你是什麼媒材都可以
         note:
     - title:            辦公室應用：
       groups:
@@ -135,7 +127,7 @@
     - title:            語言學習：
       groups:
       - title:          日本語學習
-        link:           https://telegram.me/joinchat/BGDV_QfZUS8b92lxtovKUw
+        link:           
         description:    
         note:   
 - section:              科技應用
@@ -157,6 +149,10 @@
 - section:              綜合閒聊
   anchor:               Chat
   groups:
+    - title:            臺灣群＊
+      link:             https://telegram.me/joinchat/BV7D4kDRohEXcjyQt1kgYA
+      description:      
+      note:     
     - title:            汪踢閒聊團
       link:             https://telegram.me/pttwantedtalk
       description:      
@@ -164,11 +160,7 @@
     - title:            Future Planet（未來星球）
       link:             https://telegram.me/joinchat/CUAmQzyxO-YbByrmFG5xQg
       description:      
-      note:             
-    - title:            臺灣聊天室
-      link:             https://telegram.me/joinchat/B4Apyzynbjb6tmHnr2Q7Sw
-      description:      
-      note:             
+      note:                     
     - title:            IT人的生活日常
       link:             https://telegram.me/joinchat/BLoqUT1lQu6ax3LKycgdtA
       description:      
@@ -216,10 +208,6 @@
         note: 
       - title:            愚民小鎮村
         link:             https://telegram.me/twWolf
-        description:      狼人
-        note:             
-      - title:            大陸人的小木屋
-        link:             https://telegram.me/GroupCN
         description:      狼人
         note:             
       - title:            パズドラ 台灣社群
@@ -323,11 +311,7 @@
       append_markdown:  |
                         更多的政治群組：[請看這裡！](http://www.telegram.url.tw/politics.html)   
                         看看新聞，了解國家大事： [政治相關的新聞網站](/Groups/PoliticalNews)
-      groups:
-      - title:          翻墙交流（政治、社会讨论分群）
-        link:           https://telegram.me/joinchat/BGoiNTv-lvk8A5dZkPnFnw
-        description:    
-        note:           
+      groups:          
       - title:          Talk everything
         link:           https://telegram.me/joinchat/Bgklzj7pqmJW7qbiPMIvng
         description:    
@@ -361,10 +345,6 @@
       link:             https://telegram.me/joinchat/B4Apyz-yZENELQahMN1-Bw
       description:      
       note:
-    - title:            世界旅遊導航
-      link:             https://telegram.me/joinchat/B4Apyz9xEaIiBpH9iEYtaQ
-      description:      
-      note:
     - title:            PTT憂鬱症版(非官方)
       link:             https://telegram.me/joinchat/B4Apyz1RL14L0SsDLA_HFw
       description:      憂鬱網友互相協助的群組
@@ -376,14 +356,7 @@
     - title:            現代精油世界
       link:             https://telegram.me/mordeneo
       description:      討論分享現代精油（Essential Oil）的各種應用。
-      note:             
-- section:              各地華人
-  anchor:               Chinese
-  groups:
-    - title:            港澳群組
-      link:             https://telegram.me/joinchat/AtZvGj0249QK0sW3SZggog
-      description:      
-      note:             
+      note:           
 - section:              寵物相關
   anchor:               Pets
   groups:
@@ -401,40 +374,28 @@
 - section:              更多群組
   anchor:               More
   groups:
-    - title:            【群組導航廣播】頻道
-      link:             https://telegram.me/t_navi_ch
-      description:      廣播群組1
+    - title:            【群組導航 - 分享/推廣】群組
+      link:             https://telegram.me/navi_group_share
+      description:      分享你新建的群組      
       note:             
-    - title:            【群組導航】群組
-      link:             https://telegram.me/t_navi_gr
-      description:      分享你新建的群組1
-      note:
     - title:            【中文群組廣播站】頻道
       link:             https://telegram.me/TopicsTW
-      description:      廣播群組2
+      description:      主要廣播的是台灣的群組。
       note:             
-    - title:            【電報推廣特區】群組
-      link:             https://telegram.me/PublicGroupForzh
-      description:      分享你新建的群組2
-      note:
     - title:            【Telegram 中文群組】網站
       link:             http://www.telegram.url.tw/index.html
-      description:      群組分類索引2
-      note:
-    - title:            【電報群組廣播】頻道
-      link:             https://telegram.me/FOCUSTELEGRAMGROUPLINK
-      description:      廣播群組3
-      note:             
+      description:      較完整的收集繁、简体中文群組
+      note:   
     - title:            【電報群推廣】群組
       link:             https://telegram.me/joinchat/CbVDpj15AV9gHk375Fze1A
-      description:      分享你新建的群組3
+      description:      網友建立的群組推廣群
+      note:              
+    - title:            【TGCN-群组索引计划】頻道
+      link:             https://telegram.me/zh_groups
+      description:      新群組或群組異動廣播頻道
       note: 
-    - title:            【群组娘】機器人
-      link:             https://telegram.me/Jqs7Bot
-      description:      群組分類索引4
-      note:             
-    - title:            【群组娘广播站】頻道
-      link:             https://telegram.me/joinchat/BT4Qrj2ZA5YSYCegJI0yjQ
-      description:      廣播群組4
-      note:             
+    - title:            【TGCN-群组索引狼😋】機器人
+      link:             https://telegram.me/zh_groups_bot
+      description:      群組目錄索引
+      note:     
     
