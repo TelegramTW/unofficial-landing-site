@@ -133,15 +133,12 @@
 - section:              科技應用
   anchor:               Technology
   subgroups:
-    - title:            手機相關：
-      groups:
-      - title:          安卓導航
-        link:           https://telegram.me/joinchat/B4Apyz6nWjCJLDFs50htgg
-        description:    
-        note:           |
-                        Android中文討論社群
-                        最新 app 最酷美化技巧
-                        只要關於 Android 通通歡迎
+    - title:            科技群組 / 談科技來這裡
+      link:             https://telegram.me/joinchat/CwPnVUD0LUE5lvcSUSMi0A
+      description:    
+      note:             3C資訊新聞快報 合作協助
+                        可談論 Android 手機
+                        
       - title:          iPhone應用交流群
         link:           https://telegram.me/joinchat/AtZvGj93dJaVpm4QJD9usA
         description:    
