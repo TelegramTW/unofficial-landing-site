@@ -6,4 +6,4 @@ categories:
 upstream:   https://telegram.org/blog/pin-and-ifttt
 ---
 
-![](/images/IFTTT_Integrations.jpg "使用IFTTT將Telegram與360多項服務集成")
+!(/images/IFTTT_Integrations.jpg "使用IFTTT將Telegram與360多項服務集成")
