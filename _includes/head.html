@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="index,follow" />
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+  <meta property="fb:pages" content="{{ site.fb_pages_id }}" />
   <meta property="og:title" content="{% if page.layout != "main" and page.title %}{{ page.title | truncate: 80 }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | replace: "index.html", "" | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:image" content="{{ site.og_image | prepend: site.baseurl | prepend: site.url }}" />
