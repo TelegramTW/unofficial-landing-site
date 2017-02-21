@@ -2,13 +2,13 @@
 title: Telegram 中文支援站
 og_title: Telegram – 新世代的訊息傳遞方式
 short_title: Telegram 中文支援站
-email: 
+email:
 description: >
   本站主要提供 Telegram 的 "中文資訊" 及 "中文化檔案"<br/>
   Telegram 是一個在行動裝置與一般電腦以雲端為基礎且注重安全與速度的即時通訊軟體
 baseurl: ""
 url: "https://telegram.how"
-twitter_username: 
+twitter_username:
 github_username:  TelegramTW
 timezone: Asia/Taipei
 exclude: [ "CNAME", "LICENSE", "README.md", "Gemfile", "Gemfile.lock" ]
@@ -35,7 +35,7 @@ webrick:
 # Users settings
 
 analytics_ua: UA-80820218-1
-fb_app_id: 906706819455651
+fb_app_id: 1948941755334798
 itunes_app_id: 686449807
 google_play_app_id: org.telegram.messenger
 og_image: /img/t_logo.png
