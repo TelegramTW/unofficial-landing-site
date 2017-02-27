@@ -1,7 +1,9 @@
 - title: 首頁
   link:  /
 - title: 新聞
-  link:  /OfficialNews  
+  link:  /OfficialNews
+- title: 教學
+  link:  /Teching
 - title: 常見問題
   link:  /faq
 - title: 更新紀錄
