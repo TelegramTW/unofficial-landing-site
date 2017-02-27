@@ -1,15 +1,15 @@
 ---
 layout:     page
-title:      官方新聞
+title:      教學文章
 categories:
-          - 官方新聞
+          - 教學文章
 permalink:  /Teching
 ---
 
 {% capture o_lists %}
 {% for p in site.posts %}
 {% assign fn = p.path | remove_first: '_posts/' %}
-{% assign pn = fn | slice: 0, 12 %}
+{% assign pn = fn | slice: 0, 7 %}
 {% if pn == "Teching" %}
 * ({{ p.date | date: "%Y年%m月%d日"}}) [{{ p.title }}]({{ p.url }})
 {% endif %}
