@@ -5,7 +5,8 @@
         {% capture li %}
         {% assign active = nil %}
         {% assign purl = page.url | downcase %}
-        {% if h.link == purl %}{% assign active = "active" %}{% endif %}
+        {% assign hlink = h.link | downcase %}
+        {% if hlink == purl %}{% assign active = "active" %}{% endif %}
         <li class="{{ active }}"><a href="{{ h.link }}">{{ h.title }}</a></li>
         {% endcapture %}{{ li | strip }}{% endfor %}
       </ul>
