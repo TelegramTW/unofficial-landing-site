@@ -1,13 +1,7 @@
-- title:   官方資訊
+- title:   相關資訊
   submenu:
   - title: 官方網站
-    link:  https://telegram.org
-  - title: 程式簡介
-    link:  /Description
-  - title: 維基百科
-    link:  http://zh.wikipedia.org/wiki/Telegram
-- title:   程式應用
-  submenu:
+    link:  https://telegram.org 
   - title: 手機中文
     link:  /Localize
   - title: 桌面中文
