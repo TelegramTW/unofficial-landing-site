@@ -2,11 +2,11 @@
   submenu:
   - title: 官方網站
     link:  https://telegram.org 
-  - title: 手機中文
+  - title: 手機版中文
     link:  /Localize
-  - title: 桌面中文
+  - title: 桌面版中文
     link:  /Localized/Desktop.html
-  - title: mac中文
+  - title: mac版中文
     link:  /Localized/macOS
   - title: 網 頁 版
     link:  https://web.telegram.org/
