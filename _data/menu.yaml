@@ -20,26 +20,3 @@
     link:  2015-08-18-Telegram_for_East_Asia.html
   - title: Bot商店
     link:  https://storebot.me/
-- title:   聊天群組
-  submenu:
-  - title: 電報相關
-    link:  "/AllGroups#Telegram"
-  - title: 自由創意
-    link:  "/AllGroups#OpenSource"
-  - title: 科技應用
-    link:  "/AllGroups#Technology"
-  - title: 綜合閒聊
-    link:  "/AllGroups#Chat"
-  - title: 影視娛樂
-    link:  "/AllGroups#entertainment"
-  - title: 政治政府
-    link:  "/AllGroups#PoliticsAndGovernment"
-  - title: 健康生活
-    link:  "/AllGroups#Health"
-  - title: 各地華人
-    link:  "/AllGroups#Chinese"
-  - title: 寵物相關
-    link:  "/AllGroups#Pets"
-  - title: 更多群組
-    link:  "/AllGroups#More"
-  
