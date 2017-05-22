@@ -1,12 +1,4 @@
 - title:   相關資訊
   submenu:
-  - title: 網 頁 版
-    link:  https://web.telegram.org/
   - title: 貼圖寶庫
     link:  /Stickers
-  - title: LinuxOS
-    link:  /GeneralNews
-  - title: Plus 版
-    link:  2016-02-16-Plus_Messenger.html
-  - title: Chrome
-    link:  2015-08-18-Telegram_for_East_Asia.html
