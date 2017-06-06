@@ -1,0 +1,60 @@
+---
+layout:     page
+title:      機器人的付款功能
+categories:
+          - 官方新聞
+upstream:   https://telegram.org/blog/payments
+---
+<br>
+<blockquote>
+   <p>注意：除了付款功能之外，今天的更新還包括另外兩個主要功能。不要錯過視訊訊息+Telescope及立即查看平台！</p>
+</blockquote>
+<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments01.jpg" ><br>
+想像一個世界，您可以訂購披薩、支付一雙鞋子的錢、租用出租車或為您的火車月票儲值 - 所有事情只要在 Telegram 中點擊幾個按鈕。<br>
+<br>
+為了使這樣的世界變得可能，我們今天推出了「機器人付款」功能。機器人開發者現在可以接受來自全世界用戶的付款，就像這樣：<br>
+<br>
+<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments01.gif" width="50%"><br>
+<br>
+如果您安裝了 Telegram 4.0（或更新版本），您可以從提供它們的機器人那，訂購商品或服務。這些機器人現在可以在其訊息中添加<b>付費按鈕< /b>。當您點擊<b>付款</b>時，您將被要求填寫您的信用卡和送貨資訊，並確認付款。然後您得到您付錢買的東西。瞧！就是這樣～<br>
+<br>
+如果您的帳號受到兩步驗證的保護，您可以儲存您信用卡的資訊以便將來購買。如果您這樣做，從機器人訂購東西只需要兩個點擊。機器人付款還支援 Apple Pay ，讓您擁有完全無障礙的體驗。<br>
+<h3>現在就來檢查看看</h3>
+嘗試我們的示範機器人 <a href="https://t.me/shopbot">@ShopBot</a> 來了解即將實現的事情。（注意：我們的示範機器人認為它在銷售時間機器，但它們不是真的即將到來的一部分。哈！真傷心～）如果您想要嘗試用真的錢來付款，歡迎使用我們的 <a href="https://t.me/telegramdonate">@TelegramDonate</a> 機器人。<br>
+<br>
+Telegram 是一個開放的平台，所以機器人開發者現在開始就可以執行必要的API，並接受用戶的付款，沒有漫長的批准劇本。如果您是機器人開發者，請立即查看< a href="https://core.telegram.org/bots/payments">文件</a>！< br>
+<h3>背景說明</h3>
+目前，大部分支付是由 <b><a href="https://stripe.com/">Stripe</a></b> 處理的，但 Telegram Bot Payments 是一個<b>給全世界支付服務供應商使用的平台</b>。當接受用戶付款時，機器人開發者可以在所有可用的支付服務供應商之間進行選擇，選擇買方已經使用的或佣金最低的。<br>
+<br>
+<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments02.jpg" width="50%"><br>
+<br>
+<blockquote>
+   <p>更新（2017.06.02）：<a href="https://money.yandex.ru/new">Yandex.Money</a> 和 <a href="https://payme.uz/">Payme</a> 現在也可以作為支付服務供應商。俄羅斯的 <a href="https://qiwi.ru/">Qiwi</a> 稍後將加入這個俱樂部。</p>
+</blockquote>
+這僅僅是個開始。在接下來的幾天中，支付將可以使用於印度（透過 <a href="http://razorpay.com/">Razorpay</a>）、奈及利亞、肯亞、加納、南非和烏干達（透過 <a href="https://www.flutterwave.com/">Flutterwave</a>）和其他190多個國家（透過 <a href="https://www.paymentwall.com/">Paymentwall</a>）。<br>
+<br>
+跟隨我們的 <b><a href="https://t.me/botnews">@BotNews</a></b> 頻道，您將成為第一個了解新供應商加入的人。<br>
+<br>
+如果您是支付服務供應商（特別是在發展中的國家），請點擊<a href="https://core.telegram.org/bots/payments#how-do-i-join-as-a-payment- provider">此處</a>了解如何進入。<br>
+<h3>只是通過而已</h3>
+Telegram 扮演送信人（在付費用戶、機器人開發者和他們選擇的支付系統之間）。用戶將信用卡訊息直接傳送到支付系統。然後，支付系統的回應和用戶輸入的送貨細節將傳遞給機器人開發者，以便他們可以處理訂單。<br>
+<br>
+由於這種結構，Telegram 不可能處理投訴或現金回扣 - 任何有爭議的付款都是參與交易的機器人開發者、支付服務供應商和銀行的責任。<br>
+<br>
+由於 Telegram 不處理付款，我們不會儲存且不能存取任何敏感數據。我們也不收取任何付款佣金，也不會從這些交易中獲利。<br>
+<br>
+取而代之的，我們只是做每個治安人員要做的事情，當有陌生人通過我們的草皮時：射死壞的機器人，並用一個徽章來獎勵好的。我們相信會有很多好的。<br>
+<br>
+<h3>如果您是…</h3>
+<ul>
+<li>...我們可愛的用戶之一，等待然後看看 Telegram 機器人開發者很快就會帶給您使用這個新平台的方式。同時，嘗試我們的示範機器人 <a href="https://t.me/shopbot">@ShopBot</a> 來了解即將到來的，或試著透過 <a href="https://t.me/telegramdonate">@TelegramDonate</a> 花費一些真正的錢。</li>
+<li>...一個機器人開發者，查看我們的<a href="https://core.telegram.org/bots/payments">付款介紹</a>和<a href="https://core.telegram.org/bots/api#payments">付款API</a>，看看您可以建立什麼。</li>
+<li>...付款服務供應商，請<a href="https://core.telegram.org/bots/payments#how-do-i-join-as-a-payment- provider">學習如何上船</a>。</li>
+</ul>
+如果您不是以上之一，因為一些奇怪的理由，<b>那麼成為一個用戶吧</b>，<a href="https://telegram.org/apps">請做正確的事情</a>。祝大家購物愉快！<br>
+<br>
+<br>
+2017年5月18日<br>
+電報團隊<br>
+<br>
+<br>
