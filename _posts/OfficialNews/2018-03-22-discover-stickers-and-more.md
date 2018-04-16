@@ -12,16 +12,16 @@ upstream:   https://telegram.org/blog/discover-stickers-and-more
 
 <center>建議的貼圖</center>
 
-###貼圖搜尋
+### 貼圖搜尋
 我們添加了對貼圖包的搜尋。在「貼紙」面板中向上捲動可以找到新的搜尋框，那會幫助您快速找到某些貼圖包 - 無論是您已安裝的，還是全新複活節熊的貼圖包。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more03.gif" width="60%"></center>
-###多重拍攝傳送  
+### 多重拍攝傳送  
 需要一些額外的自拍以最大化戲劇效果？ 如同小狗不能停止做可愛的把戲？不是問題。拍攝照片時，請使用新的<font color="red"> + </font>按鈕以拍攝及傳送多張照片。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more04.jpeg" width="50%">/center>
           
 <center>拍攝及傳送多張照片</center>
 
-###自動夜間模式和已連結的網站
+### 自動夜間模式和已連結的網站
 iOS 的 Telegram 4.8 版還包含了 Android 用戶自上一版本以來一直享受的一些好東西。使用**自動夜間模式**設定，您可以在夜晚來臨或光線不足的情況下自動切換到黑暗版本的介面：
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more05.jpeg" width="50%"></center>
 
