@@ -16,7 +16,7 @@ upstream:   https://telegram.org/blog/discover-stickers-and-more
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more03.gif" width="60%"></center>
 ###多重拍攝傳送
 需要一些額外的自拍以最大化戲劇效果？ 如同小狗不能停止做可愛的把戲？不是問題。拍攝照片時，請使用新的<font color="red"> + </font>按鈕以拍攝及傳送多張照片。
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more04.jpeg" width="50%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more04.jpeg" width="50%">/center>
 <center>拍攝及傳送多張照片</center>
 
 ###自動夜間模式和已連結的網站
