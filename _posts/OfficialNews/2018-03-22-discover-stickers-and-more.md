@@ -15,7 +15,7 @@ upstream:   https://telegram.org/blog/discover-stickers-and-more
 
 ### 貼圖搜尋
 我們添加了對貼圖包的搜尋。在「貼紙」面板中向上捲動可以找到新的搜尋框，那會幫助您快速找到某些貼圖包 - 無論是您已安裝的，還是全新複活節熊的貼圖包。
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more03.gif" width="80%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more03.gif" ></center>
 ### 多重拍攝傳送  
 需要一些額外的自拍以最大化戲劇效果？ 如同小狗不能停止做可愛的把戲？不是問題。拍攝照片時，請使用新的<font color="red"> + </font>按鈕以拍攝及傳送多張照片。
 
