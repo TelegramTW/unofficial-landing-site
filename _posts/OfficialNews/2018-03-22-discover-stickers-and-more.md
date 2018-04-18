@@ -27,9 +27,9 @@ upstream:   https://telegram.org/blog/discover-stickers-and-more
 iOS 的 Telegram 4.8 版還包含了 Android 用戶自上一版本以來一直享受的一些好東西。使用**自動夜間模式**設定，您可以在夜晚來臨或光線不足的情況下自動切換到黑暗版本的介面：
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more05.jpeg" width="50%"></center>
-  
-<center>在 iOS 上的自動夜間模式設定</center>  
-  
+<br>
+<center>在 iOS 上的自動夜間模式設定</center>
+<br>
 從第 4.8 版開始，iOS 版應用程式還支援媒體標題中使用不同的文字格式，檢舉公開頻道及群組中的個別訊息，並且在設定中新增一區塊用來管理已連結的網站。   
   
 另外，我們優化了電池使用情況，以便您在單次充電之後，可以更長時間連續使用 Telegram 及其功能。   
