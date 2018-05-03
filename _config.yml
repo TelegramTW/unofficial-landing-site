@@ -14,7 +14,7 @@ exclude: [ "CNAME", "LICENSE", "README.md", "Gemfile", "Gemfile.lock" ]
 excerpt_separator: "<!--more-->"
 permalink: /:year/:month/:day/:title
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
