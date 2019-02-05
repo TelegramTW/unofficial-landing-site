@@ -23,7 +23,7 @@ upstream:   https://telegram.org/blog/unread-replace-2x
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/unread-replace-2x03.jpeg" width="50%"></center>
 <center>適用於語音和視訊訊息</center>
 <br>
-我們花了幾個小時來確保您朋友的聲音在快速播放的情況下聽起來不會像吸了氦氣的花栗鼠一樣。好啦，是多數時候不會有問題啦。
+我們花了幾個小時來確保您朋友的聲音在快速播放的情況下聽起來不會像吸了氦氣的花栗鼠一樣。好吧！是多數時候不會有問題啦。
 ### 標示為已讀或未讀
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/unread-replace-2x04.gif" width="80%"></center>
 <br>
