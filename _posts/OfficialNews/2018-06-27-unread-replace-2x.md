@@ -6,7 +6,7 @@ categories:
 upstream:   https://telegram.org/blog/unread-replace-2x
 ---
 <br>
-<img alt="" src="{{ site.baseurl | prepend: site.url }}/unread-replace-2x01.jpeg">
+<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/unread-replace-2x01.jpeg">
 適用於 iOS 的 Telegram 4.8.3 和適用於 Android 的 4.8.10 已經推出，帶來了幾個好用的功能和改進。
 
 ### 替換媒體和添加說明文字
