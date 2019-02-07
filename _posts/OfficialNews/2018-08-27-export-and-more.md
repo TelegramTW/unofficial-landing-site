@@ -8,7 +8,7 @@ upstream:   https://telegram.org/blog/export-and-more
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more01.jpeg">
 <br>
 今天的 Telegram 更新為您提供了一種在磁碟上保存聊天的簡便方法。只需輕點幾下，您就可以匯出部分（或全部）聊天內容，包括照片和其他媒體。因此，您將可以用JSON格式或精美的HTML格式離線存取所有資料。
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more02.jpeg" width="80%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more02.jpeg" width="70%"></center>
 <center>資料匯出結果</center>
 <br>
 <br>
@@ -19,7 +19,7 @@ upstream:   https://telegram.org/blog/export-and-more
 
 ### 通知中的例外情況
 Telegram 是第一款為其用戶提供極其靈活、可以微調其訊息通知工作方式的應用程式。今天，我們透過在通知設定中添加例外來進一步實現這一點（ Android 及 iOS 版），您可以在其中看到哪些聊天是例外於全域設定（ **設定 > 通知和聲音** ）。
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more04.jpeg" width="80%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more04.jpeg" width="70%"></center>
 <center>通知例外</center>
 <br>
 要將所有聊天關閉通知但少數例外（或相反）從未如此簡單。
