@@ -21,10 +21,10 @@ Telegram 是第一款為其用戶提供極其靈活、可以微調其訊息通�
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more04.jpeg" width="50%"></center>
 <center>通知例外</center>
 <br>
-將所有聊天關閉通知但少數例外（或相反）從未如此簡單。
+要將所有聊天關閉通知但少數例外（或相反）從未如此簡單。
 
 ### 改進了 Telegram Passport
-<a href="https://telegram.how/2018/07/26/passport">Telegram Passport</a> 被廣泛接受讓我們感到有點不知所措 - 這工具用於需要以真實身分登入的第三方應用。發布僅兩週後，Passport 就可以用於註冊許多服務，從建立**共享經濟服務**到**區塊鏈新創公司**。
+<a href="https://telegram.how/2018/07/26/passport">Telegram Passport</a> 被廣泛接受讓我們感到有點不知所措 - 這工具用於需要以真實身分登入的第三方應用。發布僅兩週後，Passport 就可以用於註冊許多服務，包括建立**共享經濟服務**到**區塊鏈新創公司**。
 
 僅舉幾個整合 Telegram Passport 的項目：Sum＆Substance（KYC和用戶驗證），CEX.IO 和 Xena（加密貨幣交易），CryptoPay（錢包），YouDrive（汽車共享），Profi 和 Worki（就業市場），Minter Network 和 Minexcoin（區塊鏈新創公司），KICKICO，Cryptonomos和ICOadmin（ICO平台）。
 
