@@ -26,7 +26,7 @@ Telegram 是第一款為其用戶提供極其靈活、可以微調其訊息通�
 ### 改進了 Telegram Passport
 <a href="https://telegram.how/2018/07/26/passport">Telegram Passport</a> 被廣泛接受讓我們感到有點不知所措 - 這工具用於需要以真實身分登入的第三方應用。發布僅兩週後，Passport 就可以用於註冊許多服務，包括建立**共享經濟服務**到**區塊鏈新創公司**。
 
-僅舉幾個整合 Telegram Passport 的項目：<a href="https://sumsub.com/">Sum＆Substance</a>（KYC和用戶驗證），<a href="https://cex.io/">CEX.IO</a> 和 <a href="https://xena.exchange/">Xena</a>（加密貨幣交易），<a href="https://cryptopay.me/">CryptoPay</a>（電子錢包），<a href="https://youdrive.today/">YouDrive</a>（汽車共享），<a href="https://profi.ru/">Profi</a> 和 <a href="https://worki.ru/">Worki</a>（就業市場），<a href="https://www.minter.network/">Minter Network</a> 和 <a href="https://minexcoin.com/">Minexcoin</a>（區塊鏈新創公司），<a href="https://www.kickico.com/">KICKICO</a>，<a href="https://cryptonomos.com/">Cryptonomos</a> 和 <a href="https://icoadm.in/en/">ICOadmin</a>（ICO平台）。
+僅舉幾個整合 Telegram Passport 的項目：<a href="https://sumsub.com/">Sum＆Substance</a>（ KYC 和用戶驗證），<a href="https://cex.io/">CEX.IO</a> 和 <a href="https://xena.exchange/">Xena</a>（加密貨幣交易），<a href="https://cryptopay.me/">CryptoPay</a>（電子錢包），<a href="https://youdrive.today/">YouDrive</a>（汽車共享），<a href="https://profi.ru/">Profi</a> 和 <a href="https://worki.ru/">Worki</a>（就業市場），<a href="https://www.minter.network/">Minter Network</a> 和 <a href="https://minexcoin.com/">Minexcoin</a>（區塊鏈新創公司），<a href="https://www.kickico.com/">KICKICO</a>，<a href="https://cryptonomos.com/">Cryptonomos</a> 和 <a href="https://icoadm.in/en/">ICOadmin</a>（ICO平台）。
 
 在此成功的基礎上，今天我們正在升級 Passport 以支援原始語言的名稱和其他類型的文件。我們還加強了加密 Passport 資料的<a href="https://core.telegram.org/passport/encryption">演算法</a>，以更好地保護您的資料免於受來自 Telegram 駭客的攻擊（儘管看起來不太可能）。這樣一來，我們更能確保只有您可以存取您自己的私人資料。
 
