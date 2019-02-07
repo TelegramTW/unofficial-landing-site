@@ -11,6 +11,7 @@ upstream:   https://telegram.org/blog/export-and-more
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more02.jpeg" width="80%"></center>
 <center>資料匯出結果</center>
 <br>
+<br>
 要使用此功能，請確保在計算機上安裝了最新版本的 <a href="https://desktop.telegram.org/">Telegram Desktop</a>，然後點擊 **設定 > 進階 > 匯出 Telegram 資料**。此工具對於擁有數百萬則訊息卻無法輕鬆存取其訊息紀錄中最早期部分的用戶特別有用。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more03.gif" ></center>
 <br>
