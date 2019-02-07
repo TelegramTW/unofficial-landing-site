@@ -24,15 +24,15 @@ Telegram 是第一款為其用戶提供極其靈活、可以微調其訊息通�
 將所有聊天關閉通知但少數例外（或相反）從未如此簡單。
 
 ### 改進了 Telegram Passport
-Telegram Passport 的接收使我們感到不知所措 - 這工具用於需要以真實身分登入的第三方應用。發布僅兩週後，Passport 可用於註冊許多服務，從建立共享經濟服務到區塊鏈新創公司。
+<a href="https://telegram.how/2018/07/26/passport">Telegram Passport</a> 被廣泛接受讓我們感到有點不知所措 - 這工具用於需要以真實身分登入的第三方應用。發布僅兩週後，Passport 就可以用於註冊許多服務，從建立**共享經濟服務**到**區塊鏈新創公司**。
 
 僅舉幾個整合 Telegram Passport 的項目：Sum＆Substance（KYC和用戶驗證），CEX.IO 和 Xena（加密貨幣交易），CryptoPay（錢包），YouDrive（汽車共享），Profi 和 Worki（就業市場），Minter Network 和 Minexcoin（區塊鏈新創公司），KICKICO，Cryptonomos和ICOadmin（ICO平台）。
 
 在此成功的基礎上，今天我們正在升級 Passport 以支援原始語言的名稱和其他類型的文件。我們還加強了加密 Passport 資料的演算法，以更好地保護您的資料免於受來自 Telegram 的駭客攻擊（儘管看起來不太可能）。這樣一來，我們更能確保只有您可以存取您自己的私人資料。
 
-原始碼和 API
+### 原始碼和 API
 與往常一樣，您無需了解我們的加密工作原理。更新的 Telegram 應用程式原始碼反映了今天的所有變更，可以在 GitHub 上找到並開放供所有人查看。如果您是需要身分驗證的服務之開發人員，請務必查看這些文件，那說明了如何將 Telegram Passport 整合到您的應用程式中。
-<br>
-<br>
+
+
 2018年8月27日
 Telegram 團隊
