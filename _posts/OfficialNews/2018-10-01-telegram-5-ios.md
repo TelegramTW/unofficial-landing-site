@@ -11,7 +11,7 @@ upstream:   https://telegram.org/blog/telegram-5-ios
 
 今天 Telegram 5.0 正式推出給**我們所有的 iOS 用戶**，並成為完全使用 Swift 編寫的通訊程式中最受歡迎的。這新版本的 Telegram 看起來和舊版一樣，但更**流暢**、更**省電**，而速度也**更快**（和原有的速度相比較，它的進步是令人驚豔地）。
 
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/telegram-5-ios02.gif" width="70%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/telegram-5-ios02.gif" width="80%"></center>
 <br>
 新應用程式在許多方面都很出色。我們喜歡聊天室中新的**平滑動畫**。即使您長時間沒有開啟 Telegram 並且有很多訊息需要同步的，訊息現在也會**快速同步**。我們也改進了應用程式在背景的活動，以確保所有**已關閉通知的聊天**始終**保持最新狀態**。
 <br>
@@ -46,7 +46,7 @@ upstream:   https://telegram.org/blog/telegram-5-ios
 <br>
 昂貴 MacBook Pro 的用戶只需獲得進階的**觸控欄**支援，即可幫助他們傳送貼圖和媒體，控制提示和彈出視窗中的按鈕等。
 
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/telegram-5-ios06.jpeg" width="70%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/telegram-5-ios06.jpeg" width="80%"></center>
 <center>MacBook Pro 上的貼圖及更多</center>
 <br>
 其他新功能包括**自動夜間模式**設定和照片編輯器，可在傳送前**旋轉**和**裁剪**圖片。您還可以拖放照片、媒體和檔案以**更改傳送順序**。
