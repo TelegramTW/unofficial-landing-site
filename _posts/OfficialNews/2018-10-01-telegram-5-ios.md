@@ -38,7 +38,7 @@ upstream:   https://telegram.org/blog/telegram-5-ios
 ### 蟲子已死。蟲子萬歲！
 儘管我們非常喜歡，但我們無法移植 Objective C 版本中的任何錯誤。所有舊的錯誤現在都永遠消失了 - 或者，我們應該說，**修復了**。在編寫新版本時，我們可能會產生一些新的臭蟲。但不要擔心，我們很快就會解決這些問題。同理，任何缺少的小功能也可以很快被加入。
 
-###而在 macOS 上…
+### 而在 macOS 上…
 您現在可以在 <a href="https://macos.telegram.org/">macOS 專用版的 Telegram</a> 上使用**滑動手勢**來操作介面。最值得注意的是，您可以滑動回覆，聊天清單現在的運作方式與 iOS 版相同：向右滑動標記為「已讀/未讀」，然後向左滑動可「置頂」、「關閉通知」或「刪除」。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/telegram-5-ios05.jpeg" width="70%"></center>
