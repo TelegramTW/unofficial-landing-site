@@ -25,12 +25,13 @@ list_off:   true
               {{ lg | markdownify | remove: '<p>' | remove: '</p>' }}
             </div>
             {% endfor %}
-          {% else %}
+          {% endif %}
+          {% unless g.subgroups %}
             {% capture lg %}
 {% include list_groups.md groups=g.groups %}
             {% endcapture %}
             {{ lg | markdownify | remove: '<p>' | remove: '</p>' }}
-          {% endif %}
+          {% endunless %}
           {% if g.append_markdown %}{{ g.append_markdown | markdownify }}{% endif %}
         </p>
       </div>
