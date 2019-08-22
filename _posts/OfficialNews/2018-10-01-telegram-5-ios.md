@@ -4,6 +4,7 @@ title:      介紹 iOS 平台的 Telegram 5.0
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/telegram-5-ios
+preview_image: /images/telegram-5-ios01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/telegram-5-ios01.jpeg">
 <br>
