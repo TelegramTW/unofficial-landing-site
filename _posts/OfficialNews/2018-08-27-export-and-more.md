@@ -4,6 +4,7 @@ title:      聊天紀錄匯出工具，更好的通知，及更多
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/export-and-more
+preview_image: /images/export-and-more01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/export-and-more01.jpeg">
 <br>
