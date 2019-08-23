@@ -4,6 +4,7 @@ title:      貼圖搜尋、多張照片，及更多
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/discover-stickers-and-more
+preview_image: /images/discover-stickers-and-more01.jpeg
 ---
 
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/discover-stickers-and-more01.jpeg">
