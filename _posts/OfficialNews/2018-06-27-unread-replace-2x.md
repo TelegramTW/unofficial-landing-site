@@ -4,6 +4,7 @@ title:      替換媒體，分享電子名片(vCard)，標示為未讀，2倍速
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/unread-replace-2x
+preview_image: /images/unread-replace-2x01.jpeg
 ---
 <br>
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/unread-replace-2x01.jpeg">
