@@ -72,7 +72,7 @@ Android版輸入訊息欄的附件選單進行了改造，給媒體提供了更�
 ### iOS版的夜間模式強調色
 iOS用戶現在可以選擇**深色主題**的**強調色**。畢竟，夜晚並不總是黑色和藍色。
 
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode12.jpeg" width="80%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode12.gif" width="80%"></center>
 <br>
 ### 評論小工具
 <a href="https://comments.app/">Comments.App</a> 是我們評論**頻道貼文**的工具，現在可以讓您在**網站**上加入**評論小工具**。
