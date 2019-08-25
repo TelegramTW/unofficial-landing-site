@@ -84,7 +84,7 @@ iOS用戶現在可以選擇**深色主題**的**強調色**。畢竟，夜晚並
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode13.jpeg" width="80%"></center>
 <br>
-在瀏覽器中打開此頁面以嘗試新的小工具 - 它還不支援即時瀏覽頁面。😈
+在瀏覽器中打開此頁面以嘗試新的小工具 - 它還不支援即時瀏覽頁面。<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode14.png" alt="😈" height="20" width="20">
 
 目前就這些，但不要擔心 - 下一次 Telegram 更新不會無聲地發表。
 
