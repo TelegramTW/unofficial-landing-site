@@ -4,7 +4,7 @@ title:      自訂語言、即時瀏覽 2.0 及更多
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/translations-iv2
-preview_image: /images/telegram-5-ios01.jpeg
+preview_image: /images/translations-iv201.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/translations-iv201.jpeg">
 <br>
