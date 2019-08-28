@@ -33,9 +33,9 @@ Telegram 的另一個獨特功能是「即時瀏覽」技術，它讓 Telegram �
 <br>
 很快我們將宣布一個新的**眾包競賽**，以便為更大範圍的互聯網提供即時瀏覽頁面。
 ### 大規模的iOS版除錯
-自 5.0 版主要版本發布以來，我們已經對iOS版應用程式進行了近千次修正和改進。新的 Telegram iOS 5.1 版具有約400項小改進。
+自主要版本 5.0 發布以來，我們已經對iOS版應用程式進行了近千次修正和改進。新的 Telegram iOS 5.1 版具有約 400 項小改進。
 ### Android版的新設計
-Android 版的 Telegram 現在已達到5.0版，並在設計部門接受大改造。現在，從用戶、群組和頻道的資訊頁**使用共享的媒體**變得更加容易：
+Android 版的 Telegram 現在已達到5.0版，並在設計部門接受大改造。現在，從用戶、群組和頻道的資訊頁**取用共享的媒體**變得更加容易：
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/translations-iv204.gif"></center>
 <br>
