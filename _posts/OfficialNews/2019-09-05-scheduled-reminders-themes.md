@@ -14,7 +14,7 @@ preview_image: /images/scheduled-reminders-themes01.jpeg
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes02.gif" width="80%"></center>
 <br>
-預約功能也適用於<b>我的收藏</b> (Saved Messages) 中，差別在於將原本的預約傳訊改為**提醒事項**。成為穿越時空提醒您事情的小秘書 - 無論是下週的牙醫預約，或者提醒外送員送披薩來的時間。
+預約功能也適用於<b>我的收藏</b> (Saved Messages) ，差別在於將原本的預約傳訊改為**提醒事項**。成為穿越時空提醒您事情的小秘書 - 無論是下週的牙醫預約，或者提醒外送員送披薩來的時間。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes03.gif" width="80%"></center>
 <br>
@@ -50,11 +50,11 @@ Telegram 群組可以是**公開的**，每個群組可以容納 **20 萬**個�
 ### 更多動態表情符號
 無論您是在爭取自由還是為咖啡排隊，您都可能會發現我們的**動態表情符號**家族的新增功能。
 
-和上次更新增加的動態表情符號一樣，傳送一個<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes08.png" alt="😁" height="20" width="20">、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes09.png" alt="😧" height="20" width="20">、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes10.png" alt="😡" height="20" width="20">、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes11.png" alt="💩" height="20" width="20">、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes12.png" alt="😢" height="20" width="20">和<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes13.png" alt="😮" height="20" width="20">來用動作釋放他們的靈魂。
+和上次更新增加的動態表情符號一樣，傳送<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes08.png" alt="😁" height="20" width="20">、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes09.png" alt="😧" height="20" width="20">、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes10.png" alt="😡" height="20" width="20">、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes11.png" alt="💩" height="20" width="20">、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes12.png" alt="😢" height="20" width="20">和<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes13.png" alt="😮" height="20" width="20">來用動作釋放他們的靈魂。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes07.gif" width="80%"></center>
 <br>
-嗯！這就是全部。在等待我們下次更新的過程，您可查看一下<a href="https://telegram.how/2019/08/15/6-years">Telegram 的簡要歷史</a>。或者，如果您不愛閱讀，洗個澡，欣賞這些動態<a href="https://t.me/addstickers/UtyaDuck">橡皮鴨貼圖</a>。
+嗯！這就是全部。在等待我們下次更新的過程，您可查看一下 <a href="https://telegram.how/2019/08/15/6-years">Telegram 的簡要歷史</a>。或者，如果您不愛閱讀，洗個澡，欣賞這些動態<a href="https://t.me/addstickers/UtyaDuck">橡皮鴨貼圖</a>。
 
 2019年9月5日<br>
 Telegram 團隊
