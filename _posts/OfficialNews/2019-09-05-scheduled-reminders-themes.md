@@ -18,7 +18,7 @@ preview_image: /images/scheduled-reminders-themes01.jpeg
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes03.gif" width="70%"></center>
 <br>
-無論何時傳送預約的訊息或提醒，您都會收到標有📅的特殊**通知**，因此您不會因過去計劃的訊息而措手不及。
+無論何時傳送預約的訊息或提醒，您都會收到標有<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes14.png" alt="📅" height="20" width="20">的特殊**通知**，因此您不會因過去計劃的訊息而措手不及。
 
 ### 自訂雲端主題
 在 <a href="https://telegram.how/2017/02/20/android-themes">2017</a> 年時，您首次可以**自訂 Telegram 的外觀**。而今天的更新讓所有平台都更容易使用這功能。
