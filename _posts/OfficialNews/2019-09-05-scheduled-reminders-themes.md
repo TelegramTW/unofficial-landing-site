@@ -33,7 +33,7 @@ preview_image: /images/scheduled-reminders-themes01.jpeg
 <br>
 當您修改主題時，所有使用該主題的用戶都會獲得**更新**。透過這種方式，您可以更新應用程式的外觀，以便隨著 Telegram 更新而進化 - 或者隨季節而變化。
 
-要嘗試雲端主題，請用看看<a href="https://t.me/addtheme/skyblue">天藍色</a>或<a href="https://t.me/addtheme/desert">沙漠色</a>。這些適用於 iOS 和 Android 版。另外，我們嚴肅地發誓最好不要期望在橙色上更新到酸性綠色。
+要嘗試雲端主題，請用看看<a href="https://t.me/addtheme/skyblue">天藍色</a>或<a href="https://t.me/addtheme/desert">沙漠色</a>。這些適用於 iOS 和 Android 版。
 ### 重新設計的訊息選項
 在 iOS 上，我們將訊息選項壓縮到**單一選單**中以進行轉傳、回覆等。現在您還可以**選擇訊息的任何部分**進行復製或分享，而不是只能選擇全文。
 
