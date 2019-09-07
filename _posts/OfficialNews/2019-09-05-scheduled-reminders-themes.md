@@ -42,7 +42,7 @@ preview_image: /images/scheduled-reminders-themes01.jpeg
 ### 新的隱私設定
 Telegram 群組可以是**公開的**，每個群組可以容納 **20 萬**名成員。當擴展群組容量時，我們考慮到的是校園、會議和您可以盡情吹噓關於您愛貓的空間。然而，Telegram 社群也越來越多地被用來組織彼此面對<a href="https://www.reuters.com/investigates/special-report/hongkong-protests-protesters/">壓迫</a>。
 
-我們相信所有人都有權**發表意見**並**私下**交流。為了進一步保護這些權利，我們今天提昇了 Telegram 的**隱私設定**功能。
+我們<a href="https://telegram.how/2018/03/22/200-million">相信</a>所有人都有權**發表意見**並**私下**交流。為了進一步保護這些權利，我們今天提昇了 Telegram 的**隱私設定**功能。
 
 如果您將「誰可以看見我的電話號碼」設定為「沒有人」，則會在下方顯示一個新選項，讓您可以控制**已經擁有該號碼的人**找到您的可能性。把「誰可以透過我的電話號碼找到我？」的設定設為「我的聯絡人」能夠確保將您的號碼加為聯絡人的隨機用戶**無法**將您在 Telegram 的個人資料與該號碼**相配對**。
 
