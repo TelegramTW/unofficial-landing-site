@@ -40,7 +40,7 @@ preview_image: /images/scheduled-reminders-themes01.jpeg
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/scheduled-reminders-themes06.gif" width="80%"></center>
 <br>
 ### 新的隱私設定
-Telegram 群組可以是**公開的**，每個群組可以容納 **20 萬**個成員。當擴展群組容量時，我們考慮到的是校園、會議和您可以盡情吹噓關於您愛貓的空間。然而，Telegram 社群也越來越多地被用來組織彼此面對<a href="https://www.reuters.com/investigates/special-report/hongkong-protests-protesters/">壓迫</a>。
+Telegram 群組可以是**公開的**，每個群組可以容納 **20 萬**名成員。當擴展群組容量時，我們考慮到的是校園、會議和您可以盡情吹噓關於您愛貓的空間。然而，Telegram 社群也越來越多地被用來組織彼此面對<a href="https://www.reuters.com/investigates/special-report/hongkong-protests-protesters/">壓迫</a>。
 
 我們相信所有人都有權**發表意見**並**私下**交流。為了進一步保護這些權利，我們今天提昇了 Telegram 的**隱私設定**功能。
 
