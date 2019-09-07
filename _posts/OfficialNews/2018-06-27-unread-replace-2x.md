@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      替換媒體，分享電子名片(vCard)，標示為未讀，2倍速播放語音訊息…
+title:      替換媒體，分享電子名片，標示為未讀，2倍速播放語音訊息…
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/unread-replace-2x
