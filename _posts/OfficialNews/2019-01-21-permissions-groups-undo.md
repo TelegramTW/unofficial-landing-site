@@ -18,7 +18,7 @@ preview_image: /images/permissions-groups-undo01.jpeg
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/permissions-groups-undo03.jpeg" width="70%"></center>
 <center>新建群組，重新設計的空白畫面</center>
 <br>
-到今天為止，超級群組和基本群組只是**群組**而已。現在只需輕點幾下即可將任何群組**公開**、已加入具有**不同權限**的管理員，或切換**新成員是否可看見加入前的聊天紀錄**。
+到今天為止，超級群組和基本群組只是**群組**而已。現在只需輕點幾下即可將任何群組**公開**、加入具有**不同權限**的管理員，或切換**新成員是否可看見加入前的聊天紀錄**。
 
 ### 復原清除聊天紀錄和刪除聊天
 
