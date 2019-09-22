@@ -40,7 +40,7 @@ preview_image: /images/unsend-privacy-emoji01.jpeg
 ### 表情符號搜尋和 GIF
 GIF和貼圖搜尋已在所有行動平台上升級 - 它現在看起來更好並且有更多功能。您找到的任何 GIF 都可以透過長按來預覽（譯者：iOS 版似乎目前沒有 GIF 放大預覽的功能）。貼圖包現在有**圖示**，這使得選擇正確的包更容易。Telegram 上檔案較大的 GIF 和視訊訊息現在是用串流傳輸，因此您不必等待下載完成就可以開始觀看。
 
-在 Telegram **Android 版**，您現在可以使用多種語言的關鍵字來尋找任何**表情符號**。如果我們缺少表情符號的關鍵字，歡迎您在<a href="https://translations.telegram.org/en/emoji">此處</a>提出建議 - 表情符號搜尋將不斷改進，但不需要更新 Telegram 。
+在 Telegram **Android 版**，您現在可以使用多種語言的關鍵字來尋找任何**表情符號**。如果我們缺少表情符號的關鍵字，歡迎您在<a href="https://translations.telegram.org/zh-hant/emoji">此處</a>提出建議 - 表情符號搜尋將不斷改進，但不需要更新 Telegram 。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/unsend-privacy-emoji06.gif" width="80%"></center>
 <br>
