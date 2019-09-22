@@ -10,12 +10,12 @@ preview_image: /images/unsend-privacy-emoji01.jpeg
 <br>
 對我們來說，您的私人數據是**神聖的**。我們從不使用您的數據來投放廣告。我們從未向第三方披露您的數據。我們只儲存 Telegram 運作所需要的。
 
-在 2013 年，我們讓數百萬人可以用端到端加密來傳送訊息。
+**2013** 年時，我們讓數百萬人可以用端到端加密來傳送訊息。
 
 今天，我們正在讓數億用戶**完全控制**他們曾經擁有的任何私人談話。您現在可以選擇刪除在**任何**私人聊天中雙方所傳送的任何訊息。訊息將從您和對方的裝置中消失 - 不留痕跡。
 
 ### 收回任何已傳送的
-我們 2 年前推出的「收回已傳送訊息」僅適用於您傳送的訊息，並且限定48小時以內才能收回。現在也可撤銷您**收到的**訊息，並且**沒有時間限制**。您也可以透過兩次的點擊完全刪除您和他人裝置上的任何私人聊天。
+我們 2 年前推出的「收回已傳送訊息」僅適用於您傳送的訊息，並且限定48小時以內才能收回。現在也可撤銷您**收到的**訊息，並且**沒有時間限制**。您也可以透過幾次的點擊將您與某人的全部聊天內容從雙方的裝置中刪除。
 
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/unsend-privacy-emoji02.gif" width="80%"></center>
@@ -38,7 +38,8 @@ preview_image: /images/unsend-privacy-emoji01.jpeg
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/unsend-privacy-emoji05.gif" width="80%"></center>
 <br>
 ### 表情符號搜尋和 GIF
-GIF和貼圖搜尋已在所有行動平台上升級 - 它現在看起來更好並且有更多功能。您找到的任何 GIF 都可以透過長按來預覽。貼圖包現在有**圖示**，這使得選擇正確的包更容易。Telegram 上檔案較大的 GIF 和視訊訊息現在是用串流傳輸，因此您不必等待下載完成就可以開始觀看
+GIF和貼圖搜尋已在所有行動平台上升級 - 它現在看起來更好並且有更多功能。您找到的任何 GIF 都可以透過長按來預覽（譯者：iOS 版似乎目前沒有 GIF 放大預覽的功能）。貼圖包現在有**圖示**，這使得選擇正確的包更容易。Telegram 上檔案較大的 GIF 和視訊訊息現在是用串流傳輸，因此您不必等待下載完成就可以開始觀看。
+
 在 Telegram **Android 版**，您現在可以使用多種語言的關鍵字來尋找任何**表情符號**。如果我們缺少表情符號的關鍵字，歡迎您在<a href="https://translations.telegram.org/en/emoji">此處</a>提出建議 - 表情符號搜尋將不斷改進，但不需要更新 Telegram 。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/unsend-privacy-emoji06.gif" width="80%"></center>
