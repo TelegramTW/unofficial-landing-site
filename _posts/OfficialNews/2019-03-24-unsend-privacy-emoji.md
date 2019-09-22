@@ -48,7 +48,7 @@ GIF和貼圖搜尋已在所有行動平台上升級 - 它現在看起來更好�
 ### VoiceOver 和 TalkBack
 我們加入了對輔助功能的支援 -&nbsp; iOS 上的 VoiceOver 和 Android 上的 TalkBack 。這些基於手勢的技術為您提供語音回饋，以便您可以在不看螢幕的情況下使用 Telegram 。
 
->告訴我們您認為下一次更新應該是什麼。
+>告訴我們您認為<a href="https://t.me/telegram/105">下一次的更新</a>應該是什麼。
 
 2019年3月24日<br>
 Telegram 團隊
