@@ -12,23 +12,23 @@ preview_image: /images/archive-and-new-design01.jpeg
 
 ### 一切都在適當的位置
 
-引進**封存的聊天**，這是聊天清單中用於春季大掃除的新工具。對您的活躍聊天和不活躍聊天進行排序，將個人的東西與工作分開，或將討厭的聯絡人流放到封存的聊天中以進行壯麗的複仇！
+引進**封存的聊天**，這是聊天清單中用於大掃除的新工具。對您的活躍聊天和不活躍聊天進行排序，將個人的東西與工作分開，或將討厭的聯絡人流放到封存的聊天中以進行壯麗的複仇！
 
 <center><img alt="" title="正在封存聊天" src="{{ site.baseurl | prepend: site.url }}/images/archive-and-new-design02.gif" width="80%"></center>
 <br>
-在一聊天上向左滑動就可以將其轉移到**封存的聊天**中。當一個封存中的聊天收到通知時，它將從封存中彈出並返回到您的聊天清單。但是，關閉通知的聊天將永久待在封存的聊天中。
+在一聊天上向左滑動就可以將其轉移到**封存的聊天**中。當一個封存中的聊天收到通知後，它將從封存中彈出並返回到您的聊天清單。但是，關閉通知的聊天即使收到訊息通知也將始終待在封存的聊天中。
 
 您可以向左滑動「封存的聊天」以**隱藏**它。向下拖動螢幕可再次看到它。
 
 <center><img alt="" title="隱藏及顯示「封存的聊天」" src="{{ site.baseurl | prepend: site.url }}/images/archive-and-new-design03.gif" width="80%"></center>
 <br>
-在封存的聊天中可以**無限數量地將聊天置頂**，以使訊息按照您想要的順序排列。當聊天從封存中收到通知彈出時，您可以再次對其進行封存，以將其返回到封存聊天中的原始位置。
+在封存的聊天中可以**無限數量地將聊天置頂**，以使訊息按照您想要的順序排列。當聊天從封存中收到通知彈出時，您可以再次對其進行封存，讓它返回到封存聊天中原本的位置。
 
 <center><img alt="" title="在封存中的置頂聊天" src="{{ site.baseurl | prepend: site.url }}/images/archive-and-new-design04.jpeg" width="60%"></center>
 <br>
 ### 批量操作忙碌聊天的清單
 
-時間就是金錢，金錢可以買貓糧，所以不要浪費時間。現在 **Android** 上的 Telegram 也可以使用聊天清單中的批量操作。長按一聊天可以開啟新選單，在其中您可以**點選多個聊天**，然後將其置頂、關閉通知、刪除或封存，這比以往任何時候都快。
+時間就是金錢，所以不要浪費時間。現在 **Android** 上的 Telegram 也可以使用聊天清單中的批量操作。長按一聊天可以開啟新選單，在其中您可以**點選多個聊天**，然後將其置頂、關閉通知、刪除或封存，這比以往任何時候都快。
 
 <center><img alt="" title="聊天清單中的批量操作" src="{{ site.baseurl | prepend: site.url }}/images/archive-and-new-design05.gif" width="80%"></center>
 <br>
@@ -63,7 +63,7 @@ preview_image: /images/archive-and-new-design01.jpeg
 <br>
 ### 您不可以通過
 
-同時，在 iOS 版上，除了以前的 4 位數字和自訂字母數字選項之外，**密碼鎖**設定已變得更時尚、更健壯，可以容納 **6 位代碼**。保守秘密，保持安全🔒。
+同時，在 iOS 版上，除了原本的 4 位數數字密碼和英數密碼選項之外，**密碼鎖**設定已變得更時尚、更健壯，可以容納 **6 位數數字密碼**。保守秘密，保持安全🔒。
 
 <center><img alt="" title="已更新的密碼鎖" src="{{ site.baseurl | prepend: site.url }}/images/archive-and-new-design11.gif" width="80%"></center>
 <br>
@@ -87,7 +87,7 @@ iOS 上的另一個新功能允許**清除**您**最近使用的貼圖**，因�
 
 <center><img alt="" title="連結到單個訊息" src="{{ site.baseurl | prepend: site.url }}/images/archive-and-new-design15.jpeg" width="60%"></center>
 <center>連結到單個訊息</center>
-
+<br>
 最後但並非最不重要的一點是，您現在可以從**聊天清單**和**共享選單**中立即看到誰**在線上**，以找出深夜還有誰在看貓影片。
 
 <center><img alt="" title="聊天清單上的在線上標記" src="{{ site.baseurl | prepend: site.url }}/images/archive-and-new-design16.jpeg" width="60%"></center>
