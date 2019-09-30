@@ -8,7 +8,7 @@ preview_image: /images/privacy-discussions-web-bots01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/privacy-discussions-web-bots01.jpeg">
 <br>
-Telegram 關於隱私的部份。在**2014**年，我們開創了訊息傳遞的細緻隱私設定。今天，我們讓**群組的例外設定**變得更加靈活。
+Telegram 關於隱私的部份。在**2014**年，我們開創了訊息傳遞的<a href="https://telegram.how/2014/11/19/Hiding_Last_Seen_Time">細緻隱私設定</a>。今天，我們讓**群組的例外設定**變得更加靈活。
 
 從現在開始，您可以在一個群組中向所有同學顯示某些內容，並讓您與其他所有同事保持私密狀態-只需輕按兩次即可：
 
@@ -26,21 +26,21 @@ Telegram 關於隱私的部份。在**2014**年，我們開創了訊息傳遞的
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/privacy-discussions-web-bots04.jpeg" width="60%"></center>
 <br>
-儘管這是完全可選的，但它為各種新型機器人打開了大門。要嘗試這種無縫授權，請按此貼文下方的「評論」按鈕。
+儘管這是完全可選的，但它為各種新型機器人打開了大門。要嘗試這種無縫授權，請按<a href="https://t.me/discussthis/2">此貼文</a>下方的「評論」按鈕。
 
-您可以在任何廣播頻道中將我們的樣本機器人 @discussbot 設為管理員，以在您發布的貼文下方獲得評論按鈕。評論按鈕將開啟一個網站，在該網站上登入就可以發表評論。如果有人回覆您在此處寫的內容，該機器人將通知您。
+您可以在任何廣播頻道中將我們的樣本機器人 <a href="https://t.me/discussbot">@discussbot</a> 設為管理員，以在您發布的貼文下方獲得評論按鈕。評論按鈕將開啟一個網站，在該網站上登入就可以發表評論。如果有人回覆您在此處寫的內容，該機器人將通知您。
 
 **任何人**都可以建立類似的機器人，以將其現有服務即時連結到 Telegram 。現在，將各種社交、遊戲、生產力、約會或電子商務服務整合到您的頻道中變得輕而易舉。
 
 ### 廣播遇見群組
-Telegram 頻道是一個可以將您的想法傳播給無限聽眾的工具。Telegram 群組可為多達**20萬**名成員的社群提供了一種民主的討論方式。
+Telegram 頻道是一個可以將您的想法傳播給無限觀眾的工具。Telegram 群組可為多達**20萬**名成員的社群提供一種民主的討論方式。
 
 自從我們啟動頻道和群組以來，用戶一直要求我們**在頻道中加入討論的功能**，並**在群組中公告**。透過這次的更新，管理員可以將一個群組加入到其頻道以作為頻道的討論區：
 
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/privacy-discussions-web-bots05.gif" width="80%"></center>
 <br>
-訂閱者將在底部面板上看到一個「討論」的連結，並且該頻道中的每則新貼文都會自動轉傳到討論群中並**置頂**。
+訂閱者將在頻道底部的面板上看到一個「討論」的連結，並且該頻道中的每則新貼文都會自動轉傳到討論群中並**置頂**。
 
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/privacy-discussions-web-bots06.gif" width="80%"></center>
@@ -79,7 +79,7 @@ iOS 版 Telegram 在**文字連結**方面也趕上了我們其他應用程式�
 <br>
 盡情玩樂，敬請期待我們的下一次更新。
 
-2019年5月31日<br>
-Telegram 團隊
+_2019年5月31日_<br>
+_Telegram 團隊_
 
 
