@@ -17,9 +17,9 @@ preview_image: /images/contacts-local-groups01.jpeg
 如果您希望他們消失，那麼**封鎖用戶**按鈕就在隔壁。
 
 ### 加入附近的人
-曾經在海灘派對上爭搶過名片嗎？還是在「讓我為您輸入我的電話號碼」的時刻將某人的電話丟入池中？不用擔心。
+曾經在海灘派對上爭搶過名片嗎？還是在「讓我為您輸入我的電話號碼」的時刻將某人的電話丟入池中？您不用再擔心了。
 
-只需開啟「聯絡人」>「加入附近的人」頁面，即可與**站在您旁邊**的 Telegram 用戶快速**交換聯絡資訊**（對方也必須開啟此頁面）。
+只需開啟「聯絡人」>「加入附近的人」頁面，就可以與**站在您旁邊**的 Telegram 用戶快速**交換聯絡資訊**（對方也必須開啟此頁面）。
 
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/contacts-local-groups03.gif" width="80%"></center>
@@ -31,11 +31,11 @@ preview_image: /images/contacts-local-groups01.jpeg
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/contacts-local-groups04.gif" width="80%"></center>
 <br>
-點擊**建立地區群組**以團結您的宿舍或公寓大樓的住戶，也許您最終可以讓住在 2C 的 Todd 將他的音樂關小聲。
+點擊**建立地區群組**以團結您的宿舍或公寓大樓的住戶，也許最終您可以讓住在 2C 的土豆將他的音樂關小聲。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/contacts-local-groups05.jpeg" width="80%"></center>
 <br>
-此更新開啟了基於位置的群組聊天新世界，從會議、節日、體育館、校園到同在一家咖啡館的人們，都可以實現。
+這次的更新開啟了基於位置的群組聊天新世界，從會議、節日、體育館、校園到同在一家咖啡館的人們，都可以實現。
 
 ### 轉讓群組
 如果您厭倦了當群組的主持人，您可以將負擔轉嫁給另一位管理員。Telegram 應用程式現在支援將任何**群組**和**頻道**的擁有權轉讓給其他用戶。
@@ -55,20 +55,20 @@ preview_image: /images/contacts-local-groups01.jpeg
 
 ### Siri 快捷方式
 
-iOS 裝置的所有者現在可以使用 Siri 快捷方式與他人進行聊天。
+iOS 裝置的擁有者現在可以使用 Siri 快捷方式與他人進行聊天。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/contacts-local-groups08.jpeg" width="80%"></center>
 <br>
 
-### 主題選擇器和圖示樣式
+### 主題選擇器和圖示風格
 
 我們還對 iOS 上的**外觀**設定進行了改進，讓您在確定要用哪個主題之前，輕鬆比較不同主題的外觀。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/contacts-local-groups09.jpeg" width="80%"></center>
 <br>
-不久前，**iOS 版**的 **Telegram X** 應用程式得到了升級，成為了**官方版的** Telegram ，並且其先前的外殼已從 App Store 中刪除。如果您基於某種原因仍在使用它，那麼這是個切換的好時機 - Telegram X 現在是主分支後面的第三個版本。
+不久前，**iOS 版**的 **Telegram X** 應用程式得到了升級，成為了**官方版的** Telegram ，並且其先前的外殼已從 App Store 中刪除。如果您基於某種原因仍在使用它，那麼這是個切換的好時機 - 現在，新的官方版 Telegram 是主分支後面的第三個版本。
 
-一些用戶告訴我們他們不想切換，因為他們更喜歡 Telegram X 圖示。因此，此次更新為您的 iOS 應用圖示加入了一種變回黑色的方式：
+一些用戶告訴我們他們不想切換，因為他們更喜歡 Telegram X 的圖示。因此，這次更新為您的 iOS 版應用圖示加入了一種變回黑色的方式：
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/contacts-local-groups10.jpeg" width="80%"></center>
 <br>
