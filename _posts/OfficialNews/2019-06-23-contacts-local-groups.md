@@ -66,7 +66,7 @@ iOS 裝置的擁有者現在可以使用 Siri 快捷方式與他人進行聊天�
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/contacts-local-groups09.jpeg" width="70%"></center>
 <br>
-不久前，**iOS 版**的 **Telegram X** 應用程式得到了升級，成為了**官方版的** Telegram ，並且其先前的外殼已從 App Store 中刪除。如果您基於某種原因仍在使用它，那麼這是個切換的好時機 - 現在，新的官方版 Telegram 是主分支後面的第三個版本。
+不久前，**iOS 版**的 <a href="https://telegram.how/2018/01/31/telegram-x">Telegram X</a> 應用程式得到了升級，成為了**官方版的** Telegram ，並且其先前的外殼已從 App Store 中刪除。如果您基於某種原因仍在使用它，那麼這是個切換的好時機 - 現在，新的官方版 Telegram 是主分支後面的第三個版本。
 
 一些用戶告訴我們他們不想切換，因為他們更喜歡 Telegram X 的圖示。因此，這次更新為您的 iOS 版應用圖示加入了一種變回黑色的方式：
 
