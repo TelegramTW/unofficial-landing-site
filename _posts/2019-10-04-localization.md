@@ -1,9 +1,7 @@
 ---
 layout:     page
 title:      中文化 Telegram
-categories:
-          - 程式使用
-          - 說明
+
 permalink:  /localization
 ---
 
