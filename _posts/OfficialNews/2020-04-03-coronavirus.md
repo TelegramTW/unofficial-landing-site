@@ -13,7 +13,7 @@ preview_image: /images/coronavirus01.jpeg
 最近，我們注意到一種新的頻道類型日益受到歡迎：世界各地的**衛生部門**建立的頻道。<a href="https://t.me/MyGovCoronaNewsdesk">印度</a>、<a href="https://t.me/cprckkm">馬來西亞</a>、<a href="https://t.me/MOHreport">以色列</a>和<a href="https://t.me/corona/14">許多其他國家</a>現在透過 Telegram 傳送新聞更新、警告和提示。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/coronavirus02.gif" width="70%"></center>
-<br>
+
 ><a href="https://telegram.org/tour/channels">有關頻道及其功能的更多資訊»</a>
 
 ### 新的驗證工具
@@ -36,13 +36,13 @@ preview_image: /images/coronavirus01.jpeg
 Telegram 頻道非常適合進行大規模單向廣播，但是如果您正在尋找更多的互動方式來通知人們，請嘗試使用**群組**或**機器人**。
 
 每個 **Telegram 群組**最多可以有**20萬名成員**，並提供強大的工具來維持秩序。例如，印度卡納塔克邦的醫生正在使用這個<a href="https://t.me/karnataka_Covid19">公開群組</a>來回答用戶的問題。
-
 ><a href="https://telegram.org/tour/groups">有關 Telegram 群組的更多資訊»</a>
 
 **Telegram 機器人**是第三方應用程式，您可以直接從聊天列表中與它互動。您使用按鈕與它們交談-它們會用各種訊息和媒體回覆。機器人非常靈活，可用於從提供資訊到與其他Web服務整合的任何事情。
 
 例如，查看 <a href="https://t.me/quizbot">@QuizBot</a>，它可以建立並運行像<a href="https://t.me/quizbot?start=GreatMinds">這樣的</a>測驗。
 ><a href="https://core.telegram.org/bots">有關 Telegram 機器人的更多資訊»</a>
+
 ### 還有一件事情
 對於現實世界中口罩的短缺，我們無能為力，但是我們的藝術家找到了一種方法，可以擠出無窮無盡的耗材供應到您的應用程式中。
 
