@@ -28,7 +28,7 @@ preview_image: /images/coronavirus01.jpeg
 我們邀請所有衛生官員一起**合作**以使人們了解最新情況。如果您在您國家的衛生部門工作，並想推廣部門的頻道，請先使用 <a href="https://t.me/verifybot">@VerifyBot</a> 對其進行驗證，然後透過 *corona@telegram.org* 與我們聯絡。
 
 ### 冠狀病毒資訊
-為確保用戶找到有關其所在地區大流行的準確且相關的資訊，我們建立了一個<a href="https://t.me/corona">特別的頻道</a>，該頻道在搜尋中顯示為所有**與冠狀病毒相關的關鍵字**的最佳搜尋結果。它包含按國家/地區列出的官方新聞來源的列表：
+為確保用戶找到有關其所在地區大流行的準確且相關的資訊，我們建立了一個<a href="https://t.me/corona">特別的頻道</a>，該頻道在搜尋中顯示為所有**與冠狀病毒相關的關鍵字**的最佳搜尋結果。它包含按國家列出的官方新聞來源的列表：
 
 <script async="" src="https://telegram.org/js/telegram-widget.js?7" data-telegram-post="corona/16" data-width="100%"></script>
 
