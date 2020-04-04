@@ -12,7 +12,7 @@ preview_image: /images/coronavirus01.jpeg
 <br>
 最近，我們注意到一種新的頻道類型日益受到歡迎：世界各地的**衛生部門**建立的頻道。<a href="https://t.me/MyGovCoronaNewsdesk">印度</a>、<a href="https://t.me/cprckkm">馬來西亞</a>、<a href="https://t.me/MOHreport">以色列</a>和<a href="https://t.me/corona/14">許多其他國家</a>現在透過 Telegram 傳送新聞更新、警告和提示。
 
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/images/coronavirus02.gif" width="70%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/coronavirus02.gif" width="70%"></center>
 <br>
 ><a href="https://telegram.org/tour/channels">有關頻道及其功能的更多資訊»</a>
 
@@ -47,7 +47,7 @@ Telegram 頻道非常適合進行大規模單向廣播，但是如果您正在�
 對於現實世界中口罩的短缺，我們無能為力，但是我們的藝術家找到了一種方法，可以擠出無窮無盡的耗材供應到您的應用程式中。
 
 您可以將<a href="https://t.me/addstickers/Coronamask">此套面具中的口罩</a>應用於您所傳送的任何圖片，方法是透過使用附加的<a href="https://telegram.how/2016/09/23/masks">照片編輯器</a>。 是否因此提高警覺，還是只是為了隱藏自己的鼻子就取決於您。
-<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/images/coronavirus03.gif" width="70%"></center>
+<center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/coronavirus03.gif" width="70%"></center>
 <br>
 待在家裡。勤洗手。注意安全。敬請期待我們的下一次更新！
 
