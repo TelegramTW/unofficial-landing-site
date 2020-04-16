@@ -30,7 +30,7 @@ preview_image: /images/coronavirus01.jpeg
 ### 冠狀病毒資訊
 為確保用戶找到有關其所在地區大流行的準確且相關的資訊，我們建立了一個<a href="https://t.me/corona">特別的頻道</a>，該頻道在搜尋中顯示為所有**與冠狀病毒相關的關鍵字**的最佳搜尋結果。它包含按國家列出的官方新聞來源的列表：
 
-<script async="" src="https://telegram.org/js/telegram-widget.js?7" data-telegram-post="corona/16" data-width="100%"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?8" data-telegram-post="corona/17" data-width="100%"></script>
 
 ### 除了頻道以外：群組和機器人
 Telegram 頻道非常適合進行大規模單向廣播，但是如果您正在尋找更多的互動方式來通知人們，請嘗試使用**群組**或**機器人**。
