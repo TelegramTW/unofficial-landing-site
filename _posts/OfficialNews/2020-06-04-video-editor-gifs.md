@@ -8,7 +8,7 @@ preview_image: /images/video-editor-gifs01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/video-editor-gifs01.jpeg">
 <br>
-在2015年，Telegram 發布了通訊App中最強大的**照片編輯器**，讓您可以加強圖片品質，並可加入手繪、貼圖和文字到圖片中。今天，我們升級了媒體編輯器，以支持**動態貼圖**和編輯**影片**。<br>
+在<a href="https://telegram.how/2015/02/25/Photo_Editor_and_Passcode_Lock">2015年</a>，Telegram 發布了通訊App中最強大的**照片編輯器**，讓您可以加強圖片品質，並可加入手繪、貼圖和文字到圖片中。今天，我們升級了媒體編輯器，以支持**動態貼圖**和編輯**影片**。<br>
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/video-editor-gifs02.gif" width="70%"></center>
 <br>
@@ -17,7 +17,7 @@ preview_image: /images/video-editor-gifs01.jpeg
 為了達到理想的筆刷精確度，在照片或影片上**畫圖**時**放大**它們以使每一條線都正確。您的彩妝（或同學的鬍鬚）將永遠看起來不一樣。
 
 ### 媒體上的動態貼圖
-最重要的是，現在您可以在任何照片或影片中加入**動態貼圖**，以防您有需要用電臀櫻桃來裝飾餐桌。在照片上貼動態貼圖可將它轉換為**GIF**：
+最重要的是，現在您可以在任何照片或影片中加入**動態貼圖**，以防您有需要用<a href="https://t.me/addstickers/HotCherry">電臀櫻桃</a>來裝飾餐桌。在照片上貼動態貼圖可將它轉換為**GIF**：
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/video-editor-gifs03.gif" width="70%"></center>
 <br>
@@ -28,7 +28,7 @@ GIF面板已升級，增加了新的**熱門**GIF的分頁和**基於表情符�
 <br>
 我們還縮短了面板中GIF的**載入時間**，因此您可以更快地找到理想的GIF。之前傳送過的任何GIF會保存到**最近的**GIF分頁中，以備之後要使用。
 ### 彈性資料夾
-如果您有很多聊天並使用資料夾，可按住聊天列表中的任何聊天以將它加入到您的一個資料夾中。這個方法也適用於從資料夾中刪除聊天。最後呼籲您來個春季大掃除！
+如果您有很多聊天並使用<a href="https://telegram.how/2020/03/30/folders">資料夾</a>，可按住聊天列表中的任何聊天以將它加入到您的一個資料夾中。這個方法也適用於從資料夾中刪除聊天。最後呼籲您來個春季大掃除！
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/video-editor-gifs05.jpeg" width="70%"></center>
 <br>
