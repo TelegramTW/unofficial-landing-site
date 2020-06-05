@@ -17,7 +17,7 @@ preview_image: /images/video-editor-gifs01.jpeg
 為了達到理想的筆刷精確度，在照片或影片上**畫圖**時**放大**它們以使每一條線都正確。您的彩妝（或同學的鬍鬚）將永遠看起來不一樣。
 
 ### 媒體上的動態貼圖
-最重要的是，現在您可以在任何照片或影片中加入**動態貼圖**，以防您有需要用<a href="https://t.me/addstickers/HotCherry">電臀櫻桃</a>來裝飾餐桌。在照片上貼動態貼圖可將它轉換為**GIF**：
+最重要的是，現在您可以在任何照片或影片中加入**動態貼圖**，以防您有需要用<a href="https://t.me/addstickers/HotCherry">電臀櫻桃</a>來裝飾餐桌。在照片中貼上動態貼圖可將它轉換為**GIF**：
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/video-editor-gifs03.gif" width="70%"></center>
 <br>
