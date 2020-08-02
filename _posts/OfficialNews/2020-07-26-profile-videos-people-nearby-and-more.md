@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      個人資料影片，2 GB的檔案共享，群組統計資料，改善“ 附近的人”等
+title:      個人資料影片，2 GB的檔案共享，群組統計，改善附近的人等
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/profile-videos-people-nearby-and-more
