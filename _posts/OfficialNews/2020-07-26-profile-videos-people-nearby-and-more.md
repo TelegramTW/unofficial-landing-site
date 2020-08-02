@@ -76,7 +76,7 @@ preview_image: /images/profile-videos-people-nearby-and-more01.jpeg
 <br>
 小心，其中之一會咬人。當然我們不會告訴您是哪一個。
 
-如果您正在尋找更具互動性的某樣東西，請嘗試在任何聊天中傳送一個<img alt="" src="images/profile-videos-people-nearby-and-more13.png" height="20" width="20">️以觀看您是否會**進球**：
+如果您正在尋找更具互動性的某樣東西，請嘗試在任何聊天中傳送一個<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/profile-videos-people-nearby-and-more13.png" height="20" width="20">以觀看您是否會**進球**：
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/profile-videos-people-nearby-and-more12.gif" width="70%"></center>
 <br>
