@@ -49,6 +49,7 @@ preview_image: /images/profile-videos-people-nearby-and-more01.jpeg
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/profile-videos-people-nearby-and-more06.gif" width="70%"></center>
 <br>
 >會從非聯絡人那收到大量訊息的用戶，這功能才會出現。如果您僅與朋友和家人聊天，則可能無法使用，但是活躍在社群中，經常使用“附近的人”或擁有受歡迎的用戶名稱（等）的用戶可能會看到它。
+
 ### 群組統計資料
 現在，只要擁有500名以上成員的**大型群組**擁有者就可以查看有關群組活動和成長情況的精美**詳細圖表**。現在，群組統計資料還會顯示按訊息數和平均訊息長度來列出**頂級成員**的列表。
 
