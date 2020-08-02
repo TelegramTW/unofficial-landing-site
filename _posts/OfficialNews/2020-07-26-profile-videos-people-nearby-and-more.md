@@ -65,7 +65,7 @@ preview_image: /images/profile-videos-people-nearby-and-more01.jpeg
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/profile-videos-people-nearby-and-more09.gif" width="70%"></center>
 <br>
 ### 在 Telegram Desktop 上使用多個帳號
-使用 Telegram，您可以在同一程式中保持**3個帳號**登入的狀態，這些帳號分別使用**不同的電話號碼**註冊。<a href="https://telegram.how/2017/12/30/themes-accounts">自2017年</a>，我們行動端應用程式就已經有此功能，而今天，多平台的 <a href="https://desktop.telegram.org/">Telegram Desktop</a> 也正式內建了此功能。您在使用電腦版時，再也不需要煩惱在切換使用不同帳號時，需要登出、登入了。
+使用 Telegram，您可以在同一程式中保持**3個帳號**登入的狀態，這些帳號分別使用**不同的電話號碼**註冊。<a href="https://telegram.how/2017/12/30/themes-accounts">自2017年</a>，我們行動端應用程式就已經有此功能，而今天，多平台的 <a href="https://desktop.telegram.org/">Telegram Desktop</a> 也正式內建了此功能。您在使用電腦版時，再也不需要煩惱在切換不同帳號時，需要登出、登入了。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/profile-videos-people-nearby-and-more10.gif" width="70%"></center>
 <br>
