@@ -84,7 +84,7 @@ preview_image: /images/profile-videos-people-nearby-and-more01.jpeg
 自2014年以來，Telegram 用戶就可以分享最大容量為 **1.5 GB**的檔案。
 
 而現在開始，您可以傳送無限數量的任何類型媒體和檔案 - 每個最大 **2 GB**。
-***
+* * *
 今天就這樣。我們現在處於年中 - 之後還有八項主要更新，大家期待已久的功能即將推出。敬請關注！
 
 
