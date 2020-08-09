@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      個人資料影片，2 GB的檔案共享，群組統計，改善附近的人等
+title:      動態大頭貼，2 GB的檔案共享，群組統計，改善附近的人等
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/profile-videos-people-nearby-and-more
@@ -8,16 +8,16 @@ preview_image: /images/profile-videos-people-nearby-and-more01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/profile-videos-people-nearby-and-more01.jpeg">
 <br>
-今天的更新帶來了**個人資料影片**以及改進的**附近的人**，無限制的檔案共享（每個檔案最大 **2 GB**，聊天列表和通知的**迷你縮圖**，**群組統計資料**等。
+今天的更新帶來了**動態大頭貼**以及改進的**附近的人**，無限制的檔案共享（每個檔案最大 **2 GB**，聊天列表和通知的**迷你縮圖**，**群組統計資料**等。
 
-### 個人資料影片
+### 動態大頭貼
 現在，您可以將**影片**上傳到個人資料 - 並從影片中為個人靜態大頭貼選擇所需的影格。捕捉自己的動作，或向人們擠眉弄眼，就像在*哈利·波特*中的神奇動態照片。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/profile-videos-people-nearby-and-more02.gif" width="70%"></center>
 <br>
 和您上傳的其他影片一樣，我們的<a href="https://telegram.how/2020/06/04/video-editor-gifs">媒體編輯器</a>可以幫助您**提高品質** - 或使用**動態貼圖**來裝飾自己。
 
-隨著心情的變化，您可以透過點擊*“設為主要”*快速**切換回**先前的大頭貼或個人資料影片。
+隨著心情的變化，您可以透過點擊*“設為主要”*快速**切換回**先前的大頭貼或動態大頭貼。
 
 ### 柔膚
 說到媒體編輯器，您使用**前置鏡頭**拍攝的任何照片或影片現在都可以在媒體編輯器中使用**柔膚**選項。但您並不需要它來讓您看起來美好，您已經很美了。
@@ -51,7 +51,7 @@ preview_image: /images/profile-videos-people-nearby-and-more01.jpeg
 >會從非聯絡人那收到大量訊息的用戶，這功能才會出現。如果您僅與朋友和家人聊天，則可能無法使用，但是活躍在社群中，經常使用“附近的人”或擁有受歡迎的用戶名稱（等）的用戶可能會看到它。
 
 ### 群組統計資料
-現在，只要擁有500名以上成員的**大型群組**擁有者就可以查看有關群組活動和成長情況的精美**詳細圖表**。現在，群組統計資料還會顯示按訊息數和平均訊息長度來列出**頂級成員**的列表。
+現在，只要擁有500名以上成員的**大型群組**擁有者就可以查看有關群組活動和成長情況的精美**詳細圖表**。現在，群組統計資料還會顯示按訊息數和平均訊息長度來列出**最活躍成員**的列表。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/profile-videos-people-nearby-and-more08.gif" width="70%"></center>
 <br>
