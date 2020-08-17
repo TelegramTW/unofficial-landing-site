@@ -19,7 +19,7 @@ preview_image: /images/video-calls01.jpeg
 <br>
 所有視訊通話都有**端到端加密**（end-to-end encryption）的保護。要確認您的連線是否安全，請比較您和您的聊天夥伴螢幕上顯示的**四個表情符號** - 如果完全相同，您的通話將是**100％安全的**，其中的方法是透過使用經過時間考驗的加密功能，而該加密功能已使用於 Telegram 的秘密聊天和語音通話中。您可以在<a href="https://core.telegram.org/api/end-to-end/video-calls">此頁面</a>上找到更多詳細資訊。
 
->我們 Android 和 iOS 版的應用程式具有<a href="https://core.telegram.org/reproducible-builds">可再現的構建</a> （reproducible builds），因此任何人都可以**驗證加密**並確認其應用程式使用與我們在每次更新中發布的是**完全相同的**<a href="https://telegram.org/apps#source-code">開源碼</a>。
+>我們 Android 和 iOS 版的應用程式具有<a href="https://core.telegram.org/reproducible-builds">可再現的建構</a> （reproducible builds），因此任何人都可以**驗證加密**並確認其應用程式使用與我們在每次更新中發布的是**完全相同的**<a href="https://telegram.org/apps#source-code">開源碼</a>。
 
 隨著我們努力在未來幾個月內將推出**群組視訊通話**，視訊通話將在未來的版本中獲得更多功能和改進。但年中的里程碑，讓您現在可以與最親近的人進行一對一的交流，無論他們身在另一房間還是在另一國家。
 
