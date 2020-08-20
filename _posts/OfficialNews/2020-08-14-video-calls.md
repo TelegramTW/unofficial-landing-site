@@ -21,7 +21,7 @@ preview_image: /images/video-calls01.jpeg
 
 >我們 Android 和 iOS 版的應用程式具有<a href="https://core.telegram.org/reproducible-builds">可再現的建構</a> （reproducible builds），因此任何人都可以**驗證加密**並確認其應用程式使用與我們在每次更新中發布的是**完全相同的**<a href="https://telegram.org/apps#source-code">開源碼</a>。
 
-我們將努力在未來幾個月內推出**群組視訊通話**，視訊通話會在未來的版本中獲得更多功能和改進。但年中的里程碑，讓您現在可以與最親近的人進行一對一的交流，無論他們身在另一房間還是在另一國家。
+我們將努力在未來幾個月內推出**群組視訊通話**，視訊通話會在未來的版本中獲得更多功能和改進。但年中的里程碑，讓您現在可以與最親近的人進行一對一的交流，無論他們身在另一個房間還是在另一個國家。
 
 ### 更多動態表情符號
 為了幫您慶祝，我們新增了另一批**動態表情符號**。要在聊天中獲取<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/video-calls04.png" height="20" width="20">其中之一，只需傳送帶有單個表情符號的訊息即可。
