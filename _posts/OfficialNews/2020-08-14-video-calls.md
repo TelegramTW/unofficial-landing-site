@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      視訊通話和七週年的 Telegram
+title:      視訊通話和 Telegram 七週年
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/video-calls
