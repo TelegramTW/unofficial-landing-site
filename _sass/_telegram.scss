@@ -75,13 +75,13 @@ a:hover {
   color: #0088cc;
 }
 .navbar-tg .nav .active a {
-  box-shadow: 0px 3px 0px 0px #179cde;
-  -webkit-box-shadow: 0px 3px 0px 0px #179cde;
+  box-shadow: 0 3px 0 0 #179cde;
+  -webkit-box-shadow: 0 3px 0 0 #179cde;
   padding-bottom: 13.5px;
 }
 .navbar-tg .nav li a:hover {
-  box-shadow: 0px 3px 0px 0px #179cde;
-  -webkit-box-shadow: 0px 3px 0px 0px #179cde;
+  box-shadow: 0 3px 0 0 #179cde;
+  -webkit-box-shadow: 0 3px 0 0 #179cde;
   padding-bottom: 13.5px;
 }
 .navbar-tg .nav a,
@@ -140,7 +140,7 @@ a:hover {
 .dropdown-menu {
   min-width: 177px;
   padding: 0;
-  margin: 7px 0 0 0;
+  margin: 7px 0 0;
   list-style: none;
   font-size: 13px;
   text-align: left;
@@ -178,7 +178,7 @@ a:hover {
 #dev_page_content > ul:not(.nav) li {
   background-image: url(../img/bullet.png);
   background-repeat: no-repeat;
-  background-position: 0px 8px;
+  background-position: 0 8px;
   padding-left: 20px;
 }
 
@@ -220,7 +220,7 @@ blockquote p {
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
-  margin: 20px 0 10px 0;
+  margin: 20px 0 10px;
   position: relative;
 }
 h1 {
@@ -306,7 +306,7 @@ a.anchor i.anchor-icon {
 h1 a.anchor i.anchor-icon {margin-top: 2px;}
 h2 a.anchor i.anchor-icon {margin-top: 2px;}
 h3 a.anchor i.anchor-icon {margin-top: 2px;}
-h4 a.anchor i.anchor-icon {margin-top: 0px;}
+h4 a.anchor i.anchor-icon {margin-top: 0;}
 
 
 h1:hover a.anchor i.anchor-icon,
@@ -469,7 +469,7 @@ a.side_blog_entry:hover .side_blog_title {
   right: 137px;
 }
 .tl_main_bottom_blog {
-  margin: 0px 15px 20px;
+  margin: 0 15px 20px;
 }
 .side_blog_wrap {
   background: none;
@@ -489,12 +489,10 @@ a.side_blog_entry:hover .side_blog_title {
   right: -200px;
 }
 
-
-
 .tl_main_logo_wrap {
   max-width: 315px;
   margin: 0 auto;
-  padding: 20px 0 20px;
+  padding: 20px 0;
 }
 a.tl_main_logo {
   display: block;
@@ -567,8 +565,7 @@ img.tl_main_logo {
 .tl_main_download_mobile {
   text-align: center;
   max-width: 1028px;
-  margin: 20px auto 20px;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 .tl_main_download_link {
   text-align: center;
@@ -779,7 +776,6 @@ h3.tl_main_card_header {
   display: none;
 }
 .footer_columns_wrap {
-  padding-left: 0;
   padding: 0 0 0 63px;
   margin: 0;
 }
@@ -950,7 +946,6 @@ h3.tl_main_card_header {
   font-size: 14px;
   line-height: 20px;
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
-  border: 1px solid #eee;
   height: auto;
   position: relative;
 
@@ -1045,14 +1040,13 @@ h3.tl_main_card_header {
 }
 .dev_side_nav {
   position: absolute;
-  right: 0;
   width: 200px;
   right: -200px;
 }
 .dev_side_nav > ul {
   width: 200px;
   background: none;
-  padding: 10px 0 10px;
+  padding: 10px 0;
 }
 .dev_side_nav > ul::-webkit-scrollbar {
   display: none;
@@ -1076,7 +1070,7 @@ h3.tl_main_card_header {
 }
 .dev_side_nav li a {
   border-left: 2px solid transparent;
-  padding: 10px 10px;
+  padding: 10px;
   background: none !important;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1086,13 +1080,11 @@ h3.tl_main_card_header {
   display: block;
   padding: 4px 20px;
   font-size: 13px;
-  font-weight: 500;
   padding-left: 18px;
   font-weight: 700;
   background-color: transparent;
 }
 .dev_side_nav li li a {
-  padding-left: 15px;
   padding-top: 1px;
   padding-bottom: 1px;
   padding-left: 30px;
@@ -1112,10 +1104,7 @@ h3.tl_main_card_header {
   display: block;
 }
 
-
 /* Core / dev end*/
-
-
 
 /* Support */
 .support_wrap {
@@ -1124,9 +1113,6 @@ h3.tl_main_card_header {
   margin: 0 auto;
   padding: 20px 0;
 }
-.support_submit {
-}
-
 
 /* FAQ */
 .twitter_timeline_wrap {
@@ -1214,7 +1200,7 @@ h3.tl_main_card_header {
   display: block;
   max-width: 800px;
   margin: 0 auto;
-  padding: 10px 0px 5px;
+  padding: 10px 0 5px;
 }
 .tl_contest_page_wrap .dev_page_image {
   max-width: 600px;
@@ -1252,7 +1238,7 @@ h3.tl_main_card_header {
 .tl_contest_page_wrap #dev_page_title {
   font-size: 24.5px;
   line-height: 33px;
-  margin: 20px 0 10px 0;
+  margin: 20px 0 10px;
 }
 .tl_contest_dl_btn {
   padding: 0;
@@ -1298,9 +1284,6 @@ h3.tl_main_card_header {
   width: 185px;
   margin: 10px auto 20px;
 }
-.blog_image_wrap a {
-
-}
 .blog_image_wrap img {
   width: 185px;
   padding: 10px 5px;
@@ -1318,7 +1301,7 @@ h3.tl_main_card_header {
 .blog_2images_wrap,
 .blog_3images_wrap {
   width: 384px;
-  margin: 20px auto 20px;
+  margin: 20px auto;
 }
 .blog_3images_wrap {
   width: 575px;
@@ -1425,7 +1408,7 @@ h3.tl_main_card_header {
 
 /* Telegram Me */
 .tgme_page_wrap {
-  font-family: 'Roboto', sans-serif;;
+  font-family: 'Roboto', sans-serif;
   color: #575757;
 }
 .tgme_page_wrap a,
@@ -1438,9 +1421,9 @@ h3.tl_main_card_header {
   background: #FFF;
   height: 60px;
   padding: 16px 18px;
-  -webkit-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.15);
-  -moz-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.15);
-  box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.15);
+  -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.15);
+  -moz-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.15);
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,0.15);
 }
 .tgme_logo {
   display: inline-block;
@@ -1452,16 +1435,15 @@ h3.tl_main_card_header {
 a.tgme_head_dl_button {
   display: none;
   font-size: 16px;
-  line-height: 100%;
   color: #FFF;
   background: #5eb7e5;
   padding: 2px 15px 0 16px;
   height: 45px;
   line-height: 43px;
 
-  -webkit-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.15);
-  -moz-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.15);
-  box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.15);
+  -webkit-box-shadow: inset 0 1px 3px 0 rgba(0,0,0,0.15);
+  -moz-box-shadow: inset 0 1px 3px 0 rgba(0,0,0,0.15);
+  box-shadow: inset 0 1px 3px 0 rgba(0,0,0,0.15);
 }
 a.tgme_head_dl_button:hover,
 a.tgme_head_dl_button:active {
@@ -1566,7 +1548,7 @@ a.tgme_action_button:active {
   text-align: center;
   max-width: 330px;
   padding: 0 10px;
-  margin: 0 auto 0;
+  margin: 0 auto;
 }
 .tgme_footer_action {
   text-align: center;
@@ -1590,7 +1572,7 @@ a.tgme_footer_dl_button:active {
 
 /* New mobile blog */
 .tlb_page_wrap {
-  font-family: 'Roboto', sans-serif;;
+  font-family: 'Roboto', sans-serif;
 }
 .tlb_page_wrap a,
 .tlb_page_wrap a:hover,
@@ -1600,7 +1582,7 @@ a.tgme_footer_dl_button:active {
 .tlb_page_head {
   background: #FFF;
   height: 47px;
-  padding: 12px 12px;
+  padding: 12px;
 }
 .tlb_blog_logo {
   display: inline-block;
@@ -1623,7 +1605,7 @@ a.tlb_blog_head_more_link {
   font-size: 15px;
   color: #FFF;
   background: #3faee8;
-  padding: 0 15px 0 15px;
+  padding: 0 15px;
   height: 42px;
   line-height: 42px;
 }
@@ -1945,7 +1927,7 @@ i.tl_telegram_share_icon {
     margin-left: -19px;
   }
   .footer_wrap {
-    padding: 16px 0 16px;
+    padding: 16px 0;
   }
   .footer_desktop {
     display: none;
