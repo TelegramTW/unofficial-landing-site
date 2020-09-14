@@ -323,8 +323,6 @@ i.anchor-icon:hover {
 
 .breadcrumb {
   background-color: #ecf3fa;
-}
-.breadcrumb {
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -423,10 +421,12 @@ i.anchor-icon:hover {
 }
 
 .side_blog_wrap {
-  background: #ecf3fa;
-  padding: 15px 20px 20px;
   font-size: 12px;
   width: 180px;
+  background: none;
+  padding: 5px 17px;
+  margin: 0 0 17px 26px;
+  border-left: 5px solid #179cde;
 }
 .side_blog_header {
   display: block;
@@ -470,12 +470,6 @@ a.side_blog_entry:hover .side_blog_title {
 }
 .tl_main_bottom_blog {
   margin: 0 15px 20px;
-}
-.side_blog_wrap {
-  background: none;
-  padding: 5px 17px;
-  margin: 0 0 17px 26px;
-  border-left: 5px solid #179cde;
 }
 .tl_blog_bottom_blog .side_blog_wrap {
   margin: 0 0 0 10px;
@@ -1070,13 +1064,10 @@ h3.tl_main_card_header {
 }
 .dev_side_nav li a {
   border-left: 2px solid transparent;
-  padding: 10px;
   background: none !important;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-}
-.dev_side_nav li a {
   display: block;
   padding: 4px 20px;
   font-size: 13px;
@@ -1226,7 +1217,7 @@ h3.tl_main_card_header {
   position: absolute;
 }
 .tl_contest_side_image2 {
-  margin-top: 0px;
+  margin-top: 0;
 }
 .tl_contest_side_image3 {
   margin-top: 10px;
@@ -1825,8 +1816,6 @@ i.tl_telegram_share_icon {
   color: #525252;
   padding: 9px 0 5px;
   font-weight: normal;
-}
-#td_about_osx {
   position: absolute;
   width: 600px;
   opacity: 0;
