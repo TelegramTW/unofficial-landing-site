@@ -27,7 +27,13 @@
   width: 100%;
   min-height: 40px;
   margin-top: 7px;
+
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+
   ul {
+    background: #30a7de;
+
     /* 取消ul樣式符號 */
     list-style-type: none;
     /* 重設ul邊界與留白為零 */
@@ -35,6 +41,7 @@
     padding: 0;
     /* 內有浮動元件時，需設overflow才會自動調整大小 */
     overflow: auto;
+
     li {
       @media (max-width: 768px) {
         &:nth-child(even) ul li ul {
@@ -43,6 +50,7 @@
       }
       /* 利用float讓第一層li水平排列 */
       float: left;
+
       a {
         /* 將a改為區塊元件，以便指定寬高 */
         display: block;
@@ -52,7 +60,16 @@
         height: 40px;
         width: 192px;
         text-align: center;
+
+        color: #FFF;
+        text-decoration: none;
+        line-height: 40px;
+        /* 觸動第一層li時，改變背景色 */
+        &:hover {
+          background: #efefef;
+        }
       }
+
       ul {
         /* 讓第二層ul跳脫文件流以利定位 */
         position: absolute;
@@ -66,29 +83,48 @@
         margin-right: 0;
         margin-bottom: 0;
         margin-left: 0;
+
+        background: #efefef;
         li {
           /* 覆寫繼承自第一層的浮動設定 */
           float: none;
           text-align: center;
+
           a {
             /* 覆寫繼承自第一層的浮動設定 */
             float: none;
             width: 100%;/* 註：display、height、padding繼承第一層的設定 */
+            
+            font-size: 26px;
+            color: #30a7de;
+            text-decoration: none;
+            /* 觸動第二層以上li時改變背景色 */
+            &:hover {
+              background: #dfdfdf;
+            }
           }
+
+          /* 觸動第二層以上li時改變背景色 */
+          &:hover {
+            background: #dfdfdf;
+          }
+
           ul {
             margin-top: -40px;
             margin-right: 0;
             margin-bottom: 0;
             margin-left: 192px;
             width: 100%;
-            li {
-              /* width、float繼承第二層，免設定 */
-              a {
-                /* width、float繼承第二層，免設定 */
-              }
-            }
           }
         }
+      }
+    }
+
+    /* 觸動第一層li時，改變背景色 */
+    &:hover {
+      background: #efefef;
+      a {
+        color: #30a7de;
       }
     }
   }
@@ -118,57 +154,6 @@
       ul li:hover ul {
         /* 觸動第三層時，顯示第四層 */
         visibility: visible;
-      }
-    }
-  }
-}
-
-/* ---------- 以下為美化用，非必需 ---------- */
-
-/* 預設字體 */
-#menu {
-  font-size: 26px;
-  font-family: Arial, Helvetica, sans-serif;
-  /* 第一層ul背景色彩與邊框 */
-  ul {
-    background: #30a7de;
-    /* 第一層a字型 */
-    li {
-      a {
-        color: #FFF;
-        text-decoration: none;
-        line-height: 40px;
-        /* 觸動第一層li時，改變背景色 */
-        &:hover {
-          background: #efefef;
-        }
-      }
-      /*第二層ul背景色彩與邊框  */
-      ul {
-        background: #efefef;
-        /* 第二層a字型 */
-        li {
-          a {
-            font-size: 26px;
-            color: #30a7de;
-            text-decoration: none;
-            /* 觸動第二層以上li時改變背景色 */
-            &:hover {
-              background: #dfdfdf;
-            }
-          }
-          /* 觸動第二層以上li時改變背景色 */
-          &:hover {
-            background: #dfdfdf;
-          }
-        }
-      }
-      /* 觸動第一層li時，改變背景色 */
-      &:hover {
-        background: #efefef;
-        a {
-          color: #30a7de;
-        }
       }
     }
   }
