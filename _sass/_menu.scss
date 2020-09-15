@@ -85,6 +85,9 @@
         margin-left: 0;
 
         background: #efefef;
+
+        /* 觸動第一層時，顯示第二層 */
+        visibility: visible;
         li {
           /* 覆寫繼承自第一層的浮動設定 */
           float: none;
@@ -107,6 +110,15 @@
           /* 觸動第二層以上li時改變背景色 */
           &:hover {
             background: #dfdfdf;
+
+            ul {
+              /* 觸動第二層時，顯示第三層 */
+              visibility: visible;
+              li ul {
+                /* 顯示第三層時，隱藏第四層，避免同時彈出 */
+                visibility: hidden;
+              }
+            }
           }
 
           ul {
@@ -115,7 +127,18 @@
             margin-bottom: 0;
             margin-left: 192px;
             width: 100%;
+
+            li:hover ul {
+              /* 觸動第三層時，顯示第四層 */
+              visibility: visible;
+            }
           }
+        }
+      }
+      &:hover ul {
+        li ul {
+          /* 顯示第二層時，隱藏第三層，避免同時彈出 */
+          visibility: hidden;
         }
       }
     }
@@ -125,35 +148,6 @@
       background: #efefef;
       a {
         color: #30a7de;
-      }
-    }
-  }
-}
-/* ---------- 隱藏與顯示階層 ---------- */
-#menu ul li {
-  &:hover ul {
-    /* 觸動第一層時，顯示第二層 */
-    visibility: visible;
-    li ul {
-      /* 顯示第二層時，隱藏第三層，避免同時彈出 */
-      visibility: hidden;
-    }
-  }
-  ul {
-    /* 預先隱藏第二層 */
-    visibility: hidden;
-    li {
-      &:hover ul {
-        /* 觸動第二層時，顯示第三層 */
-        visibility: visible;
-        li ul {
-          /* 顯示第三層時，隱藏第四層，避免同時彈出 */
-          visibility: hidden;
-        }
-      }
-      ul li:hover ul {
-        /* 觸動第三層時，顯示第四層 */
-        visibility: visible;
       }
     }
   }
