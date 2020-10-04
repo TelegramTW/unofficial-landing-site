@@ -11,7 +11,7 @@ preview_image: /images/filters-anonymous-admins-comments01.jpeg
 您的個人 Telegram 雲端是無窮無盡的，充滿辛辣的迷因。為了幫助您找到解決方法，我們引入了**搜尋過濾器**。今天的更新還包含有**匿名管理員**的功能，讓您為爭取自由而戰時更加安全，並具有**頻道留言**的功能，以確保聽到每個人的聲音。
 
 ### 搜尋過濾器
-從現在開始，您可以透過使用新標籤類型來過濾搜尋結果：媒體、連結、檔案等。要搜尋特定**時段**，只需輸入“ August 14”或“ Yesterday”。輸入任何人、群組、頻道或機器人的名稱將按**來源**加入過濾器。
+從現在開始，您可以透過使用新標籤類型來過濾搜尋結果：媒體、連結、檔案等。要搜尋特定**時段**，只需輸入“ 8月14日 ”或“ 2019 ”。輸入任何人、群組、頻道或機器人的名稱來按**來源**加入過濾器。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments02.gif" width="70%"></center>
 <br>
