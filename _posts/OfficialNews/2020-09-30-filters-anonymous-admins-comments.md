@@ -43,7 +43,7 @@ Telegram 越來越常被用來組織民主與自由的抗爭運動。今天，�
 如果您更實際，可以在群組中長按任何個人大頭貼可以進行更仔細的觀看。另外，如果您在一個應用程式中使用多個帳號，則現在可以在帳號切換器中按住其他帳號來預覽該帳號的聊天列表。
 
 ### 更多動態表情符號
-我們繼續努力使存在的每個表情符號動起來。要在聊天中獲取<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments07.png" alt="👇" height="20" width="20">其中之一，只需傳送帶有單個表情符號的訊息即可。
+我們繼續努力使存在的每個表情符號動起來。要在聊天中獲取<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments07.png" alt="👇" height="30" width="30">其中之一，只需傳送帶有單個表情符號的訊息即可。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments06.gif" width="70%"></center>
 <br>
