@@ -18,7 +18,7 @@ preview_image: /images/filters-anonymous-admins-comments01.jpeg
 這些搜尋過濾器可以被組合使用，讓您可以尋找包含連結的訊息、2016年3月傳送的訊息、包含單詞“ boat”。
 
 ### 匿名群組管理員
-Telegram 越來越常被用來組織民主與自由的抗爭運動。今天，我們引入了另一個工具以進行更安全的抗爭。
+Telegram 越來越常被用來組織<a href="https://www.rferl.org/a/belarusian-protesters-counter-authorities-moves -with-online-tactics/30850435.html">民主</a>與自由的抗爭運動。今天，我們引入了另一個工具以進行更安全的抗爭。
 
 在管理員權限中授予**保持匿名**的權限以開啟蝙蝠俠模式 ( Batman mode )。匿名管理員**不會顯示**在群組成員列表中，並且他們在聊天室中的訊息將以**群組大頭貼及名稱**來發表，類似於頻道的貼文。
 
