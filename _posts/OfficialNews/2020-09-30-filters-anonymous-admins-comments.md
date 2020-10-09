@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      搜尋過濾器、匿名管理員、頻道留言和更多
+title:      搜尋篩選器、匿名管理員、頻道留言和更多
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/filters-anonymous-admins-comments
@@ -8,14 +8,14 @@ preview_image: /images/filters-anonymous-admins-comments01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments01.jpeg">
 <br>
-您的個人 Telegram 雲端是無窮無盡的，充滿辛辣的迷因。為了幫助您找到解決方法，我們引入了**搜尋過濾器**。今天的更新還包含有**匿名管理員**的功能，讓您為爭取自由而戰時更加安全，並具有**頻道留言**的功能，以確保聽到每個人的聲音。
+您的個人 Telegram 雲端是無窮無盡的，充滿辛辣的迷因。為了幫助您找到解決方法，我們引入了**搜尋篩選器**。今天的更新還包含有**匿名管理員**的功能，讓您為爭取自由而戰時更加安全，並具有**頻道留言**的功能，以確保聽到每個人的聲音。
 
-### 搜尋過濾器
-從現在開始，您可以透過使用新標籤類型來過濾搜尋結果：媒體、連結、檔案等。要搜尋特定**時段**，只需輸入“ 8月14日 ”或“ 2019 ”。輸入任何人、群組、頻道或機器人的名稱來按**來源**加入過濾器。
+### 搜尋篩選器
+從現在開始，您可以透過使用類型來篩選搜尋結果，使用標籤：聊天、媒體、連結、檔案、音樂、語音。要搜尋特定**時段**，只需輸入“ 8月14日 ”或“ 2019 ”。輸入任何人、群組、頻道或機器人的名稱可依**來源**加入一篩選器。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments02.gif" width="70%"></center>
 <br>
-這些搜尋過濾器可以被組合使用，讓您可以尋找包含連結的訊息、2016年3月傳送的訊息、包含單詞“ boat”。
+這些搜尋篩選器可以被組合使用，讓您可以尋找包含一連結息、傳送於2016年3月、包含單詞“ boat”的訊息。
 
 ### 匿名群組管理員
 Telegram 越來越常被用來組織<a href="https://www.rferl.org/a/belarusian-protesters-counter-authorities-moves -with-online-tactics/30850435.html">民主</a>與自由的抗爭運動。今天，我們引入了另一個工具以進行更安全的抗爭。
