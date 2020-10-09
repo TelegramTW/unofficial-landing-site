@@ -15,7 +15,7 @@ preview_image: /images/filters-anonymous-admins-comments01.jpeg
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments02.gif" width="70%"></center>
 <br>
-這些搜尋篩選器可以被組合使用，讓您可以尋找包含一連結息、傳送於2016年3月、包含單詞“ boat”的訊息。
+這些搜尋篩選器可以被組合使用，讓您可以尋找包含某連結、傳送於2016年3月、包含單詞“boat”的訊息。
 
 ### 匿名群組管理員
 Telegram 越來越常被用來組織<a href="https://www.rferl.org/a/belarusian-protesters-counter-authorities-moves -with-online-tactics/30850435.html">民主</a>與自由的抗爭運動。今天，我們引入了另一個工具以進行更安全的抗爭。
