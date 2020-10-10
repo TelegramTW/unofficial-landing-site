@@ -25,7 +25,7 @@ Telegram 越來越常被用來組織<a href="https://www.rferl.org/a/belarusian-
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments03.jpeg" width="70%"></center>
 <br>
 ### 頻道留言
-說到頻道，我們在頻道中的貼文加入了帶有討論群的**留言按鈕**。留言會顯示在自己舒適的小空間中，但也會同步顯示到頻道所連結的**討論群**內，讓每個人都能看到，並使其更容易管理，以保持文明的對話。
+說到頻道，我們在頻道中的貼文加入了帶有討論群的**留言按鈕**。留言會顯示在一個舒適的專屬討論串空間中，但也會同步顯示到頻道所連結的**討論群**內，讓每個人都能看到，並使其更容易管理，以保持文明的對話。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments04.gif" width="70%"></center>
 <br>
