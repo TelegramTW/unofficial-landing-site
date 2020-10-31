@@ -36,7 +36,7 @@ Telegram 越來越常被用來組織<a href="https://www.rferl.org/a/belarusian-
 如果您想在自己的頻道中啟用討論功能，請前往頻道設定 > 討論群，然後綁定一個群組。
 
 ### 讓人驚奇的 Android 額外功能
-我們的 Android 開發者不會忘記打包一些新的平滑動畫。想嘗試看看，請擴展或隱藏您的**鍵盤** - 或從左側主選單的右上角切換**白天和夜間的主題**。刪除消息、更改通知、儲存媒體...的時候，您會看到**動態彈出**畫面。
+我們的 Android 開發者不會忘記打包一些新的平滑動態效果。想嘗試看看，請擴展或隱藏您的**鍵盤** - 或從左側主選單的右上角切換**白天和夜間的主題**。刪除消息、更改通知、儲存媒體...的時候，您會看到**動態彈出**畫面。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/filters-anonymous-admins-comments05.gif" width="70%"></center>
 <br>
