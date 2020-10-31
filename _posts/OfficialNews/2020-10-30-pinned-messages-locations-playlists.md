@@ -10,10 +10,10 @@ preview_image: /images/pinned-messages-locations-playlists01.jpeg
 <br>
 萬聖節到了，我們正在引入新功能來幫助您安排搗蛋的活動。在每個聊天中使用**多個置頂訊息**來練習您神奇的巫毒技能，使用 **Live Locations 2.0** 監視街上的其他殭屍，以及將讓人提心吊膽的音樂放入**播放列表**等。
 
->如果您想簡易地閱讀本次更新，而無需大多數萬聖節的內容，請嘗試<a href="https://telegram.org/blog/pinned-messages-locations-playlists/world">此頁面</a>。（尚未翻譯）
+>如果您想簡易地閱讀本次更新，而無需大多數萬聖節的內容，請嘗試<a href="https://telegram.org/blog/pinned-messages-locations-playlists/world">此頁面</a>。（未翻譯）
 
 ### 多個置頂訊息
-置頂訊息很像炸馬鈴薯片，很難只有吃一片，這就是為什麼現在您可以在任何聊天中**置頂多則訊息**的原因。點擊頂部的欄可以在它們之間跳轉 – 如果要在**單獨的頁面**上查看它們全部，請使用右側的新按鈕（圖釘按鈕）。
+置頂訊息很像炸馬鈴薯片，很難只吃一片，這就是為什麼現在您可以在任何聊天中**置頂多則訊息**的原因。點擊頂部的欄可以在它們之間跳轉 – 如果要在**單獨的頁面**上查看它們全部，請使用右側的新按鈕（圖釘按鈕）。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists02.gif" width="70%"></center>
 <br>
@@ -53,7 +53,7 @@ preview_image: /images/pinned-messages-locations-playlists01.jpeg
 如果您錯過了它，這也適用於<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists11.png" alt="🎲" height="20" width="20">，<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists12.png" alt="🏀" height="20" width="20">，<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists13.png" alt="⚽️" height="20" width="20">和<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists14.png" alt="🎯" height="20" width="20">。
 
 ### 另外還有陰森森又可愛的動態表情符號
-在這種情況下，我們不禁為可以找到的每一個怪異表情符號製作動畫。要在聊天中獲取<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists15.png" alt="👇" height="30" width="30">其中之一，只需傳送帶有單個表情符號的訊息即可。當觀看<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists16.png" alt="⚰️" height="20" width="20">或<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists17.png" alt="🎃" height="20" width="20">的動態表情符號時，請點擊它們以增加刺激感。
+在這種情況下，我們不禁為可以找到的每一個怪異表情符號製作動態貼圖。要在聊天中獲取<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists15.png" alt="👇" height="30" width="30">其中之一，只需傳送帶有單個表情符號的訊息即可。當觀看<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists16.png" alt="⚰️" height="20" width="20">或<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists17.png" alt="🎃" height="20" width="20">的動態表情符號時，請點擊它們以增加刺激感。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists08.gif" width="70%"></center>
 <br>
@@ -61,8 +61,8 @@ preview_image: /images/pinned-messages-locations-playlists01.jpeg
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists09.gif" width="70%"></center>
 <br>
-### 如何獲得此更新
-具有這些功能的新版本已經可以透過 Google Play 或 APK 供我們所有的 Android 用戶使用。~~如果您使用的是 iOS ，則只要a）蘋果完成對它的審查，或b）您決定是時候切換到 Android 了，那麼您就會得到更新~~。<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists19.png" alt="👀" height="20" width="20">更正：（10月31日）此更新的 iOS 部分現已獲得批准。
+### 如何獲得這次的更新
+具有這些功能的新版本已經可以透過 Google Play 或 APK 供我們所有的 Android 用戶使用。~~如果您使用的是 iOS ，則只要a）蘋果完成對它的審查，或b）您決定是時候切換到 Android 了，那麼您就會得到更新~~。<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists19.png" alt="👀" height="20" width="20">修正：這次更新的 iOS 部分已獲得批准（10月31日）。
 
 現在，我們將專注於服裝的準備上。我們將成為*群聊的幽靈*：256 個成員，沒有審核工具，完全被綠色的粘液覆蓋。那麼我們在另外一邊見！
 
