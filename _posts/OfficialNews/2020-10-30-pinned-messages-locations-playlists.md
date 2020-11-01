@@ -64,7 +64,7 @@ preview_image: /images/pinned-messages-locations-playlists01.jpeg
 ### 如何獲得這次的更新
 具有這些功能的新版本已經可以透過 Google Play 或 APK 供我們所有的 Android 用戶使用。~~如果您使用的是 iOS ，則只要a）蘋果完成對它的審查，或b）您決定是時候切換到 Android 了，那麼您就會得到更新~~。<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/pinned-messages-locations-playlists19.png" alt="👀" height="20" width="20">修正：這次更新的 iOS 部分已獲得批准（10月31日）。
 
-現在，我們將專注於服裝的準備上。我們將成為*群聊的幽靈*：256 個成員，沒有審核工具，完全被綠色的粘液覆蓋。那麼我們在另外一邊見！
+現在，我們專注於服裝的準備上。我們將成為*群聊的幽靈*：256 個成員，沒有審核工具，完全被綠色的粘液覆蓋。那麼我們在另外一邊見！
 
 
 *2020年10月30日，*<br>
