@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      無聲訊息、慢速聊天模式、管理員頭銜...
+title:      無聲訊息、慢速模式、管理員頭銜...
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/silent-messages-slow-mode
@@ -21,12 +21,12 @@ preview_image: /images/silent-messages-slow-mode01.jpeg
 <br>
 這功能在**群組**中也可以使用：如果您在早上五點鐘突然有一個靈光一現的想法，但不夠緊急到需要在工作用的聊天室中喚醒所有人。
 
-### 慢速聊天模式
-如果您所管理的群組中成員的對話讓人閱讀速度越來越難跟上，在成員「**權限**」設定中現在有「**慢速聊天模式**」開關可發揮作用。
+### 慢速模式
+如果您所管理的群組中成員的對話讓人閱讀速度越來越難跟上，在成員「**權限**」設定中現在有「**慢速模式**」開關可發揮作用。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode04.jpeg" width="70%"></center>
 <br>
-當管理員在群組中啟用慢速聊天模式時，您將只能按其選擇的時間間隔去傳送**下一則訊息**。計時器將顯示您在傳送下一則訊息前還須等待的時間。
+當管理員在群組中啟用慢速模式時，您將只能按其選擇的時間間隔去傳送**下一則訊息**。計時器將顯示您在傳送下一則訊息前還須等待的時間。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode05.jpeg" width="70%"></center>
 <br>
