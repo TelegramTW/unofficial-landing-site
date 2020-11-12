@@ -74,13 +74,13 @@ iOS用戶現在可以選擇**深色主題**的**強調色**。畢竟，夜晚並
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode12.gif" width="70%"></center>
 <br>
-### 評論小工具
-<a href="https://comments.app/">Comments.App</a> 是我們評論**頻道貼文**的工具，現在可以讓您在**網站**上加入**評論小工具**。
+### 留言小工具
+<a href="https://comments.app/">Comments.App</a> 是我們評論**頻道貼文**的工具，現在可以讓您在**網站**上加入**留言小工具**。
 
-有了這個小工具，Telegram 用戶只需兩次點擊即可登入，並留下帶有文字和**照片**的評論，以及**喜歡**、**不喜歡**和**回覆**其他人的評論。
+有了這個小工具，Telegram 用戶只需兩次點擊即可登入，並留下帶有文字和**照片**的評論，以及**喜歡**、**不喜歡**和**回覆**其他人的留言。
 
-他們還可以**訂閱**評論並從 <a href="https://t.me/discussbot">@DiscussBot</a> 獲取通知。
-評論小工具的螢幕截圖，其中包含作為對其他評論的回覆而傳送的照片
+他們還可以**訂閱**留言並從 <a href="https://t.me/discussbot">@DiscussBot</a> 獲取通知。
+留言小工具的螢幕截圖，其中包含作為對其他留言的回覆而傳送的照片
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode13.jpeg" width="80%"></center>
 <br>
