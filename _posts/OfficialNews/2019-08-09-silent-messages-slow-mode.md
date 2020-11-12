@@ -75,7 +75,7 @@ iOS用戶現在可以選擇**深色主題**的**強調色**。畢竟，夜晚並
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/silent-messages-slow-mode12.gif" width="70%"></center>
 <br>
 ### 留言小工具
-<a href="https://comments.app/">Comments.App</a> 是我們評論**頻道貼文**的工具，現在可以讓您在**網站**上加入**留言小工具**。
+<a href="https://comments.app/">Comments.App</a> 是我們對**頻道貼文**發表意見的工具，現在可以讓您在**網站**上加入**留言小工具**。
 
 有了這個小工具，Telegram 用戶只需兩次點擊即可登入，並留下帶有文字和**照片**的評論，以及**喜歡**、**不喜歡**和**回覆**其他人的留言。
 
