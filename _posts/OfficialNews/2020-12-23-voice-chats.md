@@ -73,7 +73,7 @@ Android 用戶現在可以使用我們強大的<a href="https://telegram.how/202
 **編輯訊息或說明文字**時，若是您的內容用了接近最大訊息的長度，計數器會出現，並顯示您還有多少剩餘的字元可用。
 
 ### 更多動態表情符號
-沒有更多的動態表情符號，更新是不完整的。與往常一樣，只需傳送單個表情符號的訊息就可以在聊天中獲取其中之一<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/voice-chats11.png" alt="👇" height="20" width="20">。
+沒有更多的動態表情符號，更新就不算是完整的。與往常一樣，只需傳送單個表情符號的訊息就可以在聊天中獲取其中之一<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/voice-chats11.png" alt="👇" height="20" width="20">。
 
 <center><img alt="" title="祈求聖誕禮物，您可以克服2021年遇到的任何麻煩，也可以靈活應對2020年的成就。" src="{{ site.baseurl | prepend: site.url }}/images/voice-chats10.gif" width="70%"></center>
 <br>
