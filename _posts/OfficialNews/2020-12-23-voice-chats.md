@@ -42,7 +42,7 @@ preview_image: /images/voice-chats01.jpeg
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/voice-chats05.gif" width="70%"></center>
 <br>
 ### 貼圖輪廓
-Telegram 上的動態貼圖經過<a href="https://telegram.how/2019/07/06/animated-stickers">優化以提高效率</a>，並以不到 **50 KB**的儲存容量提供流暢的**180影格動畫**，並具有無限解析度（譯者：它是向量圖形）。
+Telegram 上的動態貼圖經過<a href="https://telegram.how/2019/07/06/animated-stickers">優化以提高效率</a>，並以不到 **50 KB**的儲存容量提供流暢的**180影格動畫**，並具有無限解析度（譯者：它是向量圖）。
 
 透過今天的更新，貼圖的載入速度將比以前**更快** - 並顯示出您要看到的東西的**閃爍輪廓**。但是請注意不要眨眼，否則您會錯過它的。
 
