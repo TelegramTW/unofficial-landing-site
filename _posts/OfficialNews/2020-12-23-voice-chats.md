@@ -89,4 +89,4 @@ Android 用戶現在可以使用我們強大的<a href="https://telegram.how/202
 *Telegram 團隊*<br>
 
 
->**附註**：通常在年底是回顧過去12個月的時間。這次卻相反，我們的創始人帕維爾·杜洛夫（Pavel Durov）剛剛宣布了他的「<a href="https://t.me/durov/142">使 Telegram 可持續發展的戰略</a>」，以在**未來幾十年**繼續為您提供**強大的功能**。
+>**附註**：通常在年底是回顧過去12個月的時間。這次卻相反，我們的創始人帕維爾·杜洛夫（Pavel Durov）剛剛宣布了他的「<a href="https://t.me/tgtwnews/89">讓 Telegram 可持續發展的策略</a>」，以在**未來幾十年**繼續為您提供**強大的功能**。
