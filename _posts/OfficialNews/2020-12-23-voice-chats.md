@@ -36,7 +36,7 @@ preview_image: /images/voice-chats01.jpeg
 
 就像在此之前的 Telegram 群組一樣，我們希望語音聊天能夠改變人們協作和保持聯繫的方式。在接下來的幾周中，我們將進一步完善它們，聽取您的意見回饋，改善噪音抑制，並增加更多功能，例如**視訊**，以及**分享螢幕畫面**。
 
-### 隨按即說的鍵盤快速鍵
+### 隨按即說的鍵盤快速鍵 ( Push-to-Talk )
 在 Telegram Desktop 和原生 macOS 版 Telegram 中，您可以為語音聊天選擇**隨按即說的鍵盤快速鍵**，以控制麥克風，即使 Telegram 不是目前正在使用的程式。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/voice-chats05.gif" width="70%"></center>
