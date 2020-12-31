@@ -19,7 +19,7 @@ preview_image: /images/voice-chats01.jpeg
 
 <center><img alt="" title="卡啦OK，有人嗎？" src="{{ site.baseurl | prepend: site.url }}/images/voice-chats02.gif" width="70%"></center>
 <br>
-進行語音聊天的群組頂部有一特別的橫條，用於顯示**目前正在發言的人**（甚至是他們的聲音有多大）。這可以幫助您選擇合適的時機加入。
+進行語音聊天的群組頂端有一特別的橫條，用於顯示**目前正在發言的人**（甚至是他們的聲音有多大）。這可以幫助您選擇合適的時機加入。
 
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/voice-chats03.gif" width="70%"></center>
 <br>
