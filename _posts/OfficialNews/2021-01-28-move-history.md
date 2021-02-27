@@ -8,14 +8,14 @@ preview_image: /images/move-history01.jpeg
 ---
 <img alt="" title="過去的綠色變成藍色" src="{{ site.baseurl | prepend: site.url }}/images/move-history01.jpeg">
 <br>
-今年1月，超過**1億**新用戶加入了 Telegram，尋求更多的隱私和自由。但是，原本使用的應用程式中仍然存在的訊息和記憶又如何呢？
+今年1月，超過**1億**新用戶加入了 Telegram，尋求更多的隱私和自由。但是，原本使用的應用程式中仍然存在的訊息和記憶又該如何是好呢？
 
 從今天開始，每個人都可以從 **WhatsApp**、**Line** 和 **KakaoTalk** 等應用程式將它的聊天紀錄（包括影片和檔案）帶到 Telegram 。這適用於個人聊天和群組：
 <center><img alt="" title="離開槍，拿奶油" src="{{ site.baseurl | prepend: site.url }}/images/move-history02.gif" width="70%"></center>
 <br>
-要從 **iOS 上的 WhatsApp** 移動聊天內容，請在 **WhatsApp** 中打開"聯絡資訊"或"群組資訊"頁面，點擊"匯出對話記錄"，然後在分享選單中選擇 **Telegram**。
+要從 **iOS 上的 WhatsApp** 移動聊天內容，請在 **WhatsApp** 中打開**聯絡資訊**或**群組資訊**頁面，點擊**匯出對話記錄**，然後在分享選單中選擇 **Telegram**。
 <br>
-在 **Android** 上，打開 WhatsApp 聊天室，點擊右上角的"⋮"，然後選擇「更多」>「匯出對話」，然後在分享選單中選擇 **Telegram**：
+在 **Android** 上，打開 WhatsApp 聊天室，點擊右上角的 **⋮**，然後選擇「更多」>「匯出對話」，然後在分享選單中選擇 **Telegram**：
 <center><img alt="" title="只是要確保不要混淆迷因，辣的迷因會和朋友一起成群，而不是爺爺。" src="{{ site.baseurl | prepend: site.url }}/images/move-history03.gif" width="70%"></center>
 <br>
 >iOS 版 WhatsApp 還可讓您直接從聊天列表中匯出對話記錄。**向左滑動**聊天室，然後選擇"..." > "匯出對話記錄"。
@@ -56,10 +56,10 @@ Telegram 伺服器不儲存有關已刪除的聊天和通話記錄的資訊，�
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/move-history08.gif" width="70%"></center>
 <br>
 ### 檢舉假冒的頻道
-所有 Telegram 應用程式都可讓您檢舉垃圾訊息和其他類型的非法內容，包括通話、暴力或虐待兒童。現在，您還可以檢舉冒充名人或組織的**假冒頻道或群組**。打開他們的個人資料頁面，然後點擊 *...* > *報告* > *假帳號*，以告知我們的管理員。
+所有 Telegram 應用程式都可讓您檢舉垃圾訊息和其他類型的非法內容，包括通話、暴力或虐待兒童。現在，您還可以檢舉冒充名人或組織的**假冒頻道或群組**。打開他們的個人資料頁面，然後點擊 **...** > **報告** > **假帳號**，以告知我們的管理員。
 
 ### 改善親和力
-已為 TalkBack 和 VoiceOver 用戶新增了許多親和力的改善。在我們持續為所有用戶優化應用程式介面的過程，我們也歡迎您在我們的<a href="https://telegram.org/blog/voice-chats#feature-suggestion-platform"> 建議平台</a>上提供更多意見回饋。
+已為 TalkBack 和 VoiceOver 用戶新增了許多親和力的改善。在我們持續為所有用戶優化應用程式介面的過程，我們也歡迎您在我們的<a href="https://bugs.telegram.org/">建議平台</a>上提供更多意見回饋。
 
 熱烈歡迎最近加入我們的每個人！下次更新不會花很長時間。
 
