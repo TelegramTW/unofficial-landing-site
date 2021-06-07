@@ -33,6 +33,7 @@ preview_image: /images/payments-2-0-scheduled-voice-chats01.jpeg
 用戶將在聊天室頂部看到豐富多彩的倒數計時。對於太忙而沒空看倒數計時的人們，也可以選擇是否要在語音聊天開始時收到通知。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats04.gif" width="70%"></center>
 <br>
+
 >管理員可以從其群組或頻道的資料頁預約語音聊天。在 Android 裝置上，依次點擊 ⋮ > 發起語音聊天 > 預約語音聊天。在 iOS 上，點擊「語音聊天」按鈕，然後選擇「預約語音聊天」。
 
 >不用擔心，當倒數到零時，聊天不會自動開始 - 只有當管理員按下「立即開始」按鈕時，才真的開始。
@@ -64,6 +65,7 @@ Telegram 的第一個Web版本於2014年發布。從此，我們內部競爭的�
 如果您更喜歡應用程式，現在您還可以直接從 <a href="https://telegram.org/android">telegram.org</a> 下載適用於 Android 的 Telegram 。從網站安裝的應用程式將自動更新為最新版本。這樣一來，您可能會以幾天或幾週的速度獲得新版本，因為您不必等待應用程式商店審查通過才能更新。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats07.gif" width="70%"></center>
 <br>
+
 >Telegram 支援可複制的構建，因此您始終可以確保裝置上應用程式是使用與GitHub上發布完全相同開源代碼所構建的。
 
 ### 捏放大
@@ -80,6 +82,7 @@ Telegram 的第一個Web版本於2014年發布。從此，我們內部競爭的�
 每次更新時，Android 應用程式都變得更加**流暢**和**動態** - 在打開側邊選單或從聊天中滑回聊天列表時，您可以查看到新的動畫。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats10.gif" width="70%"></center>
 <br>
+
 >要了解更多有關 Telegram 功能，請從側邊選單中點擊「Telegram 功能提示」或直接瀏覽 <a href="https://t.me/TelegramTips/233">@TelegramTips</a> 頻道。
 
 ### Telegram 職缺
