@@ -8,7 +8,7 @@ preview_image: /images/payments-2-0-scheduled-voice-chats01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats01.jpeg">
 <br>
-此更新帶來了適用於所有 Telegram 聊天的 Payments 2.0，適用於語音聊天的計劃和迷你個人資料，適用於您瀏覽器的新 Telegram App 等。
+這次更新帶來了用於所有 Telegram 聊天的 Payments 2.0，用於語音聊天預約功能和迷你個人資料，用於您瀏覽器的新 Telegram App 等。
 
 ### 付款2.0
 我們在2017年首次加入了對付款的支援。付款機器人可讓用戶在不離開應用程式的情況下安全地購買商品和服務 - 從訂購披薩到叫計程車，還有更換冬天專用輪胎等事情。
