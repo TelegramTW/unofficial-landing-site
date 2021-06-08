@@ -74,7 +74,7 @@ Telegram 的第一個Web版本於2014年發布。從此，我們內部競爭的�
 <br>
 
 ### 改進的影片播放器
-在iOS上觀看媒體播放器的影片時，請**按住**+或-按鈕以**快轉**和**倒轉**15秒。在Android上，按住螢幕右側或左側以執行相同操作，然後**點擊兩次**以向任一方向跳10秒。
+在 iOS 上觀看媒體播放器的影片時，請**按住**+或-按鈕以**快轉**和**倒轉**15秒。在 Android 上，按住螢幕右側或左側以執行相同操作，另外，若是**點擊兩次**可向任一方向跳轉10秒。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats09.gif" width="70%"></center>
 <br>
 
