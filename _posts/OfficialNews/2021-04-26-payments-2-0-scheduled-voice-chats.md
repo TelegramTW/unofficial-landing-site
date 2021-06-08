@@ -35,7 +35,7 @@ preview_image: /images/payments-2-0-scheduled-voice-chats01.jpeg
 <br>
 
 >管理員可以從其群組或頻道的資料頁預約語音聊天。在 Android 裝置上，依次點擊 ⋮ > 發起語音聊天 > 預約語音聊天。在 iOS 上，點擊「語音聊天」按鈕，然後選擇「預約語音聊天」。
-
+>
 >不用擔心，當倒數到零時，聊天不會自動開始 - 只有當管理員按下「立即開始」按鈕時，才真的開始。
 
 ### 語音聊天的迷你個人資料
@@ -66,15 +66,15 @@ Telegram 的第一個Web版本於2014年發布。從此，我們內部競爭的�
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats07.gif" width="70%"></center>
 <br>
 
->Telegram 支援<a href="https://core.telegram.org/reproducible-builds">可重現的構建</a> ( Reproducible Builds )，因此您始終可以確保裝置上的應用程式是使用完全相同於 GitHub 上所發布的開源碼所構建的。
+>Telegram 支援<a href="https://core.telegram.org/reproducible-builds">可重現的構建</a> ( Reproducible Builds )，因此您始終可以確保裝置上的應用程式是使用**完全相同**於 <a href="https://telegram.org/apps#source-code">GitHub上發布</a>的**開源碼**所構建的。
 
-### 捏放大
-現在可以直接從聊天中擴展照片和影片 - 只需按一下即可立即放大，而無需點擊即可打開媒體檢視器。
+### 用手指縮放（ Pinch to zoom )
+現在可以直接從聊天中擴展照片和影片預覽 - 只需用手指操作就可以立即放大，而無需點擊來打開圖片檢視器。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats08.gif" width="70%"></center>
 <br>
 
 ### 改進的影片播放器
-在iOS上觀看來媒體播放器的影片時，請按住+或-15s按鈕以快進和快退。在Android上，按住螢幕右側或左側以執行相同操作，然後點擊兩次以向任一方向跳10秒。
+在iOS上觀看來媒體播放器的影片時，請**按住**+或-按鈕以**快轉**和**倒轉**15秒。在Android上，按住螢幕右側或左側以執行相同操作，然後**點擊兩次**以向任一方向跳10秒。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats09.gif" width="70%"></center>
 <br>
 
@@ -86,7 +86,7 @@ Telegram 的第一個Web版本於2014年發布。從此，我們內部競爭的�
 >要了解更多有關 Telegram 功能，請從側邊選單中點擊「Telegram 功能提示」或直接瀏覽 <a href="https://t.me/TelegramTips/233">@TelegramTips</a> 頻道。
 
 ### Telegram 職缺
-今天就這樣。我們已經在進行下一次的更新 - 如果您只是想「哇，就是那種精神！」而不是「可憐的人，休息一下」，請查看我們的<a href="https://telegram.org/jobs">空缺職位</a>列表。
+今天就這樣。我們已經在進行下一次的更新 - 如果您想的是「*哇，就該這麼做！*」而不是「*好可憐，休息一下*」，請查看我們的<a href="https://telegram.org/jobs">空缺職位</a>列表。
 
 *2021年4月26日，*<br>
 *Telegram 團隊*
