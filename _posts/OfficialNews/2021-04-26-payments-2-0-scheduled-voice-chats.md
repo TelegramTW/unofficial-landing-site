@@ -83,7 +83,8 @@ Telegram 的第一個Web版本於2014年發布。從此，我們內部競爭的�
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats10.gif" width="70%"></center>
 <br>
 
->要了解更多有關 Telegram 功能，請從側邊選單中點擊「Telegram 功能提示」或直接瀏覽 <a href="https://t.me/TelegramTips/233">@TelegramTips</a> 頻道。譯者：有興趣，可參閱它的<a href="https://t.me/b6ale4">中文版</a>
+>要了解更多有關 Telegram 功能，請從側邊選單中點擊「Telegram 功能提示」或直接瀏覽 <a href="https://t.me/TelegramTips/233">@TelegramTips</a> 頻道。
+>譯者：有興趣，可參閱它的<a href="https://t.me/b6ale4">中文版</a>
 
 ### Telegram 職缺
 今天就這樣。我們已經在進行下一次的更新 - 如果您想的是「*哇，就該這麼做！*」而不是「*好可憐，休息一下*」，請查看我們的<a href="https://telegram.org/jobs">空缺職位</a>列表。
