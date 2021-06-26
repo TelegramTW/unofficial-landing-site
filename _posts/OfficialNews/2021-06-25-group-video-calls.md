@@ -8,7 +8,7 @@ preview_image: /images/group-video-calls01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/group-video-calls01.jpeg">
 <br>
-今天的更新可讓您在群組語音聊天期間**開啟相機**或**分享螢幕** – 在所有裝置上，包括**平板**和**桌上型電腦**。這將語音聊天帶到了一個全新的層級，為線上課程、商務會議和家庭聚會做好準備。
+今天的更新可讓您在群組語音聊天期間**開啟相機**或**分享螢幕畫面** – 在所有裝置上，包括**平板**和**桌上型電腦**。這將語音聊天帶到了一個全新的層級，為線上課程、商務會議和家庭聚會做好準備。
 
 我們還引入了**動態背景**、時尚的**訊息動畫**等等 — 足以填滿第二篇部落格文章。
 
@@ -22,7 +22,7 @@ preview_image: /images/group-video-calls01.jpeg
 
 雖然**純聲音**的參與者**不受限制**，但目前僅加入語音聊天的**前 30 人**可以使用視訊。隨著語音聊天用於串流遊戲 ( streaming game )、直播活動 ( live events ) 等，此極限將**很快提高**。
 
-### 螢幕共享
+### 螢幕畫面分享
 除了您的相機，您還可以**分享您的螢幕畫面** - 或同時分享。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/group-video-calls03.gif" width="70%"></center>
 <br>
