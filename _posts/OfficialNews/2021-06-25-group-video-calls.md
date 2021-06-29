@@ -48,7 +48,7 @@ preview_image: /images/group-video-calls01.jpeg
 >繼續閱讀以了解動態背景等。（尚未翻譯）
 
 
-*2021 年 6 月 25 日*
+*2021 年 6 月 25 日*<br>
 *Telegram 團隊*
 <br>
 <br>
