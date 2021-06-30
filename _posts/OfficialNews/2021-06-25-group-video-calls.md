@@ -45,7 +45,7 @@ preview_image: /images/group-video-calls01.jpeg
 還有更多嗎？
 今天就到這裡了…不，請等等。事實上，我們有**兩個更新**而不是一個：
 
->繼續閱讀以了解**動畫背景** (Animated Backgrounds) 等。（尚未翻譯）
+>繼續閱讀以了解**動態背景** (Animated Backgrounds) 等。（尚未翻譯）
 
 
 *2021 年 6 月 25 日*<br>
