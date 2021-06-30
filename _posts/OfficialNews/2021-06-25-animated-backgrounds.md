@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      語音聊天2.0：頻道，數百萬聽眾，語音聊天的錄音，管理工具
+title:      動態背景
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/animated-backgrounds
