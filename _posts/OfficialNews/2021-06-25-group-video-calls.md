@@ -16,7 +16,7 @@ preview_image: /images/group-video-calls01.jpeg
 任何群組中的語音聊天現在都可以無縫地變成**群組視訊通話** - 只需點擊相機圖示即可**開啟您的視訊**。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/group-video-calls02.gif" width="70%"></center>
 <br>
-點擊任何視訊以使其**全螢幕**顯示。如果您**置頂**一視訊，它會在新用戶加入通話並開啟他們的攝影機時保持聚焦。
+點擊任何視訊以使其**全螢幕**顯示。如果您**釘選**一視訊，它會在新用戶加入通話並開啟他們的攝影機時保持聚焦。
 
 >*要開始語音聊天，Android 版用戶請在您是管理員的任何群組之資料頁中查看 ⋮ 選單（在 iOS 上，您會在群組資料頁中找到「語音聊天」按鈕）。*
 
