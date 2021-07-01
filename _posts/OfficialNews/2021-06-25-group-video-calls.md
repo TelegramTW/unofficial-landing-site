@@ -26,6 +26,7 @@ preview_image: /images/group-video-calls01.jpeg
 除了您的相機，您還可以**分享您的螢幕畫面** - 或同時分享。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/group-video-calls03.gif" width="70%"></center>
 <br>
+
 >要分享您的螢幕畫面，請在App中點擊 ⋮ 或 ⋯，然後從選單中選擇它。
 
 ### 噪音抑制選項
