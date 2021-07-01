@@ -53,6 +53,7 @@ Android 用戶將在下一次更新中收到這些提醒，目前他們只需在
 ### 機器人選單
 我們讓您和機器人的溝通變得更容易了，加入了一個特殊的選單按鈕，讓您可以瀏覽和傳送命令。機器人還可以更改輸入欄中的占位符 ( placeholder )，讓您更好地了解它所期望的訊息類型。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/animated-backgrounds07.gif" width="70%"></center>
+
 >機器人開發人員現在可以建立根據用戶**介面語言**和**聊天類型**來**變更**的指令，以及僅出現在特定聊天或**管理員**的特殊命令。
 >
 ><a href="https://core.telegram.org/bots/api">Bot API 文件</a>中提供了更多資訊。
