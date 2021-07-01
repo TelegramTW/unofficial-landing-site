@@ -59,22 +59,23 @@ Android 用戶將在下一次更新中收到這些提醒，目前他們只需在
 ><a href="https://core.telegram.org/bots/api">Bot API 文件</a>中提供了更多資訊。
 
 ### 匯入貼圖
-@stickers 機器人可以幫助你建立新的貼圖包，以及獲取您貼圖使用情況的統計資訊。
+<a href="https://t.me/stickers">@stickers</a> 機器人可以幫助您**建立新的貼圖包**，以及獲取您貼圖**使用情況的統計資訊**。
 
-今天我們給第三方開發者工具來製作App，幫助人們產生新的自訂而獨特的貼圖和匯入他們的作品到 Telegram 只需要一個點擊。
+今天我們給第三方開發者工具來製作App，幫助人們產生新的**訂做的獨特貼圖**和**匯入**他們的作品到 Telegram 只需要**一個點擊**。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/animated-backgrounds08.gif" width="70%"></center>
 <br>
-如果您是一名開發人員，有興趣製作幫助用戶建立貼圖並將其發布到 Telegram 的應用程式，請查看新的貼圖匯入手冊。
+
+>如果您是一名開發人員，有興趣製作幫助用戶建立貼圖並將其發布到 Telegram 的應用程式，請查看新的<a href="https://core.telegram.org/import-stickers">貼圖匯入手冊</a>。
 
 請記住，如果您只是想讓 Telegram 用戶安裝您製作的貼圖，則不需要任何應用程式！只需使用我們的機器人上傳您的貼圖，然後與其他人分享您貼圖包的連結。
 
 ### 新的動態表情符號
-這次更新完全是關於動作的，所以我們不能沒有新的動態表情符號。與往常一樣，只需傳送一個帶有單個表情符號的訊息即可在聊天室中獲取其中一個：
+這次更新完全是關於動作的，所以我們不能沒有新的動態表情符號。與往常一樣，只需傳送一個帶有**單個表情符號**的訊息即可在聊天室中獲取其中一個：
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/animated-backgrounds09.gif" width="70%"></center>
 <br>
 是時候嘗試新功能了 — 同時我們將重新建構更多您要求的內容，以及一些我們想到的驚喜。敬請關注。
 
-><a href="https://telegram.org/blog/group-video-calls">如果您還不了解群組視訊通話，請繼續閱讀。</a>
+><a href="https://telegram.how/2021/06/25/group-video-calls">如果您還不了解群組視訊通話，請繼續閱讀。</a>
 
 *2021 年 6 月 25 日*<br>
 *Telegram 團隊*
