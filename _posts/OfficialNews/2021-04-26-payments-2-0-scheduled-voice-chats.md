@@ -66,7 +66,7 @@ Telegram 的第一個Web版本於2014年發布。從此，我們內部競爭的�
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/payments-2-0-scheduled-voice-chats07.gif" width="70%"></center>
 <br>
 
->Telegram 支援<a href="https://core.telegram.org/reproducible-builds">可重現之軟體建構</a> ( Reproducible Builds )，因此您始終可以確保裝置上的應用程式是使用**完全相同**於 <a href="https://telegram.org/apps#source-code">GitHub上發布</a>的**開源碼**所建構的。
+>Telegram 支援<a href="https://core.telegram.org/reproducible-builds">可重現版本</a> ( Reproducible Builds )，因此您始終可以確保裝置上的應用程式是使用**完全相同**於 <a href="https://telegram.org/apps#source-code">GitHub上發布</a>的**開源碼**所建構的。
 
 ### 用手指縮放（ Pinch to zoom )
 現在可以直接從聊天中擴展照片 - 只需用手指操作就可以立即放大，而無需點擊來打開圖片檢視器。
