@@ -22,7 +22,7 @@ preview_image: /images/group-video-calls01.jpeg
 
 雖然**純聲音**的參與者**不受限制**，但目前僅加入語音聊天的**前 30 人**可以使用視訊。隨著語音聊天用於串流遊戲 ( streaming game )、線上活動 ( live events ) 等，此人數上限將會**很快獲得提高**。
 
-### 螢幕畫面分享
+### 螢幕共享
 除了您的相機，您還可以**分享您的螢幕畫面** - 或同時分享。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/group-video-calls03.gif" width="70%"></center>
 <br>
