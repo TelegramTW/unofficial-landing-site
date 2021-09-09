@@ -20,7 +20,7 @@ Telegram 是在 **8 年**前推出，今天我們以 **8.0** 版來延續我們�
 
 如果您允許他們發言，您的直播觀眾也可以<a href="https://telegram.how/2021/03/18/voice-chats-on-steroids">舉手</a>並加入您的廣播。
 
-### 可變通的轉傳
+### 靈活的轉傳
 轉傳已成為一種更輕鬆的體驗。點擊訊息欄上方的"轉傳訊息"標籤，開啟一個**預覽視窗**，顯示訊息傳送時的外觀——以及幾個**自訂選項**。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/live-streams-forwarding-next-channel03.gif" width="70%"></center>
 <br>
