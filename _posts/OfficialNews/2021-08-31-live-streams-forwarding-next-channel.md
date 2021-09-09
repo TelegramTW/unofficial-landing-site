@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      直播、可變通的轉傳、跳轉到下一個頻道、熱門貼圖及更多
+title:      直播、靈活的轉傳、跳轉到下一個頻道、熱門貼圖及更多
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/live-streams-forwarding-next-channel
