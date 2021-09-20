@@ -27,7 +27,7 @@ Telegram 有許多功能來組織您的聊天室並自訂其外觀，從聊天�
 ### 互動式表情符號
 我們喜歡動態表情符號，但有時甚至是一顆大紅色跳動的心 - 這會讓您的手機隨著每一次跳動而振動！– 根本不足以表達您的感受。
 
-透過一點程式碼、一點繪圖和大量黑魔法，我們創造了一種即時分享情感的新方式。傳送單個🎆 🎉 🎈 👍 💩或❤️到任何私人聊天，然後點擊動態表情符號以釋放全螢幕效果。
+透過一點程式碼、一點繪圖和大量黑魔法，我們創造了一種即時分享情感的新方式。傳送單個<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts06.png" alt="🎆" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts07.png" alt="🎉" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts08.png" alt="🎈" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts09.png" alt="👍" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts10.png" alt="💩" height="20" width="20">或<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts11.png" alt="❤️" height="20" width="20">到任何私人聊天，然後點擊動態表情符號以釋放全螢幕效果。
 
 如果您和您的聊天夥伴都開啟了聊天室，動畫和振動會同時在您的裝置上播放，因此即使您相距很遠，您也會感覺很近。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts03.gif" width="70%"></center>
