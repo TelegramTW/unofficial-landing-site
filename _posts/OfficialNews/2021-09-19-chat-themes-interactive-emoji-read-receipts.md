@@ -8,7 +8,7 @@ preview_image: /images/chat-themes-interactive-emoji-read-receipts01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts01.jpeg">
 <br>
-今天的更新讓您可以為個人聊天設定不同的主題，使用具有全螢幕效果的互動式表情符號與深愛的人分享您的感受，查看小群組中詳細的已讀者名單，以及對直播進行錄影和錄音。
+今天的更新讓您可以為個人聊天設定不同的主題，使用具有全螢幕效果的互動式表情符號與深愛的人分享您的感受，查看小群組中詳細的已讀成員名單，以及對直播進行錄影和錄音。
 
 ### 聊天室主題
 Telegram 有許多功能來組織您的聊天室並自訂其外觀，從聊天室分類到動態背景。在這次更新中，協調和裝飾與個人聊天的新主題一起出現。
