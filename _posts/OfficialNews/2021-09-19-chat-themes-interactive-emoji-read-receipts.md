@@ -44,7 +44,7 @@ Telegram 有許多功能來組織您的聊天室並自訂其外觀，從聊天�
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/chat-themes-interactive-emoji-read-receipts04.gif" width="70%"></center>
 <br>
 
->為保護用戶隱私，群組中的已讀取者的名單僅在訊息傳送後保存 7 天。記錄您所見過的一切不是 Telegram 的職責。
+>為保護用戶隱私，在訊息傳送後，已讀成員名單只會保存 7 天。記錄您所見過的一切不是 Telegram 的職責。
 
 ### 對直播和視訊聊天進行錄製
 Telegram 擁有**數百萬個社群**，可以為**無限的觀眾**創建即時活動 ( live events )。無論是千載難逢的音樂會還是日常代數課程，管理員現在都可以對**直播**和**視訊聊天**進行**錄製**，以便為那些錯過現場版的人發布。
