@@ -26,7 +26,7 @@ preview_image: /images/shared-media-scrolling01.jpeg
 >要檢視共享媒體，只需在任何聊天室中點擊螢幕頂端的標題並向下捲動即可。要開啟新選單，請點擊右上角 Android 版的  <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling12.png" alt="" height="20" width="5"> 或 iOS 版的  <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling13.png" alt="" height="20" width="20">。（譯者：Android 版須向下捲動頁面，直到共享媒體佔滿螢幕。iOS 版則是只要點擊「媒體」這個頁籤，它就會自動捲動頁面到定位。）
 
 ### 加入群組和頻道的申請
-透過邀請連結，您可以讓用戶有機會在自己的時間加入您的群組或頻道 — 無論您是私下分享連結，還是將其轉換為廣告牌上的 QR code，都由您決定。當您想要為聊天室建立**附加連結**（additional invite links）時，您會注意到，現在多了一個**審核新成員**的設定，這使管理員可以更好地控制誰可以加入和查看聊天室。
+透過邀請連結，您可以讓用戶有機會在自己的時間加入您的群組或頻道 — 無論您是私下分享連結，還是將其轉換為廣告牌上的 <a href="https://telegram.how/2021/02/23/autodelete-inv2">QR code</a>，都由您決定。當您想要為聊天室建立**附加連結**（additional invite links）時，您會注意到，現在多了一個**審核新成員**的設定，這使管理員可以更好地控制誰可以加入和查看聊天室。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling05.gif" width="70%"></center>
 <br>
 當用戶開啟一個須管理員批准才可加入的連結時，會看到一個按鈕，用於傳送**加入申請**（join request）給管理員，而管理員可以從聊天室頂端看見並管理。從其中，管理員可以檢視申請人公開的**大頭貼照**和**個人簡介**，然後批准或駁回他們的請求。
@@ -37,10 +37,10 @@ preview_image: /images/shared-media-scrolling01.jpeg
 管理員批准功能可以應用於**附加連結**中的**任何**連結 — 我們還增加了為所有這些連結提供**獨特名稱**的功能，因此您可以為它們加入標籤以便更好地組織。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling06.jpeg" width="70%"></center>
 <br>
->連結名稱將特別有用，如果您根據個別邀請連結其所設定的不同選項來命名，例如，有效期限、使用次數限制，及是否需要經過審核...。
+>連結名稱將特別有用，如果您根據個別邀請連結其所設定的不同選項來命名，例如，<a href="https://telegram.how/2021/02/23/autodelete-inv2">有效期限、使用次數限制</a>，及是否需要經過審核...。
 
 ### iOS 版的總體聊天室主題
-我們上一次的更新引進了8 個新主題，您可以為私聊設置這些主題 — 現在它們可用於 iOS 上的**整個應用程式**（Android 版即將推出）。外觀設定已**完全重新設計**，使這些主題成為焦點。透過 Telegram 團隊的努力，每個主題都有**日間**和**夜間模式**，以及色彩豐富的動態背景和漸層訊息氣泡。
+我們上一次的更新引進了 <a href="https://telegram.how/2021/09/19/chat-themes-interactive-emoji-read-receipts">8 個新主題</a>，您可以為私聊設置這些主題 — 現在它們可用於 iOS 上的**整個應用程式**（Android 版即將推出）。外觀設定已**完全重新設計**，使這些主題成為焦點。透過 Telegram 團隊的努力，每個主題都有**日間**和**夜間模式**，以及色彩豐富的動態背景和漸層訊息氣泡。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling07.gif" width="70%"></center>
 <br>
 與所有主題一樣，您可以**個性化**（personalize）這些設計並調整顏色或變更圖案。如需更多選項和自訂設置，請點擊「聊天室主題」以**編輯**和**分享**您的作品。
@@ -64,12 +64,12 @@ iOS 版中的設定已經過重新設計以符合 iOS 15 的風格，包括 <img
 >請記住，您裝置顯示的位置只是基於其 IP 位址。這數據並非總是準確的，因此如果您的筆電位置在新北市，請不要感到驚訝。
 
 ### 更多互動表情
-這次更新帶來了新的**互動式表情符號**。傳送單個<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling21.png" alt="👻" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling22.png" alt="👎" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling23.png" alt="🤮" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling24.png" alt="😂" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling25.png" alt="💸" height="20" width="20"> 或 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling26.png" alt="🎃" height="20" width="20"> 到任何**私聊**，然後點擊表情符號以釋放其**全螢幕效果**（full-screen effect）。
+這次更新帶來了新的**互動式表情符號**。傳送單個 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling21.png" alt="👻" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling22.png" alt="👎" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling23.png" alt="🤮" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling24.png" alt="😂" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling25.png" alt="💸" height="20" width="20"> 或 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling26.png" alt="🎃" height="20" width="20"> 到任何**私聊**，然後點擊表情符號以釋放其**全螢幕效果**（full-screen effect）。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling11.gif" width="70%"></center>
 <br>
 如果您的聊天對象也有開啟聊天室，**雙方同時**會看到特效及感覺到震動。
 
->正如您從我們之前的更新中了解到的，這種魔法也適用於 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling27.png" alt="🎆" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling28.png" alt="🎉" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling29.png" alt="🎈" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling30.png" alt="👍" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling31.png" alt="💩" height="20" width="20"> 和 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling32.png" alt="❤️" height="20" width="20">。
+>正如您從我們<a href="https://telegram.how/2021/09/19/chat-themes-interactive-emoji-read-receipts">前一次的更新</a>中了解到的，這種魔法也適用於 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling27.png" alt="🎆" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling28.png" alt="🎉" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling29.png" alt="🎈" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling30.png" alt="👍" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling31.png" alt="💩" height="20" width="20"> 和 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling32.png" alt="❤️" height="20" width="20">。
 
 冬天來了，但我們的下一個更新正在競相擊敗它。敬請關注！
 
