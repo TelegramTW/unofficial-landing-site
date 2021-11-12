@@ -23,7 +23,7 @@ preview_image: /images/shared-media-scrolling01.jpeg
 除了這個用於在過去和現在之間跳躍的新工具（月曆）之外，您現在還可以**過濾共享媒體**以顯示僅照片、影片或兩者。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling04.jpeg" width="70%"></center>
 <br>
->要檢視共享媒體，只需在任何聊天室中點擊螢幕頂端的標題並向下捲動即可。要開啟新選單，請點擊右上角 Android 版的 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling12.png" alt="" height="20" width="5"> 或 iOS 版的 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling13.png" alt="" height="20" width="20">。（譯者：Android 版須向下捲動頁面，直到共享媒體佔滿螢幕。iOS 版則是只要點擊「媒體」這個頁籤，它就會自動捲動頁面到定位。）
+>要檢視共享媒體，只需在任何聊天室中點擊螢幕頂端的標題並向下捲動即可。要開啟新選單，請點擊右上角 Android 版的  <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling12.png" alt="" height="20" width="5"> 或 iOS 版的  <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling13.png" alt="" height="20" width="20">。（譯者：Android 版須向下捲動頁面，直到共享媒體佔滿螢幕。iOS 版則是只要點擊「媒體」這個頁籤，它就會自動捲動頁面到定位。）
 
 ### 加入群組和頻道的申請
 透過邀請連結，您可以讓用戶有機會在自己的時間加入您的群組或頻道 — 無論您是私下分享連結，還是將其轉換為廣告牌上的 QR code，都由您決定。當您想要為聊天室建立**附加連結**（additional invite links）時，您會注意到，現在多了一個**審核新成員**的設定，這使管理員可以更好地控制誰可以加入和查看聊天室。
@@ -46,7 +46,7 @@ preview_image: /images/shared-media-scrolling01.jpeg
 與所有主題一樣，您可以**個性化**（personalize）這些設計並調整顏色或變更圖案。如需更多選項和自訂設置，請點擊「聊天室主題」以**編輯**和**分享**您的作品。
 
 ### iOS 版共享位置的到達所需時間
-您可以透過文字輸入欄左側附件選單 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling14.png" alt="" height="20" width="20"> 中的位置來傳送您的所在位置或您想要去的地方。點擊共享位置會拉出該地區的地圖 - 現在會向您顯示 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling15.png" alt="" height="20" width="10"> **步行**、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling16.png" alt="" height="20" width="20"> **開車**或 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling17.png" alt="" height="20" width="20"> **乘坐公車**到達那裡所需時間（譯者：在 Android 版中，目前須先進入地圖導航，才能知道到達所需時間。）。要查看**詳細路線**或乘坐計程車前往該位置，請點擊到達所需時間，以在您喜歡的應用程式（例如， Google Maps）中開啟它。
+您可以透過文字輸入欄左側附件選單 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling14.png" alt="" height="20" width="20"> 中的位置來傳送您的所在位置或您想要去的地方。點擊共享位置會拉出該地區的地圖 - 現在會向您顯示 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling15.png" alt="" height="20" width="15"> **步行**、<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling16.png" alt="" height="20" width="20"> **開車**或 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling17.png" alt="" height="20" width="20"> **乘坐公車**到達那裡所需時間（譯者：在 Android 版中，目前須先進入地圖導航，才能知道到達所需時間。）。要查看**詳細路線**或乘坐計程車前往該位置，請點擊到達所需時間，以在您喜歡的應用程式（例如， Google Maps）中開啟它。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling08.jpeg" width="70%"></center>
 <br>
 >顯示**靜態**和**即時位置**的到達所需時間 - 這樣您就可以了解與正在移動的朋友會面需要多長時間。
