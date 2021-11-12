@@ -64,12 +64,12 @@ iOS 版中的設定已經過重新設計以符合 iOS 15 的風格，包括 <img
 >請記住，您裝置顯示的位置只是基於其 IP 位址。這數據並非總是準確的，因此如果您的筆電位置在新北市，請不要感到驚訝。
 
 ### 更多互動表情
-這次更新帶來了新的**互動式表情符號**。傳送單個👻 👎 🤮 😂 💸或🎃到任何**私聊**，然後點擊表情符號以釋放其**全螢幕效果**（full-screen effect）。
+這次更新帶來了新的**互動式表情符號**。傳送單個<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling21.png" alt="👻" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling22.png" alt="👎" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling23.png" alt="🤮" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling24.png" alt="😂" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling25.png" alt="💸" height="20" width="20"> 或 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling26.png" alt="🎃" height="20" width="20"> 到任何**私聊**，然後點擊表情符號以釋放其**全螢幕效果**（full-screen effect）。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling11.gif" width="70%"></center>
 <br>
 如果您的聊天對象也有開啟聊天室，**雙方同時**會看到特效及感覺到震動。
 
->正如您從我們之前的更新中了解到的，這種魔法也適用於🎆 🎉 🎈 👍 💩和❤️。
+>正如您從我們之前的更新中了解到的，這種魔法也適用於 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling27.png" alt="🎆" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling28.png" alt="🎉" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling29.png" alt="🎈" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling30.png" alt="👍" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling31.png" alt="💩" height="20" width="20"> 和 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling32.png" alt="❤️" height="20" width="20">。
 
 冬天來了，但我們的下一個更新正在競相擊敗它。敬請關注！
 
