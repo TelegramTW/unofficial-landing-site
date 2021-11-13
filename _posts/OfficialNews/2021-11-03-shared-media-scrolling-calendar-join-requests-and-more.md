@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      共享媒體的超高速滾動和月曆檢視、加入申請、iOS 版的總體聊天室主題及其他
+title:      共享媒體的超高速捲動和月曆檢視、加入申請、iOS 版的總體聊天室主題及其他
 categories:
           - 官方新聞
 upstream:   https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more
@@ -8,10 +8,10 @@ preview_image: /images/shared-media-scrolling01.jpeg
 ---
 <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling01.jpeg">
 <br>
-今天的更新帶來了在共享媒體中尋找回憶的新方法，包括**高速滾動**和**月曆檢視**、邀請連結的管理員**審核新成員**設定、整個應用程式的**總體聊天室主題**，及其他。
+今天的更新帶來了在共享媒體中尋找回憶的新方法，包括**高速捲動**和**月曆檢視**、邀請連結的管理員**審核新成員**設定、整個應用程式的**總體聊天室主題**，及其他。
 
-### 共享媒體的超高速滾動
-每個 Telegram 用戶都擁有無限的雲端儲存空間 — 每個聊天室都有一個**共享媒體**頁面，顯示已傳送到那裡的所有**照片**、**影片**、**檔案**和**音樂**。我們在頁面的一側新增了一個**日期橫條**（date bar），同時您可以上下拉動以更快地滾動瀏覽共享媒體。
+### 共享媒體的超高速捲動
+每個 Telegram 用戶都擁有無限的雲端儲存空間 — 每個聊天室都有一個**共享媒體**頁面，顯示已傳送到那裡的所有**照片**、**影片**、**檔案**和**音樂**。我們在頁面的一側新增了一個**日期橫條**（date bar），您可以透過按住它並上下移動以更快速地捲動頁面及檢視共享媒體。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/shared-media-scrolling02.gif" width="70%"></center>
 <br>
 為了更容易觀看，用手勢捏合以放大和縮小（pinch to zoom in and out），這樣您就可以看到任何地方，從 2 個大縮圖到每行幾十個小方塊的縮圖。
