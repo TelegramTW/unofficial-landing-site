@@ -32,3 +32,5 @@ Telegram 中的贊助商訊息會顯示在擁有 1000 位以上訂閱者的**大
 
 ### 入門
 Telegram 歡迎所有負責任的刊登廣告者。任何人都可以研究 Telegram 的<a href="https://promote.telegram.org/guidelines">廣告政策和指南</a>，在廣告平台上**建立一個帳戶**並**試用介面**。有關平台的詳細概述，請參閱<a href="https://promote.telegram.org/getting-started">這個指南</a>。
+
+Telegram 廣告平台：https://promote.telegram.org/
