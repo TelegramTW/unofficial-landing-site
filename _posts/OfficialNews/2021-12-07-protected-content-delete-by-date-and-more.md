@@ -72,7 +72,7 @@ Telegram 用戶可以完全控制他們的數位足跡，且可以隨時從對�
 一點**粗體**或*斜體*可以恰到好處地強調訊息的重點，現在您可以在媒體說明文字中使用**所有文字格式選項** — 包括文字連結。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/protected-content-delete-by-date-and-more10.gif" width="70%"></center>
 <br>
-在您問為什麼 Android 版沒有獲得此功能之前 - 這是因為 Android 版已經有此功能了。 😉
+在您問為什麼 Android 版沒有獲得此功能之前 - 這是因為 Android 版已經有此功能了。<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/protected-content-delete-by-date-and-more12.png" alt="" height="20" width="20">
 
 ### 在 iOS 版上重新設計的聯絡資訊
 聯絡人、群組和頻道更新了**資訊頁面**，採用 **iOS 15** 風格的新外觀。
