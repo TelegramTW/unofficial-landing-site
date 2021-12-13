@@ -75,7 +75,7 @@ Telegram 用戶可以完全控制他們的數位足跡，且可以隨時從對�
 在您問為什麼 Android 版沒有獲得此功能之前 - 這是因為 Android 版已經有此功能了。<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/protected-content-delete-by-date-and-more12.png" alt="" height="20" width="20">
 
 ### iOS 版上，重新設計的資訊頁
-聯絡人、群組和頻道更新了**資訊頁**，採用 **iOS 15** 風格的新外觀。
+更新了聯絡人、群組和頻道中的**資訊頁**，採用 **iOS 15** 風格的新外觀。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/protected-content-delete-by-date-and-more11.jpeg" width="70%"></center>
 <br>
 目前就這樣。讓我們努力看看今年還能為您建造多少功能。
