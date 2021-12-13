@@ -42,7 +42,7 @@ Telegram 用戶可以完全控制他們的數位足跡，且可以隨時從對�
 
 >以您的頻道身分發言時，您也會在您的訊息氣泡頂部看到該頻道名稱。
 
-### 透過打電話登入的新方法
+### 登入的新方法：透過 Telegram 打來的電話
 從今天開始，一些行動裝置將可以選擇接收來自 Telegram 的**登入電話**，然後輸入**來電號碼**中的幾個數字 — 取代透過簡訊獲取驗證碼。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/protected-content-delete-by-date-and-more06.gif" width="70%"></center>
 <br>
