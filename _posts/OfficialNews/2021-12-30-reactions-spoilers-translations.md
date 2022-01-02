@@ -14,11 +14,11 @@ Telegram 今年的第 12 次更新引進了**表情符號反應**、**訊息翻�
 Telegram 是第一個加入動態且互動式的表情符號之通訊軟體，為用戶提供了無可比擬的聊天方式來表達自己。今天，一些表情符號變為可用的**反應**以分享個人的感受 - 但不需要傳送任何訊息。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations02.gif" width="70%"></center>
 <br>
-**雙擊**一則訊息以傳送快速反應👍。如需**更多反應**，如😁 🎉 😱 🔥 👎，請在訊息上點擊一次（或長按，如果在 iOS 版上）。每個反應都以自己**獨特的動畫**出現。
+**雙擊**一則訊息以傳送快速反應<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations08.png" alt="👍" height="20" width="20">。如需**更多反應**，如<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations09.png" alt="😁" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations10.png" alt="🎉" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations11.png" alt="😱" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations12.png" alt="🔥" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations13.png" alt="👎" height="20" width="20">，請在訊息上點擊一次（或長按，如果在 iOS 版上）。每個反應都以自己**獨特的動畫**出現。
 
 >您可以在「設定」中將預設的快速反應變更為其他的表情符號。**Android 版**：聊天室設定 > 快速反應。**iOS 版**：貼圖和表情符號 > 快速反應。
 
-在**私聊**中總是可以使用反應。在**群組和頻道**中，則是由管理員決定是否**開啟**反應的功能及選擇聊天室中**哪些表情符號反應**可用。這讓我們可以收集到多種不同的意見回饋 — 從簡單的喜歡❤️到贊成👍和反對👎等等。
+在**私聊**中總是可以使用反應。在**群組和頻道**中，則是由管理員決定是否**開啟**反應的功能及選擇聊天室中**哪些表情符號反應**可用。這讓我們可以收集到多種不同的意見回饋 — 從簡單的喜歡<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations14.png" alt="❤️" height="20" width="20">到贊成<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations08.png" alt="👍" height="20" width="20">和反對<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations13.png" alt="👎" height="20" width="20">等等。
 
 >管理員可以透過其群組或頻道的**資訊頁** > **編輯** > **表情符號反應**來調整反應的功能。如需更多意見回饋的選項，請嘗試**頻道留言**和我們強大的**投票**功能。
 
@@ -49,10 +49,10 @@ Telegram 是第一個加入動態且互動式的表情符號之通訊軟體，�
 <br>
 
 ### 更多互動表情
-我們的動畫師還增加了新的**互動式版本**的🔥 😁 🤩 😢 😭 😱 ❄️。在**一對一聊天**中傳送他們中的任何一個，然後點擊它，為您和您的聊天對象釋放全螢幕效果。
+我們的動畫師還增加了新的**互動式版本**的<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations12.png" alt="🔥" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations09.png" alt="😁" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations15.png" alt="🤩" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations16.png" alt="😢" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations17.png" alt="😭" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations11.png" alt="😱" height="20" width="20"> <img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations18.png" alt="❄️" height="20" width="20">。在**一對一聊天**中傳送他們中的任何一個，然後點擊它，為您和您的聊天對象釋放全螢幕效果。
 <center><img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations07.gif" width="70%"></center>
 <br>
-感謝大家的支持，這真是令人不可思議的一年。而這一切都是為了讓 **2022 年**更加精彩。🎉
+感謝大家的支持，這真是令人不可思議的一年。而這一切都是為了讓 **2022 年**更加精彩。<img alt="" src="{{ site.baseurl | prepend: site.url }}/images/reactions-spoilers-translations10.png" alt="🎉" height="20" width="20">
 
 
 *2021 年 12 月 30 日*<br>
